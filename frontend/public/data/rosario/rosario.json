@@ -40,6 +40,10 @@
       "titulo": "Gloria",
       "texto": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén."
     },
+    "maria-madre-gracia": {
+      "titulo": "María, Madre de Gracia",
+      "texto": "María, Madre de gracia, Madre de misericordia, defiéndenos del enemigo y ampáranos ahora y en la hora de nuestra muerte. Amén."
+    },
     "fatima": {
       "titulo": "Oración de Fátima",
       "texto": "Oh Jesús mío, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia."
@@ -52,17 +56,17 @@
     },
     "avemaria-fe": {
       "titulo": "Ave María (Fe)",
-      "texto": "Dios te salve María, Hija de Dios Padre, en tus manos encomendamos nuestra fe para que la ilumines, llena eres de gracia…",
+      "texto": "Dios te salve María, Hija de Dios Padre, en tus manos encomendamos nuestra fe para que la ilumines, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.",
       "role": "guia"
     },
     "avemaria-esperanza": {
       "titulo": "Ave María (Esperanza)",
-      "texto": "Dios te salve María, Madre de Dios Hijo, en tus manos encomendamos nuestra esperanza para que la alientes, llena eres de gracia…",
+      "texto": "Dios te salve María, Madre de Dios Hijo, en tus manos encomendamos nuestra esperanza para que la alientes, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.",
       "role": "guia"
     },
     "avemaria-caridad": {
       "titulo": "Ave María (Caridad)",
-      "texto": "Dios te salve María, Esposa de Dios Espíritu Santo, en tus manos encomendamos nuestra caridad para que la inflames, llena eres de gracia…",
+      "texto": "Dios te salve María, Esposa de Dios Espíritu Santo, en tus manos encomendamos nuestra caridad para que la inflames, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.",
       "role": "guia"
     },
     "avemaria-trinidad": {
