@@ -21,7 +21,6 @@ const RESOURCES: Resource[] = [
     titulo: "Visitas al Santísimo",
     descripcion: "31 visitas de San Alfonso María de Ligorio.",
     icon: <LuChurch size={28} />,
-    disabled: true,
   },
   {
     slug: "rosario",
