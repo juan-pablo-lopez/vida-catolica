@@ -1,7 +1,9 @@
 import { useNavigate, useLocation } from "react-router-dom";
-import { Fragment, useState } from "react";
-import { LuArrowLeft, LuInfo, LuLink, LuQrCode, LuX } from "react-icons/lu";
-import { QRCodeSVG } from "qrcode.react";
+import { Fragment } from "react";
+import { LuArrowLeft } from "react-icons/lu";
+import CopyLinkButton from "../../shared/CopyLinkButton";
+import QrCodeButton from "../../shared/QrCodeButton";
+import InfoButton from "../../shared/InfoButton";
 
 type VerseCardProps = {
   libro: string;
@@ -13,24 +15,7 @@ type VerseCardProps = {
 
 export default function VerseCard({ libro, capitulo, verses, subtitulos, prologos }: VerseCardProps) {
   const navigate = useNavigate();
-  const [copied, setCopied] = useState(false);
-  const [showQrCode, setShowQrCode] = useState(false);
   const queryString = useLocation().search.replace("?", "");
-  console.log("Query String:", queryString);
-
-  const getShareUrl = () => {
-    let url = window.location.href;
-    if (url.includes("localhost")) {
-      url = url.replace(/http:\/\/localhost:\d+/, "https://juan-pablo-lopez.github.io");
-    }
-    return url;
-  };
-
-  const copyLink = async () => {
-    await navigator.clipboard.writeText(window.location.href);
-    setCopied(true);
-    setTimeout(() => setCopied(false), 2000);
-  };
 
   return (
     <div className="card-container">
@@ -72,58 +57,14 @@ export default function VerseCard({ libro, capitulo, verses, subtitulos, prologo
           >
             <LuArrowLeft size={20} />
           </button>
-
-          <button
-            type="button"
-            className="icon-button"
-            onClick={copyLink}
-            title={copied ? "Copiado" : "Copiar enlace"}
-          >
-            <LuLink size={20} />
-          </button>
-          <button
-            type="button"
-            className="icon-button"
-            onClick={() => setShowQrCode(true)}
-            title="Generar código QR"
-          >
-            <LuQrCode size={18} />
-          </button>
+          <CopyLinkButton />
+          <QrCodeButton title={`${libro} ${capitulo}:${queryString}`} />
         </div>
-        <button
-          type="button"
-          className="icon-button info-button"
+        <InfoButton
+          url="https://labiblialatinoamerica.com/"
           title="Fuente: La Biblia Latinoamérica"
-          onClick={() =>
-            window.open(
-              "https://labiblialatinoamerica.com/",
-              "_blank",
-              "noopener,noreferrer"
-            )
-          }
-        >
-          <LuInfo size={18} />
-        </button>
+        />
       </div>
-
-      {showQrCode && (
-        <div className="qr-overlay" onClick={() => setShowQrCode(false)}>
-          <div className="qr-modal" onClick={(e) => e.stopPropagation()}>
-            <button
-              type="button"
-              className="qr-close-button"
-              onClick={() => setShowQrCode(false)}
-              title="Cerrar"
-            >
-              <LuX size={24} />
-            </button>
-            <div className="qr-content">
-              <h3>{libro} {capitulo}:{queryString}</h3>
-              <QRCodeSVG value={getShareUrl()} size={300} level="H" title="getShareUrl()" />
-            </div>
-          </div>
-        </div>
-      )}
     </div>
   );
 }

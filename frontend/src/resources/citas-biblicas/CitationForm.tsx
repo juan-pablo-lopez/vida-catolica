@@ -1,6 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import { LuBookOpen, LuInfo } from "react-icons/lu";
+import { LuBookOpen } from "react-icons/lu";
+import InfoButton from "../../shared/InfoButton";
 
 type BookIndexEntry = {
   libro: string;
@@ -117,20 +118,10 @@ export default function CitationForm() {
           <span>Leer</span>
         </button>
 
-        <button
-          type="button"
-          className="icon-button info-button"
+        <InfoButton
+          url="https://labiblialatinoamerica.com/"
           title="Fuente: La Biblia Latinoamérica"
-          onClick={() =>
-            window.open(
-              "https://labiblialatinoamerica.com/",
-              "_blank",
-              "noopener,noreferrer"
-            )
-          }
-        >
-          <LuInfo size={18} />
-        </button>
+        />
       </form>
     </div>
   );
