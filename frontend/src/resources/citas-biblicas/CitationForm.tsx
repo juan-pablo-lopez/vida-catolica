@@ -2,6 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { LuBookOpen } from "react-icons/lu";
 import InfoButton from "../../shared/InfoButton";
+import BackToLauncherButton from "../../shared/BackToLauncherButton";
 
 type BookIndexEntry = {
   libro: string;
@@ -113,10 +114,13 @@ export default function CitationForm() {
           />
         </label>
 
-        <button type="submit" className="primary-button">
-          <LuBookOpen size={18} />
-          <span>Leer</span>
-        </button>
+        <div className="form-actions">
+          <BackToLauncherButton />
+          <button type="submit" className="primary-button">
+            <LuBookOpen size={18} />
+            <span>Leer</span>
+          </button>
+        </div>
 
         <InfoButton
           url="https://labiblialatinoamerica.com/"
