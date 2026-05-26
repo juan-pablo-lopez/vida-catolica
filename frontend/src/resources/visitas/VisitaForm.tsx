@@ -8,6 +8,8 @@ import {
   writeAnchor,
   todayIsoDate,
   computeVisitaDeHoy,
+  formatFechaLarga,
+  type VisitaHoyResult,
 } from "./visitaAnchor";
 
 const TOTAL_VISITAS = 31;
@@ -18,6 +20,9 @@ export default function VisitaForm() {
   const [visitaAncla, setVisitaAncla] = useState<number>(1);
   const [fechaAncla, setFechaAncla] = useState<string>(todayIsoDate());
   const [hasAnchor, setHasAnchor] = useState<boolean>(false);
+  const [sinVisita, setSinVisita] = useState<
+    Exclude<VisitaHoyResult, { estado: "ok" }> | null
+  >(null);
 
   useEffect(() => {
     const anchor = readAnchor();
@@ -28,21 +33,67 @@ export default function VisitaForm() {
     }
   }, []);
 
+  const resolveVisita = (result: VisitaHoyResult) => {
+    if (result.estado === "ok") {
+      navigate(`/visitas/${result.dia}`);
+    } else {
+      setSinVisita(result);
+    }
+  };
+
   const submit = (e: React.FormEvent) => {
     e.preventDefault();
     const anchor = { visitaAncla, fechaAncla };
     writeAnchor(anchor);
     setHasAnchor(true);
-    const dia = computeVisitaDeHoy(anchor);
-    navigate(`/visitas/${dia}`);
+    resolveVisita(computeVisitaDeHoy(anchor));
   };
 
   const handleVisitaDeHoy = () => {
     const anchor = readAnchor();
     if (!anchor) return;
-    const dia = computeVisitaDeHoy(anchor);
-    navigate(`/visitas/${dia}`);
+    resolveVisita(computeVisitaDeHoy(anchor));
   };
+
+  if (sinVisita) {
+    return (
+      <div className="card-container">
+        <div className="verse-card">
+          <h1>Visitas al Santísimo</h1>
+          <p className="sin-visita-mensaje">No hay visita para hoy.</p>
+          {sinVisita.estado === "terminada" ? (
+            <p className="sin-visita-detalle">
+              La serie de 31 visitas ya terminó. Programa una nueva serie para
+              continuar.
+            </p>
+          ) : (
+            <p className="sin-visita-detalle">
+              La primera visita será el {formatFechaLarga(sinVisita.fechaPrimera)}{" "}
+              (faltan {sinVisita.diasFaltantes}{" "}
+              {sinVisita.diasFaltantes === 1 ? "día" : "días"}).
+            </p>
+          )}
+
+          <div className="form-actions">
+            <BackToLauncherButton />
+            <button
+              type="button"
+              className="primary-button"
+              onClick={() => setSinVisita(null)}
+            >
+              <LuCalendar size={18} />
+              <span>Programar nueva serie</span>
+            </button>
+          </div>
+
+          <InfoButton
+            url="https://es.wikipedia.org/wiki/Alfonso_Mar%C3%ADa_de_Ligorio"
+            title="Fuente: San Alfonso María de Ligorio"
+          />
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="card-container">

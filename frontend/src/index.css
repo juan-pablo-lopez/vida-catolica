@@ -323,6 +323,19 @@ input {
   color: #61728c;
 }
 
+.sin-visita-mensaje {
+  margin: 1.25rem 0 0.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+.sin-visita-detalle {
+  margin: 0;
+  line-height: 1.55;
+  color: #3a4a5c;
+}
+
 .qr-overlay {
   position: fixed;
   top: 0;
