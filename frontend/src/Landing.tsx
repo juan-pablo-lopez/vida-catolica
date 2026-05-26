@@ -25,9 +25,8 @@ const RESOURCES: Resource[] = [
   {
     slug: "rosario",
     titulo: "Rosario",
-    descripcion: "Próximamente.",
+    descripcion: "Misterios del día con guía completa.",
     icon: <LuLasso size={28} />,
-    disabled: true,
   },
 ];
 

@@ -496,3 +496,172 @@ input {
   font-size: 0.85rem;
   color: #61728c;
 }
+
+/* Rosario */
+.mystery-selector {
+  display: flex;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.mystery-chip {
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(30, 58, 95, 0.25);
+  background: white;
+  font-size: 0.8rem;
+  color: #1e3a5f;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.mystery-chip:hover {
+  background-color: rgba(30, 58, 95, 0.06);
+}
+
+.mystery-chip.is-active {
+  background-color: #3b6ea8;
+  color: white;
+  border-color: #3b6ea8;
+}
+
+.mystery-chip.is-today:not(.is-active) {
+  border-color: #3b6ea8;
+  font-weight: 600;
+}
+
+.prayer-block {
+  margin-bottom: 0.85rem;
+}
+
+.prayer-block:last-child {
+  margin-bottom: 0;
+}
+
+.prayer-block h4 {
+  margin: 0 0 0.3rem 0;
+  color: #3b6ea8;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.prayer-block p {
+  line-height: 1.55;
+  margin: 0 0 0.4rem 0;
+}
+
+.prayer-inline {
+  font-size: 0.95rem;
+}
+
+.role-label {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #3b6ea8;
+  letter-spacing: 0.05em;
+  margin-right: 0.3rem;
+}
+
+.antifona-line {
+  margin-bottom: 0.5rem;
+}
+
+.antifona-line:last-child {
+  margin-bottom: 0;
+}
+
+.ave-maria-hint {
+  margin: 0.5rem 0 0.3rem 0 !important;
+  font-size: 0.78rem;
+  color: #61728c;
+  font-style: italic;
+}
+
+.rosary-beads {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.5rem 0;
+  position: relative;
+  flex-wrap: wrap;
+}
+
+.rosary-beads::before {
+  content: "";
+  position: absolute;
+  left: 0.6rem;
+  right: 0.6rem;
+  top: 50%;
+  height: 1px;
+  background: #c4d1e3;
+  z-index: 0;
+}
+
+.bead {
+  position: relative;
+  z-index: 1;
+  width: 18px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1.5px solid #3b6ea8;
+  background: white;
+  cursor: pointer;
+  padding: 0;
+  transition: background-color 0.12s ease, transform 0.1s ease;
+}
+
+.bead:hover {
+  background: rgba(59, 110, 168, 0.15);
+}
+
+.bead[aria-pressed="true"] {
+  background: #3b6ea8;
+}
+
+.bead:active {
+  transform: scale(0.92);
+}
+
+.bead:focus-visible {
+  outline: 2px solid rgba(59, 110, 168, 0.4);
+  outline-offset: 2px;
+}
+
+.letania-lista {
+  list-style: none;
+  padding: 0;
+  margin: 0.35rem 0 0.5rem 0;
+}
+
+.letania-lista li {
+  padding: 0.15rem 0;
+  line-height: 1.45;
+}
+
+.letania-respuesta {
+  margin: 0.6rem 0 0.2rem 0 !important;
+  font-size: 0.78rem;
+  color: #61728c;
+}
+
+.letania-grupo {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.letania-cordero {
+  margin-top: 0.75rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed #eef2f6;
+}
+
+.letania-cordero p {
+  margin: 0 0 0.3rem 0;
+  line-height: 1.45;
+}
