@@ -35,8 +35,17 @@ export default function Landing() {
   return (
     <div className="card-container">
       <div className="verse-card">
-        <h1>Vida Católica</h1>
-        <p className="landing-subtitle">Recursos para la oración y la lectura</p>
+        <div className="launcher-header">
+          <img
+            src={`${import.meta.env.BASE_URL}vida-catolica.svg`}
+            alt=""
+            className="launcher-logo"
+          />
+          <div className="launcher-titles">
+            <h1>Vida Católica</h1>
+            <p className="landing-subtitle">Recursos para la oración y la lectura</p>
+          </div>
+        </div>
 
         <ul className="resource-list">
           {RESOURCES.map((r) => {
