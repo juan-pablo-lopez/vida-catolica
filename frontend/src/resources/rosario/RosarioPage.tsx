@@ -215,7 +215,7 @@ export default function RosarioPage() {
     <div className="card-container">
       <div className="detail-card is-tall">
         <div className="card-header">
-          <h1>Rosario</h1>
+          <h1>Santo Rosario</h1>
           <h2>{misterio.titulo}</h2>
           <MysterySelector
             misterios={data.misterios}
@@ -275,7 +275,7 @@ export default function RosarioPage() {
           <div className="card-actions">
             <BackToLauncherButton />
             <CopyLinkButton />
-            <QrCodeButton title={`Rosario · ${misterio.titulo}`} />
+            <QrCodeButton title={`Santo Rosario · ${misterio.titulo}`} />
           </div>
           <InfoButton
             url="https://www.es.catholic.net/op/articulos/13325/el-santo-rosario"
