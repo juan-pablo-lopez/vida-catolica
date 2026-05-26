@@ -1,0 +1,232 @@
+{
+  "oraciones": {
+    "senal-cruz": {
+      "titulo": "Señal de la Cruz",
+      "texto": "Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor Dios nuestro. En el nombre del Padre, del Hijo y del Espíritu Santo.",
+      "role": "todos"
+    },
+    "abre-labios": {
+      "titulo": "Apertura",
+      "texto": "Abre Señor mis labios, para alabar tu nombre y el de Tu Santa Madre.",
+      "role": "todos"
+    },
+    "contricion": {
+      "titulo": "Acto de Contrición",
+      "texto": "Señor mío, Jesucristo, Dios y hombre verdadero, Creador y redentor mío, por ser tú quien eres y porque te amo sobre todas las cosas, me pesa de todo corazón haberte ofendido. Quiero y propongo firmemente confesarme a su tiempo. Ofrezco mi vida, obras y trabajos en satisfacción de mis pecados. Y confío en que en tu bondad y misericordia infinita, me los perdonarás y me darás la gracia para no volverte a ofender. Amén.",
+      "role": "todos"
+    },
+    "espiritu-santo": {
+      "titulo": "Invocación al Espíritu Santo",
+      "antifona": [
+        { "guia": "Ven Espíritu Santo, llena los corazones de tus fieles", "comunidad": "Y enciende en ellos el fuego de tu amor." },
+        { "guia": "Envía tu Espíritu Creador", "comunidad": "Y renueva la faz de la tierra." },
+        { "guia": "Oh Dios, que has iluminado los corazones de tus hijos con la luz del Espíritu Santo, haznos dóciles a sus inspiraciones para gustar siempre del bien y gozar de su consuelo. Por Jesucristo nuestro Señor. Amén." }
+      ]
+    },
+    "ofrecimiento": {
+      "titulo": "Ofrecimiento",
+      "texto": "Ofrecemos este rosario por [ … ]",
+      "role": "guia"
+    },
+    "padrenuestro": {
+      "titulo": "Padre Nuestro",
+      "texto": "Padre nuestro, que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén."
+    },
+    "avemaria": {
+      "titulo": "Ave María",
+      "texto": "Dios te salve María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén."
+    },
+    "gloria": {
+      "titulo": "Gloria",
+      "texto": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén."
+    },
+    "maria-madre-gracia": {
+      "titulo": "María, Madre de Gracia",
+      "texto": "María, Madre de gracia, Madre de misericordia, defiéndenos del enemigo y ampáranos ahora y en la hora de nuestra muerte. Amén."
+    },
+    "fatima": {
+      "titulo": "Oración de Fátima",
+      "texto": "Oh Jesús mío, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia."
+    },
+    "intenciones-papa": {
+      "titulo": "Por las intenciones del Santo Padre",
+      "intro": "Por las intenciones del Santo Padre, rezaremos un Padre Nuestro, un Avemaría y un Gloria.",
+      "role_intro": "guia",
+      "rezos": ["padrenuestro", "avemaria", "gloria"]
+    },
+    "avemaria-fe": {
+      "titulo": "Ave María (Fe)",
+      "texto": "Dios te salve María, Hija de Dios Padre, en tus manos encomendamos nuestra fe para que la ilumines, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.",
+      "role": "guia"
+    },
+    "avemaria-esperanza": {
+      "titulo": "Ave María (Esperanza)",
+      "texto": "Dios te salve María, Madre de Dios Hijo, en tus manos encomendamos nuestra esperanza para que la alientes, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.",
+      "role": "guia"
+    },
+    "avemaria-caridad": {
+      "titulo": "Ave María (Caridad)",
+      "texto": "Dios te salve María, Esposa de Dios Espíritu Santo, en tus manos encomendamos nuestra caridad para que la inflames, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.",
+      "role": "guia"
+    },
+    "avemaria-trinidad": {
+      "titulo": "Ave María a la Trinidad",
+      "texto": "Dios te salve María, Templo, Trono y Sagrario de la Santísima Trinidad, Virgen concebida sin culpa original.",
+      "role": "guia"
+    },
+    "salve": {
+      "titulo": "Salve",
+      "texto": "Dios te salve Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve. A ti llamamos los desterrados hijos de Eva; a ti suspiramos, gimiendo y llorando en este valle de lágrimas. ¡Ea pues!, Señora y abogada nuestra: vuelve a nosotros esos tus ojos misericordiosos, y después de este destierro, muéstranos a Jesús: fruto bendito de tu vientre. ¡Oh clemente, oh piadosa, oh dulce Virgen María! Ruega por nosotros Santa Madre de Dios, para que seamos dignos de alcanzar las divinas gracias y promesas de nuestro Señor Jesucristo. Amén.",
+      "role": "todos"
+    },
+    "oracion-final": {
+      "titulo": "Oración final",
+      "texto": "Oremos. Te rogamos, Señor, que nos concedas a nosotros tus siervos, gozar de perpetua salud de alma y cuerpo y, por la gloriosa intercesión de la bienaventurada Virgen María, seamos librados de la tristeza presente y disfrutemos de la eterna alegría. Por Jesucristo nuestro Señor. Amén.",
+      "role": "guia"
+    },
+    "san-miguel": {
+      "titulo": "Oración a San Miguel Arcángel",
+      "texto": "San Miguel Arcángel, defiéndenos en la lucha. Sé nuestro amparo contra las perversidades y asechanzas del demonio. Que Dios manifieste sobre él su poder, es nuestra humilde súplica. Y tú, oh Príncipe de la Milicia Celestial, con el poder que Dios te ha conferido, arroja al infierno a Satanás, y a los demás espíritus malignos que vagan por el mundo para la perdición de las almas. Amén."
+    },
+    "dulce-madre": {
+      "titulo": "Dulce Madre",
+      "texto": "Dulce madre, no te alejes, tu vista de nosotros no apartes, ven con nosotros a todas partes y solos nunca nos dejes. Ya que nos proteges tanto como verdadera madre, haz que nos bendiga el Padre, el Hijo, y el Espíritu Santo, amén."
+    }
+  },
+  "letanias": {
+    "titulo": "Letanías Lauretanas",
+    "kyrie": [
+      "Señor ten piedad de nosotros",
+      "Cristo ten piedad de nosotros",
+      "Señor ten piedad de nosotros",
+      "Cristo óyenos",
+      "Cristo escúchanos"
+    ],
+    "trinidad": {
+      "respuesta": "ten piedad de nosotros",
+      "invocaciones": [
+        "Dios Padre celestial",
+        "Dios Hijo redentor del mundo",
+        "Dios Espíritu Santo",
+        "Santísima Trinidad que eres un solo Dios"
+      ]
+    },
+    "marianas": {
+      "respuesta": "ruega por nosotros",
+      "grupos": [
+        [
+          "Santa María",
+          "Santa Madre de Dios",
+          "Santa Virgen de las vírgenes"
+        ],
+        [
+          "Madre de Cristo",
+          "Madre de la Iglesia",
+          "Madre de la divina gracia",
+          "Madre purísima",
+          "Madre castísima",
+          "Madre virginal",
+          "Madre inmaculada",
+          "Madre amable",
+          "Madre admirable",
+          "Madre del buen consejo",
+          "Madre del Creador",
+          "Madre del Salvador"
+        ],
+        [
+          "Virgen prudentísima",
+          "Virgen digna de veneración",
+          "Virgen digna de alabanza",
+          "Virgen poderosa",
+          "Virgen clemente",
+          "Virgen fiel"
+        ],
+        [
+          "Espejo de justicia",
+          "Trono de la sabiduría",
+          "Causa de nuestra alegría",
+          "Vaso espiritual",
+          "Vaso digno de honor",
+          "Vaso insigne de devoción",
+          "Rosa mística",
+          "Torre de David",
+          "Torre de marfil",
+          "Casa de oro",
+          "Arca de la alianza",
+          "Puerta del cielo",
+          "Estrella de la mañana",
+          "Salud de los enfermos",
+          "Refugio de los pecadores",
+          "Consuelo de los afligidos",
+          "Auxilio de los cristianos"
+        ],
+        [
+          "Reina de los ángeles",
+          "Reina de los patriarcas",
+          "Reina de los profetas",
+          "Reina de los apóstoles",
+          "Reina de los mártires",
+          "Reina de los confesores",
+          "Reina de las vírgenes",
+          "Reina de todos los santos",
+          "Reina concebida sin pecado original",
+          "Reina elevada al cielo",
+          "Reina del santísimo rosario",
+          "Reina de las familias",
+          "Reina de la paz"
+        ]
+      ]
+    },
+    "cordero": [
+      { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "perdónanos, Señor" },
+      { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "escúchanos, Señor" },
+      { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "ten piedad de nosotros" }
+    ]
+  },
+  "misterios": {
+    "gozosos": {
+      "titulo": "Misterios Gozosos",
+      "dias": [1, 6],
+      "decenas": [
+        "La encarnación del hijo de Dios",
+        "La visitación de Nuestra Señora a su prima Santa Isabel",
+        "El nacimiento del hijo de Dios en el portal de Belén",
+        "La presentación de Jesús en el templo",
+        "El niño Jesús perdido y hallado en el templo"
+      ]
+    },
+    "dolorosos": {
+      "titulo": "Misterios Dolorosos",
+      "dias": [2, 5],
+      "decenas": [
+        "La oración en el huerto",
+        "La flagelación de Jesús",
+        "La coronación de espinas",
+        "Jesús con la cruz a cuestas camino del Calvario",
+        "La crucifixión y muerte de Jesús"
+      ]
+    },
+    "gloriosos": {
+      "titulo": "Misterios Gloriosos",
+      "dias": [0, 3],
+      "decenas": [
+        "La resurrección del hijo de Dios",
+        "La ascensión de Jesús al cielo",
+        "La venida del Espíritu Santo",
+        "La asunción de María al cielo",
+        "La coronación de María como reina y señora de todo lo creado"
+      ]
+    },
+    "luminosos": {
+      "titulo": "Misterios Luminosos",
+      "dias": [4],
+      "decenas": [
+        "El bautismo de Jesús en el Jordán",
+        "Las bodas de Caná",
+        "El anuncio del Reino de Dios",
+        "La transfiguración",
+        "La institución de la Eucaristía"
+      ]
+    }
+  }
+}
