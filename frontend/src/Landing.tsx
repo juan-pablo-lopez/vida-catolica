@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { LuBookOpen, LuChurch, LuCircleDot } from "react-icons/lu";
+import { LuBookOpen, LuChurch, LuLasso } from "react-icons/lu";
 
 type Resource = {
   slug: string;
@@ -26,7 +26,7 @@ const RESOURCES: Resource[] = [
     slug: "rosario",
     titulo: "Rosario",
     descripcion: "Próximamente.",
-    icon: <LuCircleDot size={28} />,
+    icon: <LuLasso size={28} />,
     disabled: true,
   },
 ];
