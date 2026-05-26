@@ -1,0 +1,367 @@
+[
+  {
+    "libro": "Génesis",
+    "slug": "genesis",
+    "capitulos": 50
+  },
+  {
+    "libro": "Éxodo",
+    "slug": "exodo",
+    "capitulos": 40
+  },
+  {
+    "libro": "Levítico",
+    "slug": "levitico",
+    "capitulos": 27
+  },
+  {
+    "libro": "Números",
+    "slug": "numeros",
+    "capitulos": 36
+  },
+  {
+    "libro": "Deuteronomio",
+    "slug": "deuteronomio",
+    "capitulos": 34
+  },
+  {
+    "libro": "Josué",
+    "slug": "josue",
+    "capitulos": 24
+  },
+  {
+    "libro": "Jueces",
+    "slug": "jueces",
+    "capitulos": 21
+  },
+  {
+    "libro": "1 Samuel",
+    "slug": "1-samuel",
+    "capitulos": 31
+  },
+  {
+    "libro": "2 Samuel",
+    "slug": "2-samuel",
+    "capitulos": 24
+  },
+  {
+    "libro": "1 Reyes",
+    "slug": "1-reyes",
+    "capitulos": 22
+  },
+  {
+    "libro": "2 Reyes",
+    "slug": "2-reyes",
+    "capitulos": 25
+  },
+  {
+    "libro": "1 Crónicas",
+    "slug": "1-cronicas",
+    "capitulos": 29
+  },
+  {
+    "libro": "2 Crónicas",
+    "slug": "2-cronicas",
+    "capitulos": 36
+  },
+  {
+    "libro": "Esdrás",
+    "slug": "esdras",
+    "capitulos": 10
+  },
+  {
+    "libro": "Nehemías",
+    "slug": "nehemias",
+    "capitulos": 13
+  },
+  {
+    "libro": "1 Macabeos",
+    "slug": "1-macabeos",
+    "capitulos": 16
+  },
+  {
+    "libro": "2 Macabeos",
+    "slug": "2-macabeos",
+    "capitulos": 15
+  },
+  {
+    "libro": "Isaías",
+    "slug": "isaias",
+    "capitulos": 66
+  },
+  {
+    "libro": "Jeremías",
+    "slug": "jeremias",
+    "capitulos": 52
+  },
+  {
+    "libro": "Ezequiel",
+    "slug": "ezequiel",
+    "capitulos": 48
+  },
+  {
+    "libro": "Oseas",
+    "slug": "oseas",
+    "capitulos": 14
+  },
+  {
+    "libro": "Joel",
+    "slug": "joel",
+    "capitulos": 4
+  },
+  {
+    "libro": "Amós",
+    "slug": "amos",
+    "capitulos": 9
+  },
+  {
+    "libro": "Abdías",
+    "slug": "abdias",
+    "capitulos": 1
+  },
+  {
+    "libro": "Jonás",
+    "slug": "jonas",
+    "capitulos": 4
+  },
+  {
+    "libro": "Miqueas",
+    "slug": "miqueas",
+    "capitulos": 7
+  },
+  {
+    "libro": "Nahún",
+    "slug": "nahun",
+    "capitulos": 3
+  },
+  {
+    "libro": "Habacuc",
+    "slug": "habacuc",
+    "capitulos": 3
+  },
+  {
+    "libro": "Sofonías",
+    "slug": "sofonias",
+    "capitulos": 3
+  },
+  {
+    "libro": "Ageo",
+    "slug": "ageo",
+    "capitulos": 2
+  },
+  {
+    "libro": "Zacarías",
+    "slug": "zacarias",
+    "capitulos": 14
+  },
+  {
+    "libro": "Malaquías",
+    "slug": "malaquias",
+    "capitulos": 3
+  },
+  {
+    "libro": "Daniel",
+    "slug": "daniel",
+    "capitulos": 14
+  },
+  {
+    "libro": "Job",
+    "slug": "job",
+    "capitulos": 42
+  },
+  {
+    "libro": "Proverbios",
+    "slug": "proverbios",
+    "capitulos": 31
+  },
+  {
+    "libro": "Eclesiastés",
+    "slug": "eclesiastes",
+    "capitulos": 12
+  },
+  {
+    "libro": "Cantar de los cantares",
+    "slug": "cantar-de-los-cantares",
+    "capitulos": 8
+  },
+  {
+    "libro": "Rut",
+    "slug": "rut",
+    "capitulos": 4
+  },
+  {
+    "libro": "Lamentaciones",
+    "slug": "lamentaciones",
+    "capitulos": 5
+  },
+  {
+    "libro": "Ester",
+    "slug": "ester",
+    "capitulos": 10
+  },
+  {
+    "libro": "Tobías",
+    "slug": "tobias",
+    "capitulos": 14
+  },
+  {
+    "libro": "Judit",
+    "slug": "judit",
+    "capitulos": 16
+  },
+  {
+    "libro": "Baruc",
+    "slug": "baruc",
+    "capitulos": 6
+  },
+  {
+    "libro": "Sabiduría",
+    "slug": "sabiduria",
+    "capitulos": 19
+  },
+  {
+    "libro": "Eclesiástico",
+    "slug": "eclesiastico",
+    "capitulos": 51
+  },
+  {
+    "libro": "Salmos",
+    "slug": "salmos",
+    "capitulos": 150
+  },
+  {
+    "libro": "Mateo",
+    "slug": "mateo",
+    "capitulos": 28
+  },
+  {
+    "libro": "Marcos",
+    "slug": "marcos",
+    "capitulos": 16
+  },
+  {
+    "libro": "Lucas",
+    "slug": "lucas",
+    "capitulos": 24
+  },
+  {
+    "libro": "Juan",
+    "slug": "juan",
+    "capitulos": 21
+  },
+  {
+    "libro": "Hechos de los apóstoles",
+    "slug": "hechos-de-los-apostoles",
+    "capitulos": 28
+  },
+  {
+    "libro": "Romanos",
+    "slug": "romanos",
+    "capitulos": 16
+  },
+  {
+    "libro": "1 Corintios",
+    "slug": "1-corintios",
+    "capitulos": 16
+  },
+  {
+    "libro": "2 Corintios",
+    "slug": "2-corintios",
+    "capitulos": 13
+  },
+  {
+    "libro": "Gálatas",
+    "slug": "galatas",
+    "capitulos": 6
+  },
+  {
+    "libro": "Efesios",
+    "slug": "efesios",
+    "capitulos": 6
+  },
+  {
+    "libro": "Filipenses",
+    "slug": "filipenses",
+    "capitulos": 4
+  },
+  {
+    "libro": "Colosenses",
+    "slug": "colosenses",
+    "capitulos": 4
+  },
+  {
+    "libro": "Filemón",
+    "slug": "filemon",
+    "capitulos": 1
+  },
+  {
+    "libro": "1 Tesalonicenses",
+    "slug": "1-tesalonicenses",
+    "capitulos": 5
+  },
+  {
+    "libro": "2 Tesalonicenses",
+    "slug": "2-tesalonicenses",
+    "capitulos": 3
+  },
+  {
+    "libro": "1 Timoteo",
+    "slug": "1-timoteo",
+    "capitulos": 6
+  },
+  {
+    "libro": "2 Timoteo",
+    "slug": "2-timoteo",
+    "capitulos": 4
+  },
+  {
+    "libro": "Tito",
+    "slug": "tito",
+    "capitulos": 3
+  },
+  {
+    "libro": "Hebreos",
+    "slug": "hebreos",
+    "capitulos": 13
+  },
+  {
+    "libro": "Santiago",
+    "slug": "santiago",
+    "capitulos": 5
+  },
+  {
+    "libro": "1 Pedro",
+    "slug": "1-pedro",
+    "capitulos": 5
+  },
+  {
+    "libro": "2 Pedro",
+    "slug": "2-pedro",
+    "capitulos": 3
+  },
+  {
+    "libro": "Judas",
+    "slug": "judas",
+    "capitulos": 1
+  },
+  {
+    "libro": "1 Juan",
+    "slug": "1-juan",
+    "capitulos": 5
+  },
+  {
+    "libro": "2 Juan",
+    "slug": "2-juan",
+    "capitulos": 1
+  },
+  {
+    "libro": "3 Juan",
+    "slug": "3-juan",
+    "capitulos": 1
+  },
+  {
+    "libro": "Apocalipsis",
+    "slug": "apocalipsis",
+    "capitulos": 22
+  }
+]
