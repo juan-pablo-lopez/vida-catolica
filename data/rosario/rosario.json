@@ -42,11 +42,11 @@
     },
     "maria-madre-gracia": {
       "titulo": "María, Madre de Gracia",
-      "texto": "María, Madre de gracia, Madre de misericordia, defiéndenos del enemigo y ampáranos ahora y en la hora de nuestra muerte. Amén."
+      "texto": "María, Madre de gracia, Madre de misericordia, en la vida y en la muerte ampáranos gran Señora."
     },
     "fatima": {
       "titulo": "Oración de Fátima",
-      "texto": "Oh Jesús mío, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia."
+      "texto": "Oh Jesús mío, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva al cielo a todas las almas, socorre especialmente a las más necesitadas de tu divina misericordia."
     },
     "intenciones-papa": {
       "titulo": "Por las intenciones del Santo Padre",
@@ -180,7 +180,7 @@
     "cordero": [
       { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "perdónanos, Señor" },
       { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "escúchanos, Señor" },
-      { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "ten piedad de nosotros" }
+      { "invocacion": "Cordero de Dios que quitas el pecado del mundo", "respuesta": "ten piedad y misericordia de nosotros, Señor" }
     ]
   },
   "misterios": {
