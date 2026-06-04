@@ -1,9 +1,12 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import { LuArrowLeft } from "react-icons/lu";
+import { LuArrowLeft, LuCheck } from "react-icons/lu";
 import CopyLinkButton from "../../shared/CopyLinkButton";
 import QrCodeButton from "../../shared/QrCodeButton";
 import InfoButton from "../../shared/InfoButton";
+import { marcarCompletada } from "./visitaProgress";
+
+const TOTAL_VISITAS = 31;
 
 type SeccionDiario = {
   secuencia: number;
@@ -71,6 +74,15 @@ export default function VisitaPage() {
     );
   }
 
+  const completarVisita = () => {
+    marcarCompletada(diaNum);
+    if (diaNum >= TOTAL_VISITAS) {
+      navigate("/visitas", { state: { serieCompletada: true } });
+    } else {
+      navigate("/visitas");
+    }
+  };
+
   const diarioBySeq = Object.fromEntries(data.diario.map((s) => [s.secuencia, s]));
   const oracionesBySeq = Object.fromEntries(
     visita.oraciones.map((o) => [o.secuencia, o])
@@ -137,6 +149,14 @@ export default function VisitaPage() {
         </div>
 
         <div className="card-footer">
+          <button
+            type="button"
+            className="primary-button visita-completar-button"
+            onClick={completarVisita}
+          >
+            <LuCheck size={18} />
+            <span>Completar visita</span>
+          </button>
           <div className="card-actions">
             <button
               type="button"

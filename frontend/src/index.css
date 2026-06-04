@@ -323,17 +323,19 @@ input {
   color: #61728c;
 }
 
-.sin-visita-mensaje {
-  margin: 1.25rem 0 0.5rem 0;
-  font-size: 1.1rem;
+.visita-serie-completada {
+  margin: 1rem 0 0 0;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  background: #e8f0e6;
+  color: #2f5d2a;
   font-weight: 600;
-  color: #1e3a5f;
+  line-height: 1.5;
 }
 
-.sin-visita-detalle {
-  margin: 0;
-  line-height: 1.55;
-  color: #3a4a5c;
+.visita-completar-button {
+  width: 100%;
+  justify-content: center;
 }
 
 .qr-overlay {
