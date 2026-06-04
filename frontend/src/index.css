@@ -1,3 +1,13 @@
+:root {
+  /* Margen vertical simétrico: 1rem + el mayor de los safe-area insets
+     (notch arriba vs indicador de inicio abajo), para que ambos lados
+     queden iguales y ninguno bajo una zona insegura. */
+  --safe-gap-v: calc(
+    1rem +
+      max(env(safe-area-inset-top, 0px), env(safe-area-inset-bottom, 0px))
+  );
+}
+
 body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
@@ -6,11 +16,12 @@ body {
 }
 
 .card-container {
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1rem;
+  padding: var(--safe-gap-v) calc(1rem + env(safe-area-inset-right, 0px))
+    var(--safe-gap-v) calc(1rem + env(safe-area-inset-left, 0px));
 }
 
 .verse-card,
@@ -34,11 +45,11 @@ body {
 }
 
 .detail-card.is-tall {
-  height: calc(100vh - 2rem);
+  height: calc(100dvh - 2 * var(--safe-gap-v));
 }
 
 .detail-card.is-dynamic {
-  max-height: calc(100vh - 2rem);
+  max-height: calc(100dvh - 2 * var(--safe-gap-v));
 }
 
 .detail-card .card-header {
