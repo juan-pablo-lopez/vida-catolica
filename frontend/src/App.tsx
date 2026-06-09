@@ -5,6 +5,8 @@ import CitationPage from "./resources/citas-biblicas/CitationPage";
 import VisitaForm from "./resources/visitas/VisitaForm";
 import VisitaPage from "./resources/visitas/VisitaPage";
 import RosarioPage from "./resources/rosario/RosarioPage";
+import MantoHome from "./resources/manto/MantoHome";
+import MantoDay from "./resources/manto/MantoDay";
 
 export default function App() {
   return (
@@ -15,6 +17,8 @@ export default function App() {
       <Route path="/visitas" element={<VisitaForm />} />
       <Route path="/visitas/:dia" element={<VisitaPage />} />
       <Route path="/rosario" element={<RosarioPage />} />
+      <Route path="/manto" element={<MantoHome />} />
+      <Route path="/manto/:dia" element={<MantoDay />} />
       <Route path="*" element={<p>Página no encontrada</p>} />
     </Routes>
   );

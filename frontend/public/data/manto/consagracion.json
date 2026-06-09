@@ -1,0 +1,1626 @@
+{
+  "metadata": {
+    "title": "Consagración del Manto de María",
+    "original_title": "Mary's Mantle Consecration",
+    "language": "es-MX",
+    "days": 46,
+    "style": "catolico-devocional-tradicional",
+    "version": "1.0"
+  },
+  "videos": [
+    {
+      "id": "prep_testimoniis",
+      "title": "¿Por qué tantas personas recomiendan la Consagración del Manto de María? Testimonios parroquiales sorprendentes",
+      "original_title": "Why People Are Raving about Mary's Mantle Consecration: Amazing Parishioner Testimonies",
+      "day": 0,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "prep_introduccion",
+      "title": "Introducción a una poderosa consagración mariana que transforma vidas: La Consagración del Manto de María",
+      "original_title": "Introduction to a Most Powerful Consecration to Mary That Changes Lives: Mary's Mantle Consecration",
+      "day": 0,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_1_significado",
+      "title": "¿Qué significa la consagración a María?",
+      "original_title": "What Does Consecration to Mary Mean?",
+      "day": 1,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_2_rosario",
+      "title": "Por qué el Rosario tiene tanto poder y cómo rezarlo eficazmente",
+      "original_title": "Why the Rosary Has Such Power and How to Pray It Effectively",
+      "day": 8,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_3_ayuno",
+      "title": "El poder oculto del ayuno para cambiar nuestras vidas y las de nuestros seres queridos",
+      "original_title": "The Untapped Power of Fasting to Change Our Lives and Loved Ones",
+      "day": 15,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_4_virtud",
+      "title": "Por qué se necesita una virtud extraordinaria en nuestros tiempos difíciles",
+      "original_title": "Why Extraordinary Virtue Is Needed in Our Difficult Times",
+      "day": 22,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_5_confesion",
+      "title": "Lo que no sabes pero necesitas saber sobre la Confesión y la alegría",
+      "original_title": "What You Don't Know but Need to Know About Confession and Joy",
+      "day": 29,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_6_vicios",
+      "title": "¿Por qué las virtudes son tan difíciles y los vicios tan fáciles?",
+      "original_title": "Why Are Virtues So Hard and Vices So Easy?",
+      "day": 36,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    },
+    {
+      "id": "semana_7_modelo",
+      "title": "Por qué María es el modelo de discipulado y cómo puede ayudarte",
+      "original_title": "Why Mary Is the Model of Discipleship and How She Can Help You",
+      "day": 43,
+      "url": "https://www.youtube.com/watch?v=VSoCKx4C0lQ&list=PLs31UGAeCFmA4j6X__jt5vjQn5_PQw3rZ"
+    }
+  ],
+  "opening_prayer": {
+    "title": "Oración Inicial",
+    "subtitle": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Oh Madre Santísima, a quien amo tiernamente como madre mía, en Tu sagrada presencia te ofrezco estos días de preparación para la consagración, en honor a las estrellas que adornan Tu manto celestial."
+      },
+      {
+        "type": "paragraph",
+        "text": "Te ruego que intercedas durante estos 46 días por todas mis necesidades, por las de mis seres queridos y de manera especial por [menciona aquí tus intenciones]."
+      },
+      {
+        "type": "paragraph",
+        "text": "Por favor, muéstrame la misma dulce compasión que derramaste sobre San Juan Diego, Tu mensajero."
+      },
+      {
+        "type": "paragraph",
+        "text": "Concédeme un corazón puro y virtuoso, como el Tuyo, para que pueda recibir el mismo consuelo —el alivio de mis dolores y la elevación de mi alma— que Juan Diego recibió de las tiernas palabras que le dirigiste hace siglos:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Nican Mopohua",
+        "url_consulta": null,
+        "text": "Escucha, ponlo en tu corazón, hijo mío el más pequeño, que lo que te asusta y te aflige no es nada. No se turbe tu rostro ni tu corazón. No temas esta enfermedad ni ninguna otra cosa punzante o dolorosa. ¿No estoy yo aquí, que tengo el honor y la dicha de ser tu Madre? ¿No estás bajo mi sombra y resguardo? ¿No soy yo la fuente de tu alegría? ¿No estás en el hueco de mi manto, en el cuz de mis brazos? ¿Acaso necesitas algo más?"
+      }
+    ]
+  },
+  "daily_readings": [
+    {
+      "day": 1,
+      "star": 1,
+      "title": "Primera Estrella: Agradecimiento",
+      "subtitle": null,
+      "videos": [
+        "prep_testimoniis",
+        "prep_introduccion",
+        "semana_1_significado"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Comencemos esta preparación para la consagración del Manto de María con la siguiente oración:"
+        },
+        {
+          "type": "prayer",
+          "text": "Moldea mi corazón, Señor Jesús, y despierta mi alma a los anhelos de la humanidad desde el principio de los tiempos. En Tus ojos brilla la esperanza de los siglos, la risa de los niños pequeños y el esplendor de las galaxias. Renueva en mí, Espíritu Santo, la fuerza de Tus vientos divinos. Tú, que infundes belleza al mundo, que deslumbras nuestros ojos con maravillas y danzas en cada melodía, ¡sopla sobre mí! Padre de ternura, haz que mi voz sea una nota en Tu sinfonía, mis movimientos parte de Tu danza y mis pensamientos un reflejo de Tu mente. Santísima Trinidad, lléname de Tu insaciable deseo de ganar almas. Llévame hacia los extraviados y los pobres; y con los brazos abiertos y lágrimas que me configuren contigo, intercambia mi corazón por el Tuyo. Fuego abrasador, luz incomprensible y gozo que supera todo éxtasis: todo mi ser se desbordan en agradecimiento, porque me trajiste a la vida desde un solo pensamiento de amor. Me creaste así, pequeño e insignificante, para otorgarme una dignidad por encima de los ángeles. Vine de la nada y Te ofreció tan poco; sin embargo, Tu recompensa para mí es un lugar que supera todo sueño: una morada luminosa en una tierra de paz eterna. Amén."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "star": 2,
+      "title": "Segunda Estrella: Compromiso",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Inténtalo. Esta sola palabra encapsula todo lo que Dios nos pide: solo inténtalo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dios conoce perfectamente nuestras limitaciones, nuestras inseguridades y los defectos de nuestra personalidad. Él lo sabe todo. No hay necesidad de escondernos. Pretender, de alguna manera, ocultarle a Dios la verdad de lo que somos es una completa insensatez; al contrario, debemos exponernos por entero ante el Señor y amarlo tal como somos. Si esperamos a ser modelos de perfección para empezar a amarlo, no lo haremos jamás. La santidad no se forja con el hábito de arrojar nuestras imperfecciones a un armario oscuro o de esconderlas apresuradamente debajo de la cama antes de ponernos de rodillas para orar. La santidad brota del esfuerzo de exponer continuamente nuestras debilidades en la contemplación y en la Confesión, donde la oscuridad se disipa ante la luz y la fealdad se transforma en belleza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Levántate cada mañana y ve en busca del Rostro del Señor, incluso si Su presencia parece desvanecerse en el preciso instante en que intentas alcanzarla. Inténtalo. Todos somos pozos sin fondo, creados a imagen, medida y semejanza de Dios. Ninguna cantidad de cosas finitas podrá jamás satisfacernos; solo lo infinito puede llenar hasta desbordar un pozo que corre tan profundo. Sin embargo, somos seres paradójicos: vivimos corriendo detrás de las criaturas y de las cosas de este mundo, cuyas proporciones no corresponden a las nuestras. Por esa razón nos sentimos inquietos e insatisfechos. Sin darnos cuenta, buscamos agua en paisajes desérticos y perseguimos sombras en pos de la luz eterna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Levántate cada mañana y comprométete con la santidad, el único camino que verdaderamente vale la pena recorrer. En cada esfuerzo, en cada instante, busca imitar al Señor. Inténtalo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dios nos ve y nos alienta cuando cargamos nuestra cruz y vencemos nuestras debilidades, y nos sostiene cuando caemos en el intento. Él ve que nuestro deseo era amarlo, aunque nuestra débil carne no nos haya permitido expresar plenamente ese amor. Recoge los pedazos de tu cruz destrozada e inténtalo de nuevo. Eso es todo lo que Él pide. Es precisamente cuando nos esforzamos por amarlo que brillamos ante los ojos del cielo. Cuando nos esforzamos por amarlo, Él transforma nuestra fragilidad en fortaleza. Cuando nos esforzamos por amarlo, Él permanece a nuestro lado, ofreciéndonos Su hombro para apoyarnos. Solo podemos fracasar si dejamos de intentarlo."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "star": 3,
+      "title": "Tercera Estrella: Amor",
+      "subtitle": "Una de las tres virtudes teologales",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Donde hay amor, allí está Dios, porque Dios es Amor. Sin embargo, esta palabra, «amor», con frecuencia se distorsiona gravemente, se usa a la ligera y se malinterpreta. La mayor parte del tiempo, cuando creemos que estamos amando, en realidad solo nos estamos complaciendo a nosotros mismos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yo podría dedicarme incansablemente a luchar por una causa justa, y seguramente aquellos a quienes libere de la opresión dirán: «¡Esta persona nos ama mucho a todos!». Puedo donar una suma sustancial de dinero, pero ¿qué pasa si nadie me lo agradece? Mis motivos, conscientes o inconscientes, podrían ser la búsqueda de poder, popularidad, renombre, o el deseo de ser valorado y convertirme en un héroe ante los ojos de alguien. En ese caso, ¿a quién o a qué amé? ¿Serví al prójimo o me serví a mí mismo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Digo que amo a mi amiga; pero si un día me entero de que traicionó mi confianza y juro: «¡Ella ya no es mi amiga!», habré cerrado para siempre las puertas del amor y de la confianza. En realidad, ¿quién amaba a quién? ¿La amaba verdaderamente a ella, o me amaba a mí mismo a través de ella? ¿Cómo es posible amar a alguien un día y dejar de hacerlo al día siguiente? ¿Acaso es así como Jesús la ama?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Todo depende de nuestras intenciones. Una misma obra que se realiza con caridad desinteresada también puede llevarse a cabo para alimentar el narcisismo y la codicia, sin que los demás —o tal vez ni uno mismo— percibamos la diferencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "El verdadero amor se pone a prueba en la cruz. El amor de Dios por nosotros es el poder más grande que existe, una fuerza infinitamente más formidable que cualquiera en la tierra; y en ningún lugar se manifestó con mayor claridad que cuando Él colgó desvalido en la Cruz. Si no amamos la cruz, nuestro amor a Dios y al prójimo será superficial, e incluso autoindulgente. Con demasiada frecuencia, el amor humano se reduce a eso."
+        },
+        {
+          "type": "paragraph",
+          "text": "El amor exige sacrificio, y amar a Jesús y a nuestro prójimo cuesta mucho. Rara vez comprendemos que no seremos verdaderamente felices hasta que aprendamos a abrazar y amar la cruz. Eso fue lo que hizo Jesús, y eso es lo que nos pide que hagamos. La cruz es dura y fría, como el mundo; pero nosotros podemos volvernos dóciles y cálidos al cargarla. Estamos llamados a amar a Dios y al prójimo hasta el último detalle de la Divina Voluntad, incluso si ello implica dar la vida por Él."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debemos entregarnos a nuestra vida con generosidad y desinterés. Desinteresadamente debemos afrontar el mundo. Y en ese amor desinteresado, saborearemos la vida eterna."
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "star": 4,
+      "title": "Cuarta Estrella: Confianza",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "«No te preocupes»... «No temas» es el mensaje que Dios nos repite en Su Palabra más que ningún otro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aquel que nos creó tiene un plan para nosotros. En cada alma habita una vocación, ya sea que permanezca dormida por las distracciones y la incredulidad, o despierta y vibrando con propósito y fuerza. ¿Acaso Dios esperaría que cumpliéramos Su voluntad mientras nos oculta el camino? ¡No! Siempre, en el misterio de Sus tiempos, Él nos revela el siguiente paso... y el que sigue, a través de sutiles inspiraciones y suaves empujones, si no es que mediante gritos resonantes. Un corazón sintonizado con Él lo sabe:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Juan 10,27",
+          "url_consulta": null,
+          "text": "Mis ovejas oyen mi voz; yo las conozco y ellas me siguen."
+        },
+        {
+          "type": "paragraph",
+          "text": "No nos corresponde ni es nuestro deber planificar la vida hasta el más mínimo y controlador detalle, una tarea que suele estar llena de presunción y orgullo. Nuestra labor es orar y seguir la huella que Dios nos va dejando. Por ahora, solo se necesita una cosa: amar a Dios con todo lo que tenemos y amar al prójimo como a nosotros mismos. Si pasamos el día angustiados por el mañana, la voluntad de nuestro Padre se habrá desvanecido entre las nubes de la preocupación."
+        },
+        {
+          "type": "paragraph",
+          "text": "¿Se levantaron nuestros ojos para mirar a ese hombre en el tren? Estaba desesperado por un saludo amable. ¿Escucharon nuestros oídos al Espíritu Santo que nos movía a hablar con nuestra compañera de trabajo? Necesitaba una palabra de corrección fraternal. ¿Nos percatamos de la joven sentada en la acera? Estaba hambrienta de la Palabra de Dios porque nadie la había alimentado. ¿O estábamos tan sumergidos en nuestros propios pensamientos ansiosos sobre el plan de Dios para el futuro que descuidamos cumplir precisamente con lo que nos pedía en el presente?"
+        },
+        {
+          "type": "paragraph",
+          "text": "¡Cuánto sufre Dios al vernos tan agitados y turbados! Cómo intenta darnos seguridad cuando escuchamos a nuestros temores. Incluso después de entregarle nuestras preocupaciones, tendemos a arrebatárselas de las manos para resolverlas por nuestra cuenta, como una niña pequeña que insiste impertinentemente en que sabe cocinar mejor que su madre y se apodera de la cocina, armando un desastre espantoso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestra preocupación, literalmente, ata las manos de Dios. En cambio, cada acto de confianza plena y ciega las desata, permitir que acontezca el mayor bien posible, porque Dios puede realizar lo que ningún ser humano es capaz de hacer. Cuando verdaderamente soltamos nuestras preocupaciones ante el Señor y recostamos nuestra cabeza en Su regazo con paz, es cuando Él puede obrar en nosotros los milagros más gloriosos."
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "star": 5,
+      "title": "Quinta Estrella: Generosidad",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sin confianza en Jesús, la generosidad produce angustia. Sin una confianza firme en que Él nos dará lo que necesitamos en el momento oportuno, podemos rechazar o ignorar fácilmente la verdad espiritual de que el pan que ganamos con el sudor de nuestra frente jamás es exclusivamente para nosotros."
+        },
+        {
+          "type": "paragraph",
+          "text": "Todo lo que recibimos y poseemos proviene, en última instancia, de la mano magnánima de Dios, y Su intención es que distribuyamos nuestros bienes y riquezas según Sus designios, es decir, con generosidad. A pesar de esto, podemos caer en el error de creer que lo que ganamos nos pertenece por derecho propio para retenerlo o gastarlo según nuestros antojos materiales. ¿No es eso lo que el mundo nos ha enseñado? Que debemos «asegurar nuestra parte»."
+        },
+        {
+          "type": "paragraph",
+          "text": "La falta de comprensión sobre el verdadero propósito de los bienes materiales y la desconfianza hacia el Proveedor divino se alían para ahogar las mociones de la generosidad. Cuando los temores a la escasez y al desamparo silencian al Espíritu, y cuando elegimos el frágil refugio del materialismo y del dinero como nuestro consuelo, hemos encadenado nuestra esperanza a una ilusión. Al igual que las olas del mar que se deslizan suavemente sobre la playa para luego retirarse con rapidez, los bienes materiales nos acarician por un momento y luego desaparecen."
+        },
+        {
+          "type": "paragraph",
+          "text": "El alma clama por lo permanente, una fuente inagotable de consuelo y seguridad:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Mateo 6,20",
+          "url_consulta": null,
+          "text": "donde no hay polilla ni herrumbre que destruyan, ni ladrones que perforen y roben."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo una confianza absoluta en el Proveedor de toda riqueza, tanto espiritual como material, puede liberar el alma y encender el gozo de la generosidad. Un alma con esta disposición vive conscientemente bajo el amparo y la provisión del Dios Omnipotente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando apoyamos a una obra de caridad noble, a la Iglesia, a los hambrientos o a los desamparados, o cuando nos disponemos a ayudar a los demás compartiendo lo que tenemos, Alguien permanece a nuestro lado. Alguien está ahí, inspirando nuestra mano y nuestro corazón hacia la magnanimidad. ¿Acaso este Alguien querría perjudicarnos? Por supuesto que no. Sin embargo, eso es precisamente lo que tememos. Nos asusta la idea de que, al dar lo que poseemos, nos quedaremos sin lo necesario; tememos que, en el mejor de los casos, pasaremos privaciones y, en el peor, caminaremos hacia la ruina."
+        },
+        {
+          "type": "paragraph",
+          "text": "¿De quién es la voz que nos susurra ese frío aliento de temor? Es la misma voz del hombre rico e insensato de la parábola, a quien Dios mismo responde:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 12,18-21",
+          "url_consulta": null,
+          "text": "Haré esto: demoleré mis graneros y edificaré otros más grandes. Allí guardaré todo mi trigo y mis bienes, y me diré a mí mismo: Alma mía, tienes muchos bienes guardados para muchos años; descansa, come, bebe y date buena vida.<br><br>¡Insensato! Esta misma noche te reclamarán el alma; y lo que has preparado, ¿para quién será? Así es el que atesora riquezas para sí mismo, pero no es rico ante Dios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Como seres humanos, nos conmueven los héroes y los santos que han alcanzado la cumbre de la entrega de sí mismos. ¿Cuáles son los límites de la generosidad? Dado que esta virtud nace del amor, la pregunta equivale a decir: «¿Cuáles son los límites del amor?». Si llevamos el sello del Dios Vivo, preferiríamos padecer necesidad antes que entregar Su luz al enemigo. Mil veces preferible es sufrir privaciones terrenales y vivir para siempre en la plenitud de Dios, que darnos un festín en la tierra y caminar hacia el vacío eterno."
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Corintios 9,6-7",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/2-corintios/9?6-7",
+          "text": "Tengan en cuenta esto: el que siembra escasamente, escasamente cosechará; y el que siembra con generosidad, con generosidad cosechará. Cada uno dé como encomendó en su corazón, no con tristeza ni por obligación, porque Dios ama al que da con alegría."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando se trata de generosidad, ¿qué dice Jesús sobre ti?"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "star": 6,
+      "title": "Sexta Estrella: Tenacidad",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cuando perdemos nuestro agarre tenaz de la vida íntima y privada con el Señor, Dios comienza a sentirse más distante. Deja de ser el motivo de nuestros anhelos y se convierte en una abstracción: una palabra que arrastra cada vez menos significado. Él deja de ser ese Alguien especial. Nadie desborda un entusiasmo constante por mejorar su vida basándose en una teoría; nadie se ilusiona con la idea de encontrarse con una fría conjetura."
+        },
+        {
+          "type": "paragraph",
+          "text": "A medida que la oración decae, también se agota la fuente de la verdadera alegría; y cuando se experimenta poco o ningún fruto y consuelo en la oración, disminuye el deseo de estar con Dios. En su esencia y fundamento, el centro de la vida cristiana es Dios. Por lo tanto, cuando Dios deja de ser nuestro centro de gravedad y la oración deja de ser el fulcro de nuestra existencia, el «yo» se levanta con todas sus exigencias egoístas, dejando al alma frágil, impaciente, rígida, propensa al pecado e irritable. El único Alguien capaz de someter esas demandas implacables ha sido abandonado, e inevitablemente comenzamos a descender por una espiral de desencanto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando se abandona la oración, de manera automática se abren grandes vacíos por todas partes y, por la ley del desplazamiento, diversas compensaciones mundanas se instalan en el alma. Dios lo intenta, pero ya no puede encender la alegría en nuestros corazones porque no ha quedado espacio para Él."
+        },
+        {
+          "type": "paragraph",
+          "text": "Muchas personas han sido dotadas de una sensibilidad para lo divino tan aguda y de una capacidad mística tan extraordinaria que, si la hubieran cultivado con diligencia, hoy serían estrellas de primera magnitud en la Iglesia. Sin embargo, vegetan en la mediocridad y la insatisfacción, no porque la gracia les haya fallado, sino porque no se han aferrado con tenacidad a Dios. Mediante una práctica de oración ordenada y regular —incluso en medio de fuertes tentaciones, de una dura aridez, de las incomodidades y de innumerables temores— esas semillas espirituales habrían brotado y crecido. Pero en lugar de convertirse en árboles frondosos y firmes, de quince metros de altura, capaces de cobijar a muchos otros bajo su resguardo y sombra, estas personas permanecen como arbustos frágiles de apenas un metro de estatura. Imagina su profundo descontento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando un cristiano deja de orar, Dios desaparece; no en Sí mismo, sino en esa persona. Para un cristiano, y con mayor razón para un discípulo militante, la tenacidad en la oración es una cuestión de vida o muerte."
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "star": 7,
+      "title": "Séptima Estrella: Resistencia",
+      "subtitle": "Oración en tiempos de depresión y soledad",
+      "videos": [],
+      "content": [
+        {
+          "type": "prayer",
+          "text": "Señor, me siento muy triste y extraño los tiempos que ya se fueron. La noche oscura ha descendido y ha ocultado Tu luz. Mi interior está enredado como zarzas espinosas. La confusión es mi pan de cada día. Busco un amigo verdadero y persigo mis sueños, mientras mi espíritu languidece en conversaciones forzadas y distracciones banales. Me encuentro solo. Mis mayores esfuerzos no conducen a nada y mis manos solo alcanzan a palpar el fracaso. Mi familia se ha convertido en un hogar de extraños; nuestra unidad está rota por facciones de silencio y desdén. ¿Dónde están Tus Buenas Nuevas? ¿Acaso no hay ninguna para mí? Cuando intento aferrarme a Ti, no puedo sentirte. Cuando Te hablo, no puedo escucharte. Dices que estás ahí, pero Te vuelves tan elusivo como un amanecer a medianoche o una fogata en medio de la tundra congelada. No retires Tu mano de mí, Padre. No cierres Tus oídos a mis clamores silenciosos en la noche. ¿Cómo puedes ser mi luz si no logro verte? ¿Cómo puedes ser mi roca si no Te siento bajo mis pies? El suelo que piso tiembla y se agrieta, y el cielo parece ocultar sus estrellas. ¿A dónde Te fuiste? La oscuridad me asusta y Te necesito. Dame al menos una señal, un leve indicio de que Te importo, de que existes. Hubo un tiempo en que Te sentía tan cerca que Tu aliento llenaba mis pulmones, pero hoy me siento abandonado, como un balón desinflado. Sin embargo, incluso en esta travesía de tristeza abrumadora y horas vacías, daré un paso hacia adelante, y mañana daré otro. Resistiré, porque mi desolación no es la verdad y las sombras susurran mentiras. Más allá de mi mente abatida hay una vida hermosa y un yo restaurado que hoy no alcanzo a ver. Pero Tú lo ves, mi Señor. Tú sí lo ves. Amén."
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "star": 8,
+      "title": "Octava Estrella: Perdón",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Es muy raro que alguien busque ofenderme deliberadamente; sin embargo, con mucha frecuencia me siento ofendido. Cuando permanezco indignado, ¿quién es el que sufre, Señor? ¿Sufre aquel que me desagrada, o sufro yo, que alimento el resentimiento? Mi amargura me consume por dentro, destruyéndome como un cáncer, mientras mi supuesto enemigo duerme pacíficamente sin enterarse de nada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los resentimientos agudos perforan mi corazón y encadenan mis pensamientos mientras revivo el pasado una y otra vez, intentando inútilmente cambiar lo que ya ha quedado grabado en piedra. Ayúdame a dejar de luchar contra las sombras de un enemigo que ya ni siquiera está ahí. Estoy sufriendo en vano. Por favor, ayúdame, Señor, a dejar de lanzar piedras mentales llenas de rencor, día y noche. Mis heridas son profundas y no puedo poner fin a esta insensatez sin Tu ayuda. Sé bien que avivar y alimentar el rencor es una locura. ¿Existe acaso una fatiga tan agobiante como la que produce el resentimiento? ¿Y habrá una liberación tan dulce como el pacífico suspiro del perdón? Por favor, perdona nuestras ofensas, así como nosotros perdonamos a los que nos ofenden."
+        },
+        {
+          "type": "reflection",
+          "text": "Un ejercicio para el perdón: Adoptar el Corazón de Jesús.\n\nSiéntate en silencio y quédate quieto; adéntrate en el mundo interior de Jesús. Identifícate con todo Su ser, de tal manera que Su Espíritu viva en el tuyo. Que Tus pensamientos se conviertan en Sus pensamientos; Tus ojos en Sus ojos; Tu corazón en Su Corazón. Ahora, trae a las personas que te han ofendido ante los ojos de tu mente e intenta mirarlas a través de la mirada de Cristo. Siente por ellas lo que Jesús siente; disponte a abrazarlas como Jesús lo haría. Rodéalas con los brazos del Señor, como si no hubiera separación alguna entre tú y el obrar de Dios. En esa sagrada intimidad, como si tú y Jesús fueran un solo ser, perdona, comprende y sostén a tu enemigo en tus brazos por un largo momento, hasta que sientas que una gran paz te inunda."
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "star": 9,
+      "title": "Novena Estrella: Perseverancia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Persevera, amigo mío, persevera. Sigue creyendo en la bondad, en la victoria definitiva del bien, incluso cuando parezca que el mal ha tenido su momento. Sigue bajando tu cubeta al pozo de la oración, aun cuando sientas que no has extraído ni una sola gota. Sigue levantándote cada mañana, aunque tus miembros parezcan negarse a moverse. Sigue buscando un sentido en el sufrimiento inevitable, aun cuando nada parezca tenerlo. Sigue cumpliendo con tus deberes cotidianos, incluso si el cansancio empaña tu espíritu. Sigue trabajando firmemente por encima de los fracasos, las decepciones y los desvíos del camino, avanzando siempre hacia la Meta. Persevera, amigo mío, persevera, porque la noche oscura ya está terminando, la aurora comienza a despuntar en el horizonte y el sol no tardará en salir."
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "star": 10,
+      "title": "Décima Estrella: Aceptación",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El ser humano se encuentra en la tierra sin haberlo pedido ni planeado. No eligió a sus padres, no eligió su ciudad natal ni sus rasgos físicos. Esas realidades que jamás buscó o que nunca estuvo en sus manos elegir pueden llegar a convertirse en una carga insoportable. En su frustración, la persona desata una agresividad emocional interna para atacar y destruir esas realidades en su mente, llegando a vivir en una batalla perpetua contra todo aquello que le disgusta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avergonzada y triste, la persona se rechaza a sí misma y repudia sus circunstancias: su peso, su nariz, su temperamento, el tráfico diario, su mal humor, sus conocidos, sus adversarios políticos, sus parientes, los mosquitos y el calor sofocante... Se resiste con violencia a todo lo que le desagrada pero no puede cambiar, convirtiéndolo en su enemigo. Como resultado, cae en la depresión, la ansiedad y la desconfianza. Si aborrezco mi reflejo en el espejo, lo convierto en mi enemigo; si rechazo la voz estridente de mi vecino, la convierto en mi enemiga. Mis adversarios, por lo tanto, viven dentro de mí en la misma medida en que yo les doy vida a través de mi resistencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, dentro de mí también habitan amigos. La primera etapa de la libertad interior consiste en reconciliarme conmigo mismo. Si acepto mis ojos cansados por los años o mi caminar torpe, se transforman en mis amigos. El verdadero problema no radica en mi falta de destreza para las matemáticas o en mi incapacidad para contar un buen chiste, sino en el rechazo que siento hacia mis propios límites y fracasos. No importa cuán poco agradable sea una persona: si decido acogerla, se convierte en mi amiga. Con la aceptación, esta tormenta inoportuna se transforma en la hermana tormenta; este virus de la influenza se vuelve la hermana gripe; y si acepto el desenlace natural de mis días, me habré reconciliado con la muerte. Así, sin importar quién sea yo o cuáles sean las circunstancias de mi existencia, puedo elegir vivir en el fuego cruzado de una zona de guerra creada por mí mismo, o dentro de la paz de un bosque sereno y templado. El poder de abrazar o rechazar las cosas que no puedo cambiar reside en mí; por lo tanto, la alquimia para transformar el mal en bien descansa en la palma de mis manos."
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "star": 11,
+      "title": "Undécima Estrella: Paciencia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La paciencia comienza al reconocer y aceptar pacíficamente que somos seres esencialmente limitados. Deseamos hacer y ser algo grandioso; pero en esta vida somos capaces de lograr poco, y lo poco que hagamos con gran esfuerzo arrojará resultados limitados. Aquí es donde radica la verdadera sabiduría y la humildad: en saber aceptar nuestra naturaleza limitada. Incluso los grandes santos no tenían plena conciencia de su propia grandeza y siempre desearon haber podido hacer y ser mucho más."
+        },
+        {
+          "type": "paragraph",
+          "text": "La ilusión desmedida conduce inevitablemente a la desilusión. Al mirar las estrellas, ponderar el universo y contemplar los infinitos atributos y proezas del Omnipotente, ¿cómo podríamos sentirnos sino pequeños? En realidad, volamos muy bajo en comparación con las divinas alturas de Jesús. ¿Debemos entristecernos por nuestra condición? No. ¿Avergonzarnos de quiénes somos? Jamás. La clave pacífica para sobrellevar el lento progreso de la santidad en nosotros mismos y en los demás, y para aceptar los tiempos de Dios en el mundo, es la paciencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una mujer sembró un extenso campo de trigo. Regresó la semana siguiente y vio que nada había brotado; le pareció entonces que las semillas habían muerto en el sepulcro de la tierra. Decepcionada, volvió dos semanas después solo para encontrar que todo seguía igual: sin signos de vida. Transcurrieron cuatro semanas y, al caminar de nuevo por el campo, se deleitó al ver que unos tiernos brotes verdes se asomaban tímidamente de la tierra."
+        },
+        {
+          "type": "paragraph",
+          "text": "El tiempo siguió su curso y densas capas de nieve invernal se acumularon sobre los frágiles tallos, aplastándolos con su peso; pero las plantas de trigo perseveraron. Luego sobrevino una helada terrible, implacable en su amenaza de destrucción. El trigo no podía crecer y perdió muchas de sus hojas, pero se aferró obstinadamente a la vida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Por fin llegó la primavera y el trigo comenzó a respirar. Con el tiempo, unos tallos valientes empezaron a erguirse buscando el sol; pero de un mes a otro su crecimiento era tan lento que la mujer no alcanzaba a percibir cambio alguno. Pasaron unos meses más y ella regresó. Para su alegría y sorpresa, extendiéndose ante sus ojos y más allá del horizonte, había un inmenso y majestuoso trigal dorado, que se mecía y ondulaba suavemente con la brisa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ya sea como el trigo o como la mujer, uno puede volcar toda la impaciencia y angustia del mundo sobre el campo, y no por ello el trigo crecerá un día antes o un centímetro más alto. La paciencia lo alcanza todo."
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "star": 12,
+      "title": "Duodécima Estrella: Humildad",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cuando sienta el deseo de que los demás hablen bien de mí, recordaré cómo Jesús rehuía las alabanzas y la fama cada vez que curaba a los enfermos o multiplicaba los panes. Me recordaré a mí mismo cómo Su Madre, la más excelsa y perfecta de todas las criaturas, vivió sus días en un amor silencioso, sin ostentación y sin buscar jamás llamar la atención sobre sí misma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando anhele riquezas y comodidades, traeré a la mente el desafío del Señor:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 9,58",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/9?58",
+          "text": "Las zorras tienen madrigueras y los pájaros del cielo nidos, pero el Hijo del Hombre no tiene dónde reclinar la cabeza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y refrenaré mis impulsos con Su advertencia:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 6,24",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/6?24",
+          "text": "Pero ¡ay de ustedes, los ricos, porque ya tienen su consuelo!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando busque saciar mi apetito de materialismo y confort, meditaré en la vida cotidiana de María: una mujer pobre y humilde de un pueblo marginado, que debía caminar para traer el agua en una pesada cubeta, cortar y recoger ramas para la leña, cuidar cabras y gallinas, y moler el trigo con piedras. La Reina del Cielo y de la Tierra no tenía calefacción, ni aire acondicionado, ni una aspirina para el dolor de cabeza. Su reinado se vivió sin manos delicadas y sin sirvientes a su disposición."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando me descubra perdiendo mi valioso tiempo en buscar mi propio interés, recordaré que Jesús jamás actuó así. Él vivió su vida entera únicamente para los demás, renunciando a las prerrogativas de Su divinidad para someterse a la vida de un humilde carpintero y predicador itinerante, entregándose al final a una muerte violenta y prematura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando no dude en ponerme a mí mismo en primer lugar, volveré mis pensamientos hacia María, quien se ponía en camino con prontitud de mente y cuerpo para ayudar a quien lo necesitaba:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 1,39-40",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/1?39-40",
+          "text": "En aquellos días, María se puso en camino y fue aprisa a la montaña, a un pueblo de Judá; entró en casa de Zacarías y saludó a Isabel."
+        },
+        {
+          "type": "paragraph",
+          "text": "O cuando el vino comenzó a faltar, la Madre de Jesús le dijo:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Juan 2,3",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/juan/2?3",
+          "text": "No tienen vino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando centre mis talentos en mis propias metas y caprichos, negándome a preguntarle a Dios cuál es Su voluntad para mi vida, traeré a la memoria el «fíat» de María, que comenzó en la Anunciación y halló su máxima expresión en su silenciosa presencia al pie de la Cruz: «Yo soy la esclava del Señor; hágase en mí según tu palabra». Y diré, como Jesús en el Huerto de los Olivos:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 22,42",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/22?42",
+          "text": "No se haga mi voluntad, sino la Tuya."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando mi orgullo ruja en mi interior, exigiendo alimentar al ego y satisfacer mi voluntad, recordaré que solo soy verdaderamente grande cuando soy verdaderamente humilde."
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "star": 13,
+      "title": "Decimotercera Estrella: Conocimiento",
+      "subtitle": "Uno de los siete dones del Espíritu Santo",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Una cosa es hablar de un banco de nieve, pero caer de cabeza en uno es una experiencia completamente distinta. Una cosa es tomar una fotografía de una madre que contempla con ternura los ojos de su hijo; otra muy diferente es mirar a través de los ojos de esa madre. Tener el concepto clínico de la fiebre no es padecerla. Comprender las leyes de la aerodinámica por las que vuelan los pájaros no equivale a surcar los aires con alas extendidas. Del mismo modo, leer la Sagrada Escritura de forma meramente intelectual no es conocerla con el corazón."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dios tampoco es un concept, teoría o teología. Él es una Persona; una Persona a quien se le conoce y se le sigue a través de una relación viva y experiencial. Los datos y los versículos memorizados no configuran a un profeta. Una persona instruida en el catecismo puede expresar los dogmas de fe con elocuencia, incluso poéticamente; pero un testigo profético se modela en encuentros solitarios y prolongados, cara a cara con el Señor. Los mejores amigos de Jesús se forjan de rodillas, día a día, en una oración intensa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ellos son quienes logran percibir todo el espectro de la creación en cuanto que nos conduce a Dios; son quienes pueden discernir los acontecimientos de la vida a través de los ojos de lo sobrenatural. Estos son los discípulos que la Iglesia necesita y anhela."
+        },
+        {
+          "type": "prayer",
+          "text": "Te pido ahora, Señor, que me ayudes a ser uno de Tus verdaderos profetas. Concluye en mí el deseo de buscar siempre Tu presencia y Tu abrazo íntimo. Si no lo hago, jamás Te conoceré verdaderamente. Amén."
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "star": 14,
+      "title": "Decimocuarta Estrella: Mansedumbre",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "scripture",
+          "reference": "Mateo 11,29",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/mateo/11?29",
+          "text": "Carguen con mi yugo y aprendan de mí, que soy manso y humilde de corazón, y encontrarán descanso para sus almas."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mansedumbre es una virtud que Jesús predicó de forma única, y que ningún filósofo de la antigüedad parece haber comprendido o recomendado. Incluso en nuestro lenguaje moderno, la palabra «manso» suele asociarse erróneamente con la debilidad, la cobardía o la sumisión complaciente. En los labios de Jesús, sin embargo, posee un significado completamente distinto: ser manso es ser una roca espiritual."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el sentido evangélico, la mansedumbre es humildad, abandono pacífico y sumisión a la Divina Voluntad sin murmuraciones ni amarguras. Es templanza en el carácter, dulzura en el trato con los demás y paciencia ante las dificultades, los reveses y las ofensas. Quien es manso no se deja provocar ni se irrita con facilidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Por el hecho de nacer en este mundo, construimos de forma natural una ilusión en nuestra mente sobre quiénes somos: una mentira atesorada por la que luchamos y sufrimos de forma constante. Dependiendo de nuestras heridas, y según nuestra autoimagen sea alabada o rechazada, nuestro estado de ánimo oscila de la euforia a la depresión; esto es fuente de una gran inestabilidad emocional y de profundo dolor. La persona mansa ha luchado para domar al león rugiente del ego humano, que es la raíz de estas reacciones infantiles y actitudes irracionales —esa bestia interna que busca glorificarse y defenderse a sí misma a toda costa—."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestro más grande ejemplo humano de mansedumbre es Nuestra Señora. En ella jamás se levantó la estructura del ego. Su ego jamás reclamó nada para sí, porque estaba completamente crucificado. Si alababan a María, ella elevaba toda la gloria a Dios; si la calumniaban, no significaba nada para ella; si recibía alimento, daba gracias al Señor; si padecía hambre, no culpaba a nadie y mucho menos a su Dios. ¿Qué podría ofender a una mujer que sentía que no tenía derechos que reclamar? Para ella, todo era gracia y regalo. Su ego era como un tronco caído: si un leño recibe un golpe devastador con un hacha, no siente nada, no reacciona; está muerto. Desasida del mundo, unida a Dios."
+        },
+        {
+          "type": "paragraph",
+          "text": "La persona mansa sabe cuán profundamente es amada por Dios; sabe que está completamente segura en el amor del Señor, sin importar lo que le suceda a su cuerpo. El manso comprende que su valor proviene únicamente de Dios, y no de los juicios humanos, ni siquiera del propio."
+        },
+        {
+          "type": "scripture",
+          "reference": "Mateo 5,5",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/mateo/5?5",
+          "text": "Bienaventurados los mansos, porque ellos heredarán la tierra."
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "star": 15,
+      "title": "Decimoquinta Estrella: Fortaleza",
+      "subtitle": "Una de las virtudes cardinales y uno de los siete dones del Espíritu Santo",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Más que cualquier otra frase en la Escritura, Señor, nos repites: «No tengas miedo». Si esto es así, ¿por qué sigo sufriendo de angustia e inseguridad en las habitaciones oscuras de mi interior, donde las sombras me susurran: «No estás a salvo» o «Prepárate para un mañana sombrío»? ¿Cómo puedo yo, junto con el rey David, proclamar con santa audacia el Salmo 27?"
+        },
+        {
+          "type": "scripture",
+          "reference": "Salmo 27,1-6",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/salmo/27?1-6",
+          "text": "El SEÑOR es mi luz y mi salvación, ¿a quién temeré?<br><br>El SEÑOR es el baluarte de mi vida, ¿ante quién temblaré?<br><br>Cuando se lanzan contra mí los malvados para devorar mi carne,<br><br>son ellos, mis enemigos y adversarios, los que tropiezan y caen.<br><br>Aunque acampe contra mí un ejército, mi corazón no teme;<br><br>aunque estalle una guerra contra mí, aun así mantengo mi confianza.<br><br>Una sola cosa he pedido al SEÑOR, eso es lo que busco:<br><br>habitar en la Casa del SEÑOR todos los días de mi vida,<br><br>para contemplar la belleza del SEÑOR y visitar su templo.<br><br>Porque Él me resguardará en su tienda en el día de la desgracia;<br><br>me ocultará en lo secreto de su morada, me alzará sobre una roca.<br><br>Y ahora se levanta mi cabeza por encima de los enemigos que me rodean;<br><br>ofreceré en su tienda sacrificios entre aclamaciones, cantaré y salmodiaré al SEÑOR."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mi valentía depende de si vivo o no fundamentado en la fe. Tú, Jesús, tienes que ser mi hermano; Tú, Padre, tienes que ser mi Padre; y Tú, Espíritu Santo, mi Espíritu. Envuélveme, Dios mío, lléname por entero, respira dentro de mí... entonces, ¿miedo a qué?, ¿a quién? Dios es el Omnipotente, ¡y esa Omnipotencia vive y respira en mí! Solo cuando abrace y crea esto de todo corazón, podré plantarme con firmeza ante los enemigos de mi alma y clamar con gloriosa libertad: «Si Dios está con nosotros, ¿quién contra mí?»."
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "star": 16,
+      "title": "Decimosexta Estrella: Constancia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Con frecuencia he buscado distracciones y comodidades mundanas para calmar mi inquietud, mi soledad, mi tristeza y mi tedio. He pasado incontables horas frente a los medios de comunicación y he caído en malos hábitos que Te ofenden. Mi mente intenta orar, pero las pantallas de las computadoras, de la televisión y del cine me repiten sin cesar sus escenas de promesas huecas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pero ahora me doy cuenta de que esas horas de evasión no han nutrido mi alma. En medio de mi vacío, me vuelvo a Ti, una vez más, como mi único consuelo y mi propia Vida. Aunque llegue a pensar o sentir que jamás he alcanzado la oración perfecta o que no lo hago del todo bien, confío en que, al ver mi esfuerzo por acercarme a Ti a pesar de mis distracciones, Tú sonríes ante mis desvelos y me das las gracias."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si Tú, Dios mío, eres lo único que importa, si Tú eres la fuente de mis alegrías, de mis seres queridos y de todo bien que llega a mi vida, ¿por qué no puedo encontrar al menos media hora cada día para intimar contigo en lo privado? ¿Acaso no buscaría ese momento a Tu lado si pudiera verte en carne y hueso? ¿No querría estar a solas contigo día y noche? ¿No me apartaría de todo falso brillo para sumergirme en Tu verdadera luz?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Despierta mis sentidos espirituales para reconocer, por medio de la fe, que Tú siempre estás ahí, esperando pacientemente a que me detenga, regrese, me dé cuenta y salga a Tu encuentro."
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "star": 17,
+      "title": "Decimoséptima Estrella: Bondad",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "scripture",
+          "reference": "Lucas 6,27-28.31-32",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/6?27-28.31-32",
+          "text": "Pero yo les digo a ustedes que me escuchan: Amen a sus enemigos, hagan el bien a los que los odian, bendigan a los que los maldicen y rueguen por los que los maltratan... Traten a los demás como quieren que los demás los traten a ustedes. Si aman a los que los aman, ¿qué mérito tienen? También los pecadores aman a los que los aman."
+        },
+        {
+          "type": "paragraph",
+          "text": "San Franciso de Sales dijo en una ocasión: «A hablar se aprende hablando, a estudiar estudiando, a correr corriendo, a trabajar trabajando; de igual modo, a amar se aprende amando. Todos los que pretenden aprender de otra manera, se engañan a sí mismos»."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cómo puedes, entonces, poner en práctica esta clase de bondad? Supongamos que una persona de quien esperabas una amistad o un afecto sincero, alguien en quien confiabas plenamente, ha traicionado tus sentimientos. Refrena las oleadas de agresividad que desearías enviarle (las cuales solo te dañan a ti) y desborda tus pensamientos hacia ella con genuina bondad; ámala incansablemente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si recibes un trato hostil de alguien, esfuérzate por calmar tu interior y envíale oleadas de amor. Aléjate siempre de cualquier situación de abuso grave; pero en tu corazón, si no te es posible hacerlo con un gesto externo, rodéale de afecto. ¿Alguien habló mal de ti? No importa. Refúgiate en el amor."
+        },
+        {
+          "type": "scripture",
+          "reference": "Romanos 12,19-21",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/romanos/12?19-21",
+          "text": "Queridos míos, no hagan justicia por su propia mano, sino dejen lugar al castigo de Dios, pues dice la Escritura: Mía es la venganza, yo daré el pago merecido, dice el Señor. Al contrario, si tu enemigo tiene hambre, dale de comer; si tiene sed, dale de beber; con esto amontonarás carbones encendidos sobre su cabeza. No te dejes vencer por el mal, sino vence al mal con el bien."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deja la justicia en manos de Dios y trata a tu enemigo como tratarías al mismísimo Señor Jesús. Actuando así, llegará el momento en que ni siquiera habrá necesidad de perdonar."
+        },
+        {
+          "type": "paragraph",
+          "text": "«Esto es una locura inimaginable», dirás. Y lo es. Pero esta es la terapia del Señor, Su método para liberarte de manera inmediata del sufrimiento que te causan los demás. Cuando hayas sido lastimado, no te asustes por la tormenta que pueda desatarse en tu interior. Di: «Dios mío, calma estas olas enfurecidas, disipa las nubes oscuras y borra los relámpagos que cruzan mi mente». Luego, deja pasar un momento para recuperar la quietud interna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ante los ojos de tu alma, contempla la figura humilde y tierna de Jesús, silencioso ante Sus jueces, compasivo ante el traidor, y dile: «Jesús, entra en todo mi ser; derrámate en mi corazón; ayúdame a ser como Tú y a responder al mal con la fuerza de Tu bondad»."
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "star": 18,
+      "title": "Decimoctava Estrella: Autocontrol",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ser humano implica poseer un espacio de íntima soledad en nuestra propia identidad personal. Nadie más que Dios tiene acceso a esta soledad, y nadie más lo tendrá jamás. Es lo que nos hace completamente únicos y distintos los unos de los otros."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ninguna escena hace resaltar tanto esta realidad como el imaginarse en el propio lecho de muerte. Uno puede estar rodeado de sus seres queridos, de las personas que nos conocen con mayor intimidad; y sin embargo, a pesar de todos sus cuidados atentos y de sus palabras sinceras, en ese preciso instante estaremos solos, totalmente solos. Ni una sola alma podrá estar con nosotros en las regiones más profundas de nuestro ser, y nadie podrá acompañarnos en el misterio de nuestra muerte. Destellos de esta soledad existencial nos salen al encuentro en el momento de tomar una decisión trascendental o al asumir una gran responsabilidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y tengo que preguntarte, María: ¿cómo lo lograste? Cuando el ángel Gabriel se te apareció, una muralla inmensa de responsabilidad histórica se levantó ante ti, y tuviste que decidir si la escalabas o no... completamente sola. Tu vida habría transcurrido en el anonimato y la tranquilidad si hubieras respondido con un «no». Decir «sí» significaba aceptar un vuelco que alteraría tu existencia apacible y bien ordenada. Concebir un hijo antes del matrimonio implicaba el riesgo de que José se divorciara de ti; podías morir apedreada bajo la acusación de adulterio; serías marginada socialmente y estigmatizada con el apelativo más deshonroso que una mujer podía recibir en aquella época: «harufa», la mujer deshonrada."
+        },
+        {
+          "type": "paragraph",
+          "text": "María, ¿cómo es posible que ante una presión tan formidable no te hayas desmoronado emocionalmente? ¿Por qué no cedieron tus nervios? ¿Cómo mantuviste un autocontrol tan perfecto? ¿Por qué no intentaste huir, esconderte o simplemente olvidar?"
+        },
+        {
+          "type": "paragraph",
+          "text": "El peso de la responsabilidad trae siempre consigo el peso de la soledad, y tú tuviste que cargar con ese peso completamente sola, porque se trataba de un acontecimiento único en la historia, que sucedería una vez y nunca más. Si el hecho se divulgaba, nadie te habría creído; habrían dicho que habías perdido la razón."
+        },
+        {
+          "type": "paragraph",
+          "text": "Me sobrecoge y me llena de asombro tu madurez. ¡Tenías apenas unos catorce años! Plenamente consciente de la gravedad de aquel encuentro con el ángel y de las implicaciones de tu decisión, permaneciste firme, sola, sin consultar a nadie y sin el menor rastro de apoyo humano; y asumiste el riesgo de pronunciar el «sí» de tu vida, impulsada únicamente por tu fe y por tu amor. La historia entera jamás alcanzará a rendir suficiente alabanza para honrar tamaña grandeza."
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "star": 19,
+      "title": "Decimonovena Estrella: Atención",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Fijar nuestra atención en Jesús significa aprender a acoger a los demás. Cuando no estamos verdaderamente presentes ante el Señor, podemos construir muros de separación entre nosotros y quienes nos rodean: pesados bloques de ladrillos apilados a gran altura, construidos con los materiales del miedo, la animosidad, los malentendidos, la discordia y la aversión. En cambio, cuando permanecemos atentos a Jesús, somos más capaces de manifestar un interés sincero por la familia humana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cada persona es una gema delicada y preciosa que merece toda nuestra atención cuando estamos a su lado. Por el hecho de haber sido creada a imagen de Dios, posee una dignidad que reclama la misma consideración que deseamos para nosotros mismos. Si estuviera hablando con una persona famosa a quien admiro, de manera natural estaría muy presente y vivo en ese momento. Pero el Señor no ha fundado Su morada únicamente en ese deportista famoso o en aquel músico brillante. La presencia íntima de Dios habita en cada alma; incluso en aquellas personas que nos cuesta creer que son depositarias de Su amor. Podrá estar oculto, lleno de cicatrices o desfigurado, pero el amor de Dios está ahí."
+        },
+        {
+          "type": "paragraph",
+          "text": "Atender a Jesús nos exige pasar por alto que alguien nos retire la palabra, para continuar hablándole y expresándonos de él con amabilidad... Implica guardar silencio en medio de un torbellino de chismes, o hablar en favor del que está siendo criticado... Significa dejar la compañía de quienes nos agradan para ir a conservar con alguien que nos resulta difícil."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando nos hacemos presentes ante los demás de la misma manera en que Tú lo harías, Jesús, ellos comenzarán a conocerte a través de nosotros, y la fuente de Tu amor volverá a brotar en sus corazones. Esto nos exige transformar la manera en que marginamos, clasificamos y nos relacionamos con la familia humana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al concluir la jornada, ayúdame, Señor, a no examinar cómo traté a la persona que mejor me cae, sino a aquella que traté peor; porque la manera en que la traté a ella, es la manera en que Te traté a Ti."
+        },
+        {
+          "type": "scripture",
+          "reference": "Mateo 25,40",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/mateo/25?40",
+          "text": "En verdad les digo que cuanto hicieron con alguno de estos hermanos míos más pequeños, conmigo lo hicieron."
+        },
+        {
+          "type": "paragraph",
+          "text": "En otras palabras, fijamos nuestra atención en Jesús cuando respetamos y veneramos a nuestro hermano o hermana como si fuera el mismo Cristo, acallando nuestros impulsos bajos y egoístas. Atendemos al Señor cuando actuamos, hablamos y reaccionamos preguntándonos en todo momento qué haría Él y cómo se comportaría en nuestra misma situación. Viviendo de este modo, le estamos gritando al mundo, sin emitir un solo sonido, que ¡Jesucristo está vivo!"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "star": 20,
+      "title": "Vigésima Estrella: Fe",
+      "subtitle": "Una de las tres virtudes teologales",
+      "videos": [
+        "semana_2_rosario"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En los vaivenes de la vida, cualquiera de nosotros puede verse sorprendido bajo el fuego cruzado de los conflictos, las enfermedades, las crisis, las injusticias o las desgracias. Ante esto, nuestra tendencia natural es buscar causas y consecuencias, elaborar explicaciones lógicas mezcladas con sospechas y conjeturas, y repartir culpas en todas direcciones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Como resultado de este análisis humano, se desata una reacción violenta en nuestro corazón: se activan con rapidez impulsos de ira, desánimo y deseos de revancha... Y así se repite la vieja historia de la gran mayoría de la humanidad. Frente a esta manera de analizar y responder, que rebaja al ser humano a un nivel puramente instintivo, existe una mirada profunda que penetra más allá de la superficie de las cosas y contempla la realidad a través del prisma de la fe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestro único y definitivo consuelo es esta visión superior mediante la cual aceptamos con paz los acontecimientos inevitables de la existencia, descubriendo detrás de todas las apariencias la Mano amorosa que diseña, coordina, permite y gobierna todo lo que acontece en el universo. Si logramos vislumbrar tan solo un destello del poder y de la ternura del Padre, que permite este o aquel sufrimiento porque de él obtendrá un bien mayor, las tensiones se calmaron, los nervios se relajaron y la rebeldía se transformará en una profunda paz."
+        },
+        {
+          "type": "paragraph",
+          "text": "No existe imprevisto ni emergencia dolorosa en este mundo capaz de quebrantar la estabilidad emocional y espiritual de quienes viven iluminados por una fe inquebrantable. Esas almas son verdaderamente invencibles."
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "star": 21,
+      "title": "Vigesimoprimera Estrella: Consejo",
+      "subtitle": "Uno de los siete dones del Espíritu Santo",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El don de Consejo es una gracia divina que ilumina nuestra conciencia para saber discernir, de manera rápida y segura, lo que agrada a Dios en las encrucijadas de la vida. A través de este don, el Espíritu Santo nos dicta interiormente lo que debemos hacer y lo que debemos decir ante situaciones imprevistas o difíciles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando nos enfrentamos a un dilema moral o a una decisión crucial, nuestra razón humana suele nublarse por las pasiones, el miedo o los respetos humanos. Es ahí donde el don de Consejo actúa como un faro celestial. No se trata de una simple prudencia humana o de una astucia mundana para salir airosos de un problema, sino de la Sabiduría de Dios guiando nuestros pasos cotidianos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesús es llamado en las Escrituras el «Consejero Admirable». Él desea guiar cada uno de nuestros actos si nos disponemos a escucharlo en el silencio de la oración. Para que este don fructifique en nosotros, es indispensable cultivar un espíritu de docilidad. Quien es soberbio y confía únicamente en su propio criterio, bloquea la acción del Espíritu Santo; en cambio, el alma humilde se deja guiar como un niño de la mano de su madre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestra Señora es la Madre del Buen Consejo. Ella, que meditaba todas las cosas en su corazón, vivió en una sintonía perfecta con las mociones del Espíritu Santo. Acudamos a ella cuando la confusión nuble nuestro camino, con la certeza de que siempre nos señalará a su Hijo y nos dirá: «Hagan lo que Él les diga»."
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "star": 22,
+      "title": "Vigesimosegunda Estrella: Renunciación",
+      "subtitle": null,
+      "videos": [
+        "semana_4_virtud"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A menudo se dice que el enemigo se oculta astutamente en los detalles de la cotidianidad. Si examinamos nuestra jornada, descubriremos con cuánta facilidad cedemos a pequeñas indulgencias y apegos que, poco a poco, van enfriando nuestro amor por el Señor. Renunciar no significa únicamente apartarse de los grandes pecados; implica también desasirse de los pequeños caprichos materiales, de la comodidad desmedida y de la necesidad constante de satisfacer nuestros antojos."
+        },
+        {
+          "type": "paragraph",
+          "text": "La auténtica renunciación es un acto de amor y de libertad interior. Cuando decidimos negarnos a nosotros mismos un gusto legítimo —como un alimento preferido, un momento de ocio innecesario o el impulso de tener la última palabra en una discusión—, estamos ensanchando el espacio de nuestro corazón para que Dios lo ocupe por entero. Cada pequeña renuncia es un altar invisible donde sacrificamos nuestro egoísmo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quien no es capaz de renunciar a lo poco, difícilmente permanecá fiel en lo mucho. El materialismo del mundo nos arrastra a acumular y a retener, bajo la falsa promesa de que los bienes terrenales calmarán nuestra sed de infinito. Sin embargo, el alma experimenta una pesadez espiritual que le impide elevarse hacia lo divino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miremos a Jesús, quien siendo rico se hizo pobre por nosotros, y aprendamos de Su Madre el valor de la sobriedad y el desapego. La Santísima Virgen no poseía tesoros terrenales; su única y verdadera riqueza era el Señor."
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "star": 23,
+      "title": "Vigesimotercera Estrella: Entrega",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Entregar la vida a Dios significa soltar las riendas del propio destino para permitir que la Providencia gobierne nuestra existencia. Esta es una de las lecciones más difíciles para el ser humano, porque nos aterra perder el control y quedar desamparados ante la incertidumbre del mañana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, la verdadera seguridad no nace de nuestras frágiles planeaciones, sino del abandono confiado en los brazos del Padre Celestial. No guardes nada con apego egoísta; no le pongas condiciones al Señor. Entrégale tus éxitos, tus fracasos, tus sufrimientos, tus proyectos y, de manera muy especial, a las personas que más amas. El amor auténtico no retiene ni aprisiona; entrega al ser amado al cuidado del Único que puede protegerlo verdaderamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando te encuentres agobiado por el peso de las responsabilidades, haz una pausa en tu interior y eleva esta súplica de abandono:"
+        },
+        {
+          "type": "prayer",
+          "text": "Toma, Señor, y recibe toda mi libertad, mi memoria, mi entendimiento y toda mi voluntad. Todo lo que tengo y poseo, Tú me lo diste; a Ti, Señor, lo devuelvo. Todo es Tuyo, dispón de ello según Tu Voluntad. Dame Tu amor y Tu gracia, que esto me basta. Amén."
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "star": 24,
+      "title": "Vigesimocuarta Estrella: Amabilidad",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La amabilidad es el rostro visible de la caridad cristiana. No debe confundirse con una cortesía puramente social o con una educación superficial que se despliega únicamente por interés o para causar una buena impresión. La verdadera amabilidad brota de un corazón manso, tierno y compasivo que sabe descubrir la presencia de Jesús en el prójimo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una palabra amable, una sonrisa sincera en medio de un día difícil o un gesto de atención hacia quien se siente invisible, poseen un poder transformador inimaginable. A través de la amabilidad, suavizamos las asperezas del mundo y curamos las heridas invisibles de quienes caminan a nuestro lado cargados de dolores y preocupaciones."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frecuentemente reservamos nuestros mejores modales para los extraños y descargamos nuestras tensiones, impaciencias y malos humores con los miembros de nuestra propia familia. Esto es una gran incoherencia espiritual. El hogar debe ser el primer santuario de la amabilidad, donde el trato mutuo refleje la ternura de la Sagrada Familia de Nazaret."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pidamos a Nuestra Señora que nos conceda un trato dulce y paciente, libre de ironías y de juicios severos, para que nuestra presencia sea siempre un bálsamo de paz para los demás."
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "star": 25,
+      "title": "Vigesimoquinta Estrella: Diligencia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La diligencia es la virtud que combate de manera frontal el vicio de la pereza, especialmente la pereza espiritual o acidia. Un alma diligente es aquella que cumple sus deberes cotidianos con prontitud, alegría y amor, por el único motivo de agradar a Dios y servir a sus hermanos."
+        },
+        {
+          "type": "paragraph",
+          "text": "El tiempo es un talento sagrado que se nos ha confiado, un recurso finito del cual daremos una cuenta estrecha al final de nuestra existencia. Desperdiciar las horas en la ociosidad, en el entretenimiento vacío o en postergar continuamente nuestras responsabilidades, es una grave falta de gratitud hacia el Proveedor de la vida."
+        },
+        {
+          "type": "paragraph",
+          "text": "La diligencia no debe confundirse con el activismo frenético o la agitación ansiosa del mundo; la prisa mundana carece de paz y suele nacer del orgullo o de la ambición. La diligencia cristiana, en cambio, actúa con calma, orden y devoción, sabiendo que cada tarea, por más humilde que parezca, es una oportunidad de santificación."
+        },
+        {
+          "type": "scripture",
+          "reference": "Colosenses 3,23-24",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/colosenses/3?23-24",
+          "text": "Cualquiera que sea su trabajo, háganlo de buen corazón, como para el Señor y no para los hombres. Sepan que el Señor les dará la herencia como recompensa. El verdadero amo a quien sirven es Cristo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imitemos la prontitud de María, quien al enterarse de la necesidad de su prima Isabel, no dudó ni postergó su viaje, sino que se puso en camino «aprisa» hacia la montaña."
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "star": 26,
+      "title": "Vigesimosexta Estrella: Respeto",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El ser humano es un misterio insondable, un universo completo en sí mismo. Cada persona es una isla única, un reflejo irrepetible de Dios que jamás se volverá a manifestar a lo largo de los tiempos. El primer paso para respetar verdaderamente a los demás consiste en reconocer que no sabemos casi nada acerca de ellos, porque cada alma es un territorio sagrado y desconocido."
+        },
+        {
+          "type": "paragraph",
+          "text": "La falta de respeto en el ámbito privado de las palabras es lo que llamamos chisme o chismorreo; cuando participamos de él, profanamos de manera violenta el santuario interior del prójimo. Nos atrevemos a irrumpir en su intimidad para erigirnos en tribunales falsos: actuamos como jueces, condenamos sin piedad y hacemos pública la sentencia. Las reputaciones quedan arruinadas en un instante y el ambiente de paz se envenena por completo. Ellos hablaron mal de ti, y ahora tú hablas mal de ellos; los comentarios se transforman en proyectiles que rebotan y destruyen vidas. Los rumores corren de boca en boca, deformándose y creciendo en malicia a cada paso, como si fueran tumores cancerígenos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bajo este estado de cosas, nadie escucha con sinceridad y nadie se expresa con transparencia. La desconfianza y la sospecha nublan el ambiente, volviendo imposible la verdadera comunión. Los miembros de una comunidad o de una familia pueden compartir un mismo espacio físico, pero permanecen con las puertas de sus corazones cerradas por completo. Como consecuencia, cada alma se repliega en su propio aislamiento y asume una postura permanentemente defensiva. La falta de respeto, como un fuego de combustión lenta, termina por desatar chispas de soledad, evasión, miedo y, finalmente, una abierta hostilidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cambio, desde el preciso momento en que decidimos abrazar la virtud del respeto mutuo y honrar el misterio vivo que Dios ha puesto a nuestro lado... desde el instante en que elegimos frenar nuestra lengua ansiosa y tratar a los demás como trataríamos al mismo Jesús que camina y respira, las semillas de la confianza son sembradas de inmediato. Así comienza a crecer el árbol de la fraternidad, en cuyas ramas florecen la aceptación y la alegría."
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "star": 27,
+      "title": "Vigesimoséptima Estrella: Esperanza",
+      "subtitle": "Una de las tres virtudes teologales",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Guíame, Señor, por el sendero de la esperanza. Tú eres el único que verdaderamente conoce el camino. Por lo que alcanzo a percibir con mis limitados ojos humanos, bien podría estar desviándome de una ruta segura para adentrarme entre zarzas espinosas e hierba venenosa. Desconozco el porvenir y, en ocasiones, el miedo me paraliza; por eso necesito caminar sostenido por la esperanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si pongo mi confianza únicamente en mis propias fuerzas, estaré irremediablemente perdido; el desaliento y el pesimismo serán mi único pago. Al mirar el panorama del mundo actual, da la impresión de que los hombres han depositado su fe en cualquier cosa menos en Ti, apartándose trágicamente del Camino. Incluso yo mismo suelo caer en la trampa de trazar mis propias metas, diseñar mis propios planes y colocar los cimientos de un edificio que parece no tener más arquitecto que mi propio orgullo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sálvame, Señor Jesús, sálvanos a todos de nuestra propia insensatez cuando pretendemos colocar la esperanza fuera de Ti: ya sea en nuestras capacidades, en el renombre personal, en el dinero, en el poder político o en el falso esplendor de los ídolos de este mundo. Concédeme, Dios mío, la convicción profunda de que mi futuro se desmoronará, y de que el mundo mismo se destruirá, si la esperanza en Tu amor no permanece como el pilar de nuestras vidas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enséñame y prométeme que, a pesar de los tiempos difíciles, de las tardes cansadas y de las noches sombrías, mi futuro y el destino de la Iglesia y del mundo entero están perfectamente resguardados en Tus manos omnipotentes. Aunque deba atravesar una selva de mentiras camufladas, concédeme la gracia de vislumbrar el resplandor de la Resurrección amaneciendo en el horizonte. Fija mis ojos en las realidades eternas, para que mis pasos en el tiempo presente sean guiados siempre por la estrella inequívoca de la esperanza en Ti."
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "star": 28,
+      "title": "Vigesimoctava Estrella: Resiliencia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Entramos en la oficina de nuestro jefe esperando el aumento anual y recibimos la noticia de que estamos despedidos. Contestamos el teléfono solo para escuchar que un ser querido ha fallecido en un accidente espantoso. Los ahorros de toda una vida se desvanecen en una mala inversión. La persona en quien más confiábamos nos traiciona con frialdad. Un miembro de la familia cae en las garras de un vicio destructivo. Recibimos el diagnóstico de una enfermedad dolorosa e irreversible.<br><br>¿Existe acaso alguien que esté completamente a salvo de estos golpes devastadores que caen sobre nosotros como un halcón, hiriéndonos con sus garras y sumergiéndonos en el silencio de Dios? Dichos momentos se presentan sin invitación. Podemos estar de pie, firmes y agradecidos por las bendiciones de la vida, cuando de pronto una bola de demolición imprevista impacta contra todo nuestro ser, triturando nuestros pensamientos y resquebrajando los cimientos de nuestra existencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "El Evangelio de Lucas nos recuerda que María, la Madre de Dios, a pesar de su altísima dignidad, no estuvo exenta de padecer estos dolores desgarradores. Medita por un momento en lo que experimentó su corazón al perder a su Hijo durante tres días en Jerusalén, un acontecimiento que prefiguraba el dolor de perderlo de nuevo en los lazos de la muerte. Aquel Niño era nada menos que el Salvador del mundo, y el Creador mismo lo había confiado a su resguardo y al de José.<br><br>Imagina su angustia cuando Jesús, un adolescente en crecimiento, no apareció en la caravana de los hombres ni en la de las mujeres. Emprendiendo el regreso de inmediato, María comenzó una búsqueda desesperada que se prolongó por tres días y tres noches. Retomó sus pasos una y otra vez, recorriendo calles y plazas, yendo en direcciones equivocadas y consultando a los transeúntes para recibir siempre la misma respuesta: «No, no lo hemos visto»."
+        },
+        {
+          "type": "paragraph",
+          "text": "¿Habría caído en manos de criminales? ¿Seguía con vida? ¿Lo vería de nuevo? ¿Por qué Dios estaba tan callado? ¿Por qué no enviaba un ángel para indicarle dónde estaba su Hijo? Tras tres días con apenas alimento y sin poder conciliar el sueño, María finalmente encontró a su amado Hijo en el templo. ¿Acaso su primera reacción fue una explosión de alegría? No; sus palabras manifestaron la profunda angustia acumulada en su pecho:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 22,48",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/22?48",
+          "text": "Hijo, ¿por qué nos has tratado así? Mira que tu padre y yo te buscábamos angustiados."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y el joven Jesús le respondió con una madurez desconcertante, centrada plenamente en Su misión celestial:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 2,49",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/2?49",
+          "text": "¿Por qué me buscaban? ¿No sabían que debo ocuparme de las cosas de mi Padre?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inmediatamente después, el Evangelio añade una frase reveladora sobre la resiliencia de la Santísima Virgen:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 2,51",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/2?51",
+          "text": "Su madre conservaba cuidadosamente todas estas cosas en su corazón."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los momentos que siguieron al fin de la pesadilla de María nos dan un vistazo de su resiliencia. Tras tres días y noches con poca comida, sueño o descanso, con su mente torturada por el miedo y la incertidumbre, su cuerpo exhausto-y a pesar de recibir una respuesta tan desconcertante, se rindió pacíficamente para atesorar las palabras de su Hijo en su corazón.<br><br>Esa resiliencia solo puede brotar de un corazón que ha muerto por completo a las exigencias del propio interés. Solo quienes se han desprendido de las demandas del ego pueden asimilar el impacto del dolor y absorber de inmediato el poder curativo de Dios. María no puso una barrera a la gracia volviéndose amargada, resentida o llena de autoreproches; tampoco permitió que el miedo gobernara su futuro. Simplemente descansó en la Divina Voluntad. El mañana sería un nuevo día... un día que volvería a estar colmado de paz."
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "star": 29,
+      "title": "Vigesimonovena Estrella: Desapego",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Pasamos los primeros años de nuestra existencia aprendiendo a apegarnos a las personas y a las cosas. Los niños que crecen en un ambiente estable se aferran primero a sus padres o cuidadores con tal fuerza que los perciben como una extensión de su propio cuerpo. Para alimentarse, el bebé se aferra al pecho materno; para encontrar consuelo, el niño llora hasta que es estrechado en un abrazo. A través de la confianza y la dependencia, este mecanismo de apego resulta indispensable para la supervivencia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Desde muy pequeños descubrimos que ciertos objetos nos producen una sensación placentera, mientras que otros nos resultan desagradables. Para explorar el mundo, los niños pequeños atrapan juguetes y desarrollan un afecto posesivo hacia sus favoritos, convirtiéndolos en su objeto de apego o manta de seguridad; del mismo modo, rechazan con desagrado los sabores amargos. Naturalmente, al crecer, extendemos este hábito a nuestros propios rasgos de carácter, opiniones y posesiones, encadenándonos a ellos. Cuando algo que nos produce placer se ve amenazado o corre el riesgo de desaparecer, nos invade la angustia de inmediato. El miedo descarga entonces una energía agresiva para defender lo que consideramos de nuestra propiedad, y así brota el conflicto en nuestro interior."
+        },
+        {
+          "type": "paragraph",
+          "text": "La única manera de vencer en esta batalla es a través del santo desapego. Las lecciones más duras en esta virtud nos acompañan desde el instante en que fuimos expulsados con dolor del vientre materno, nuestro primer hogar. Entramos en este mundo llorando. Siendo bebés, sufrimos un profundo choque cuando descubrimos que quienes nos cuidaban eran seres separados, con voluntad propia, que no siempre acudían a nuestro llamado inmediato ni nos proveían del alimento exacto en el momento preciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "A través de los contratiempos y las renuncias de la vida, aprendemos que la madurez espiritual consiste en un desasimiento progresivo que culminará el día en que debamos entregar el último y más arraigado de los apegos: la propia vida material. San Juan de la Cruz nos enseña que la libertad frente a todos los apegos, incluso los que parecen insignificantes, es una condición indispensable para alcanzar la unión con Dios. Estos apegos cotidianos pueden variar desde imperfecciones habituales como hablar en demasía, hasta preferencias persistentes por la ropa, los libros, los dispositivos electrónicos o la manera exacta en que nos gusta que preparen nuestros alimentos. Mientras existan estos lazos en el alma, será imposible avanzar hacia la perfección."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco importa si un ave está sujeta por un hilo delgado o por una cuerda gruesa; mientras no rompa el lazo, estará impedida para elevar el vuelo. El hilo ciertamente es más fácil de romper, pero el ave no volará hasta que decida romperlo. Tal es la condición de las almas que permanecen encadenadas a las realidades de la tierra: por más virtudes que posean, jamás saborearán la verdadera libertad de la unión divina."
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "star": 30,
+      "title": "Trigésima Estrella: Pobreza",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Señor, líberame de la seducción y del falso refugio del materialismo, una falta que muy pocas personas se atreven a confesar en el examen de conciencia. Incluso aquel hombre acaudalado que contempló Tu Rostro y escuchó Tus palabras directas:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 18,22",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/18?22",
+          "text": "Vende todo lo que tienes y repártelo entre los pobres, y tendrás un tesoro en el cielo; luego ven y sígueme."
+        },
+        {
+          "type": "paragraph",
+          "text": "dio la media vuelta y se alejó lleno de tristeza. Protégeme de los pensamientos mezquinos que siembran desconfianza en mi interior susurrándome que Dios no proveerá, pues son esos temores los que me impiden desprenderme de lo que me sobra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Líberame de los engaños de la comodidad que intentan justificarme diciendo: «Te has ganado estos bienes con tu esfuerzo y mereces retenerlos para tus caprichos». ¿Acaso es menos merecedora de bienestar la mujer humilde que dobla su espalda bajo el sol abrasador de los campos, jornada tras jornada, con las manos llagadas por la dureza de la cosecha? Ella también ha entregado sus años y sus fuerzas a un trabajo extenuante. ¿Quiénes son los verdaderos pobres, Señor?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tú elegiste nacer y vivir entre ellos, convirtiéndote en su hermano. Tu Madre también fue una mujer pobre. Desde las alturas de Tu divinidad abandonaste las riquezas del cielo para encarnar en las privaciones de la tierra, al punto de no tener un lugar propio donde reclinar la cabeza. Te despojaste de Tu gloria, Te sometiste a los límites del cuerpo humano y, al llegar la hora, dejaste Tu humilde hogar para anunciar las Buenas Nuevas. Siendo el centro de la creación, elegiste hacerte presente en las periferias, al lado de los olvidados y marginados; Te preocupaste por los hambrientos, los enfermos, los desamparados, los niños y los ancianos... y lo sigues haciendo hoy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Veo Tu Rostro en las facciones de quienes carecen de lo más indispensable en este mundo; los encuentro en las calles buscando el sustento diario entre las sobras, entregados a oficios mal remunerados y sin reconocimiento. Pero sé bien que la pobreza se extiende por todas partes: se oculta en aquellos que son ignorados por no poseer belleza o talentos llamativos, en el alma solitaria que ha perdido el sentido de su propio valor, en el hombre egocéntrico que no sabe hablar sino de sí mismo y en quien permanece encadenada a las pantallas buscando evadir su realidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Líberame de la pasividad y de las excusas soberbias que intentan convencerme de que los necesitados merecen su suerte, de que mis ocupaciones me impiden ayudarlos o de que es muy poco lo que puedo hacer por ellos. Al final de la vida, Señor, descubriremos con asombro una verdad estremecedora: que aquel pobre que ignoramos, en realidad eras Tú."
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "star": 31,
+      "title": "Trigésimo primera Estrella: Sabiduría",
+      "subtitle": "El primero y más alto de los siete dones del Espíritu Santo",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Para escalar la montaña de la fe hacia la cumbre de la santidad, Dios permite primero que la iniciativa nazca del alma. En estas etapas iniciales, el alma, sostenida siempre por la gracia divina, debe buscar sus propios métodos de ascesis y apoyo espiritual. Al igual que un niño pequeño que aprende a caminar, el alma necesita recurrir a apoyos humanos, métodos de concentración, ejercicios devocionales estructurados y lecturas espirituales para poder avanzar con paso firme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dios, en respuesta a este esfuerzo, alienta y sostiene al alma otorgándole consolaciones sensibles, de modo que la oración parece ser más el resultado del empeño humano que de las mociones divinas.<br><br>Sin embargo, a medida que el alma madura y avanza hacia los estadios más elevados de la vida interior, Dios toma paulatinamente la iniciativa y comienza a obrar de formas sutiles e inesperadas. En este nivel, los apoyos psicológicos e intelectuales de los que antes dependía el alma se vuelven insuficientes. Dios retira los consuelos sensibles y somete al alma a una santa pasividad, bajo la guía directa del Espíritu Santo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una vez que el Espíritu de Dios irrumpe plenamente en la escena, el alma experimenta una necesidad imperiosa de purificación a través del desapego y la mortificación voluntaria. Es entonces cuando desciende la noche oscura del espíritu, despoando al alma de toda seguridad humana, pero colocándola precisamente en el umbral de la unión divina. Cuando esta prueba ha sido superada con fidelidad, el alma —purificada en sus intenciones, fortalecida en el sufrimiento y dotada de una sabiduría infusa— avanza sin obstáculo alguno hacia la unión transformadora."
+        },
+        {
+          "type": "paragraph",
+          "text": "A medida que la persona persevera en la oración y escala estas alturas místicas, emergen en su interior capacidades espirituales antes desconocidas. Impulsada por la gracia, el alma es atraída hacia un torbellino de amor donde Dios se convierte en su Todo y su Absoluto. La persona entera es cautivada, asumida y transformada paulatinamente en una antorcha viva que calienta, arde e ilumina a quienes la rodean. Su único y definitivo fin es conocer y gozar al Dios Vivo."
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "star": 32,
+      "title": "Trigésimo segunda Estrella: Disciplina",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Las reglas del entrenamiento son tan válidas para el atleta como para el espíritu. «¡Nada cincuenta vueltas!», te ordena el entrenador desde la orilla. «¡Imposible!», respondes con desánimo. Sin embargo, te lanzas al agua; al principio nadas con lentitud, completas muy pocas vueltas y te quedas sin aliento rápidamente. Pero perseveras en el esfuerzo día tras día, semana tras semana, aumentando la velocidad y desarrollando una mayor capacidad de resistencia. Hasta que un día, sucede: te despiertas y realizas sin el menor esfuerzo aquello que antes te parecía una meta inalcanzable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Todos llevamos inscritos en el alma talentos divinos y capacidades espirituales únicas que hoy pueden encontrarse dormidas o adormecidas, pero que están llamadas a florecer. Cuando ejercitamos de manera constante estos dones a través de la disciplina de la oración y de la acción virtuosa, el deseo de Dios se despierta en nuestro interior y el Señor se vuelve nuestra satisfacción y nuestro todo cada vez más. Entonces, la vida de fe cobra un dinamismo nuevo: los Sacramentos dejan de ser ritos monótonos o costumbres vacías para transformarse en verdaderos banquetes celestiales; la castidad deja de verse como una represión asfixiante y se revela como una plenitud misteriosa; los deberes diarios de nuestro estado de vida dejan de ser una carga pesada y se asumen como una auténtica misión; y las bienaventuranzas dejan de ser paradojas absurdas para convertirse en fuentes profundas de sabiduría."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando no entrenamos nuestro espíritu para adentrarse en los misterios de Dios, Él se vuelve, en el mejor de los casos, una palabra hueca y, en el peor, un océano oscuro y temible. Pero cuando nos sumergimos decididamente en Sus aguas vivas, Dios se convierte en un Alguien real y cercano. Entre más profundo descendemos, más nos envuelve y nos cautiva el misterio de Su Amor.<br><br>Imagina que comienzas en una habitación completamente oscura; no alcanzas a ver nada, pero decides encender un cerillo. Te pones de rodillas junto a tu cama para elevar una súplica ferviente. Aunque te encuentres exhausto y abrumado, vences la desidia y te disciplinas para asistir a la Santa Misa. Tentado por los placeres efímeros del mundo, le ruego a Jesús que habite y respire en ti. En ese instante, tu pequeña llama se intensifica. De pronto, la luz vacilante revela un hermoso cuadro en la pared; el destello danza sobre la mesa y hace resplandecer los cristales de una lámpara colgante. Con el tiempo, encuentro más y más maneras de iluminar más la habitación. Un día, veo alrededor y exclamo, \"Oh, el cuarto es hermoso, ¡muy hermoso!\". ¿La habitación cambió? No. Es la misma que siempre fue y siempre será. Pero al haber entrado a la luz de la presencia de Dios, nuevas perspectivas y colores y vistas, previamente desconocidas por mí, comienzan a aparecer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los santos y los mártires no alcanzaron la gloria por el simple hecho de haber nacido con una naturaleza excepcional. La gran mayoría de ellos tuvo que sostener una lucha implacable y disciplinada en su camino de santificación. Mediante su esfuerzo constante, se cumplió en ellos la ley espiritual de la atracción: a mayor proximidad con la Luz de Dios, mayor es la velocidad con la que el alma es atraída hacia Él. Cuanto más nos acercamos a la unión con lo divino, más crece la santa seducción del Señor y más se enciende nuestro deseo por poseerlo."
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "star": 33,
+      "title": "Trigésimo tercera Estrella: Mortificación",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La mortificación cristiana no es un desprecio del cuerpo, sino un ejercicio de libertad espiritual mediante el cual sometemos las pasiones desordenadas para asemejar el corazón al de Cristo. San Pablo nos revela el misterio profundo de esta virtud cuando escribe a los Colosenses:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Colosenses 1,24",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/colosenses/1?24",
+          "text": "Ahora me alegro de sufrir por ustedes, porque de esta manera voy completando en mi propio cuerpo lo que falta a los sufrimientos de Cristo por su cuerpo, que es la Iglesia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aunque el sacrificio redentor de Jesús en la Cruz es perfecto y nada le falta en cuanto a su valor infinito, el Cuerpo Místico de la Iglesia está llamado a asociarse a Su Pasión para que los frutos de la Redención se desplieguen sobre la tierra. Esta verdad debe movernos a ofrecerle al Señor pequeños regalos cotidianos: actos intencionales de renuncia y valentía envueltos en los sufrimientos ordinarios de nuestra jornada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ayúdame, Señor, a refrenar el enojo y a guardar un silencio prudente cuando me sienta tentado a reprender con dureza; a alabarte con sinceridad cuando experimente el peso abrumador de la cruz; y a entregarte con mansedumbre el dolor que me causan las palabras injustas y los juicios desfavorables del prójimo. Dame la fortaleza necesaria para negarme un bocado apetitoso o una bebida refrescante como ofrenda de amor; para salir al encuentro de quienes padecen pobreza material o espiritual; y para realizar con prontitud aquello que he venido postergando por comodidad, a pesar de saber que es mi deber."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motiva mi corazón, Jesús, para interceder por las almas que viven alejadas de la oración, para derretir con Tu caridad los corazones que se han congelado en la indiferencia y para mantener la esperanza en favor de aquellos cuyas ilusiones se han estrellado contra las rocas del fracaso. A través de estos pequeños actos de mortificación voluntaria, nos unimos a Ti para contrarrestar las corrientes de destrucción que pretenden avanzar sobre el mundo y sobre la Iglesia, colaborando en la restauración de Tu jardín de paz."
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "star": 34,
+      "title": "Trigésimo cuarta Estrella: Audacia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vivir inmersos en el fuego abrasador de la Santísima Trinidad produce una santa inquietud en el alma: un impulso que impide experimentar una verdadera paz a menos que se compartan las Buenas Nuevas de la Salvación con el prójimo. Al igual que San Pablo, el clamor de un corazón profundamente enamorado de Dios es:"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corintios 9,16",
+          "url_consulta": null,
+          "text": "¡Ay de mí si no anuncio el Evangelio!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando el Divino Alfarero modela nuestra alma conforme a Su propia imagen, brota en nosotros un deseo ferviente de que toda la humanidad se salve; anhelamos con el corazón que, ante el Nombre de Jesús, toda rodilla se doble en el cielo, en la tierra y en el abismo, y toda lengua proclame para gloria de Dios Padre que ¡Jesucristo es el Señor! (Filipenses 2,10-11)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si el fuego de la evangelización no arde en nuestro interior, significa que los lazos del egoísmo y los respetos humanos han eclipsado la luz del Espíritu Santo, cuya acción es permanentemente activa y creativa en la edificación del Reino. Cuando permanecemos dóciles a Sus mociones divinas —que a veces se perciben como una inspiración gozosa y otras como una saludable inquietud en la conciencia— nos disponemos a transmitir a los demás, a través de nuestras palabras, obras y oraciones, las inmensas riquezas de la Iglesia. Las tentaciones del miedo, la complacencia, el juicio crítico o la soberbia no pueden frenar a un alma que ha decidido salir de su zona de confort y asumir los riesgos necesarios para ganar almas para el cielo."
+        },
+        {
+          "type": "paragraph",
+          "text": "El mundo está lleno de personas que caminan extraviadas y sedientas de verdad, persiguiendo espejismos que las conducen hacia la oscuridad. Muy pocas conocen el verdadero sentido de su existencia. Sin un testimonio auténtico y una audacia evangélica por parte de los bautizados, no habrá horizonte de salvación para ellas, ni vitalidad para la Iglesia. Grabemos esta certeza en el corazón: un testimonio verdaderamente eficaz solo puede brotar de una relación íntima, constante y vital con Jesús. Así como He afirmó, \"Vine del Padre hacia el mundo\" (Juan 16:28a), entonces también, para tener autoridad moral, credibilidad auténtica, y poder divino para actuar como testigos, debemos ser capaces de repetir: \"He estado con el Padre, y vengo a contarles lo que he visto y escuchado\"."
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "star": 35,
+      "title": "Trigésimo quinta Estrella: Entendimiento",
+      "subtitle": "Uno de los siete dones del Espíritu Santo",
+      "videos": [
+        "semana_5_confesion"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Dios actúa siempre en perfecta coherencia con Su propia sabiduría; sin embargo, este aspecto de los designios del Creador puede resultarnos sumamente difícil de comprender, al punto de sacudir violentamente nuestra fe cuando los acontecimientos siguen su curso natural en este mundo herido por el pecado. «¡Qué tragedia tan espantosa! Un conductor ebrio atropelló a un niño inocente y lo mató en el acto. ¡Su madre se ha quedado completamente sola en la vida!». Ante escenas así, la tentación nos susurra: ¿Acaso Dios es indiferente, severo o injusto? ¿Qué pasó?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La respuesta, desde una perspectiva puramente física, es que Dios permite que las leyes universales de la naturaleza que Él mismo estableció —la velocidad, la física de los impactos y el deterioro de los reflejos a causa del alcohol— sigan su curso ordinario, y como consecuencia de la imprudencia humana, sobreviene la tragedia. Al igual que Marta ante el sepulcro de su hermano Lázaro, nuestro dolor estalla en un grito de protesta:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Juan 11,21",
+          "url_consulta": null,
+          "text": "Señor, si hubieras estado aquí, mi hermano no habría muerto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y cuestionamos al Cielo: «Señor, ¿acaso no pudiste haber evitado esta calamidad?»."
+        },
+        {
+          "type": "paragraph",
+          "text": "En términos de Su omnipotencia absoluta, la respuesta es sí; porque el Creador de todas las leyes físicas y del tiempo mismo puede alterar el orden de la naturaleza a Su arbitrio a través de un milagro. Sin embargo, Él respeta de manera ordinaria la libertad humana y las leyes que puso en marcha en el universo. Es posible que nuestra mente no alcance a comprender los motivos por los cuales permitió determinado sufrimiento, ni de qué manera obtendrá un bien mayor de esa dolorosa encrucijada; pero el don de Entendimiento nos concede la certeza interior de que así lo hará, simplemente porque Él es el Sumo Bien."
+        },
+        {
+          "type": "paragraph",
+          "text": "El don de Entendimiento nos revela también que Dios permitió la injusta, cruel y dolorosa crucifixión de Su único Hijo a manos de los mismos hombres a quienes amó hasta el extremo, con el único propósito de abrirnos las puertas de la salvación eterna. Dios jamás permitirá un mal en nuestra vida a menos que este tenga como fin último producir un bien espiritual incomparablemente mayor. Esta es una ley de la divina pedagogía que nunca será derogada. Este don del Espíritu Santo nos asegura que la máxima prioridad para el Cielo no es la preservación de los cuerpos temporales, sino la salvación eterna de las almas. Por lo tanto, acallaré mis reclamos angustiados, asumiré una perspectiva sobrenatural y dejaré de preguntar por qué, porque entiendo, verdaderamente entiendo, que bajo el amparo del Padre, al final todo estará bien."
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "star": 36,
+      "title": "Trigésimo sexta Estrella: Prudencia",
+      "subtitle": "Una de las cuatro virtudes cardinales",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La prudencia contempla al mundo desde una posición elevada y privilegiada. Alzándose como una majestuosa secoya, señorial y firme, gobierna sobre las virtudes menores —los pinos y los robles de nuestra alma—, dictaminando de qué manera deben ser empleadas en la vida cotidiana. Ella juzga con rectitud entre el bien y el mal, y posee la sabiduría para discernir lo que es un bien superior por encima de lo que es meramente bueno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entre sus múltiples mandatos, la prudencia nos indica con claridad cuándo ha llegado el momento de emprender una acción decisiva y cuándo debemos abandonarnos en una santa sumisión. En las encrucijadas de la existencia, es inevitable encontrarnos cara a cara con circunstancias sumamente dolorosas, injustas o peligrosas. Ante esto, la prudencia nos obliga a preguntarnos con honestidad: «Esto que hoy me lastima, ¿puede ser cambiado o mejorado?, ¿tiene alguna solución?, y de ser así, ¿es una solución que yo deba intentar?»."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prudencia guía nuestro mejor juicio a la luz de las enseñanzas de la Iglesia y de la Sagrada Escritura, apoyándose siempre en el discernimiento, la oración y el consejo de personas sabias. Si una solución viable —por pequeña que sea— se vislumbra en el horizonte, la prudencia unirá sus fuerzas con la fortaleza y nos dirá al corazón: «No es tiempo de rendirse bajo ningún pretexto; ha llegado la hora de luchar con todas las armas espirituales a tu alcance y de poner en juego todas tus energías»."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, al mirar de frente la realidad, con frecuencia descubriremos que una gran cantidad de las espinas de la vida no tienen remedio ni marcha atrás; o bien, que si existe una solución, esta no se encuentra a nuestro alcance. Estas son las verdaderas «imposibilidades» de la existencia. Si no hay absolutamente nada que podamos hacer para alterar una situación, resulta estéril desgastarnos en llantos y lamentos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resistirnos con violencia mental ante un hecho consumado es un acto destructivo que desata una dolorosa agitación en el alma; nos sumerge en la indignación, el miedo, la tristeza, la amargura y la culpa. Entre más nos resistimos a lo inevitable, más nos oprime la situación, hasta dejarnos atrapados en un círculo vicioso que nos conduce a estados de profunda ansiedad o depresión. Podemos llegar a vivir obsesionados con aquello que nos es imposible alterar y, precisamente a causa de nuestro rechazo, ese sufrimiento se convierte en un lazo idólatra en nuestra mente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al final, al enfrentarnos a los callejones sin salida de la vida, solo nos quedan dos opciones: abandonarnos en Dios o estallar en pedazos. Quienes actúan con prudencia se dicen a sí mismos: «Es inútil quejarme y sollozar. A partir de este preciso instante, doblaré las rodillas de mi alma y recostaré mi cabeza en Tu pecho, Señor. Te entrego por entero este problema; es Tuyo para que lo resuelvas, ya no es mío». Ante este acto de desprendimiento, Dios eleva a los prudentes por encima de los vaivenes del mundo para sumergirlos en un torrente de paz, donde nada los puede encadenar: ni el fracaso ni el éxito, ni la adversidad ni la prosperidad, ni la incomodidad ni el bienestar."
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "star": 37,
+      "title": "Trigésimo séptima Estrella: Piedad",
+      "subtitle": "Uno de los siete dones del Espíritu Santo",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Las almas piadosas pueden recorrer exactamente el mismo camino terrenal que las almas impías; sin embargo, contemplarán el paisaje que las rodea de una manera completamente distinta. Las almas piadosas caminan por los campos de la vida y descubren que las flores, el canto de las aves e incluso el sutil murmullo de los insectos les hablan abiertamente del amor de Dios."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cambio, las almas impías miran las mismas flores, pero centran toda su atención en el lodo que ensucia sus zapatos, en los errores del jardinero y en el sol abrasador que les quema el cuello; esta mirada amargada les cierra el corazón a la gracia y les recuerda constantemente que la belleza del mundo viene siempre acompañada de incomodidades y dolores."
+        },
+        {
+          "type": "paragraph",
+          "text": "El alma piadosa medita con gozo las Buenas Nuevas proclamadas por Aquel que descendió de la Casa del Padre, quien nos enseñó que el Reino de los Cielos es como una joya preciosa que irradia una luz muy superior a la del sol, un esplendor tan inmenso que, con tal de poseerlo, vale la pena vender todo lo que se tiene en la tierra. Las almas impías, por el contrario, se niegan a desprenderse de sus apegos, porque en la renuncia solo alcanzan a vislumbrar pérdidas y ninguna ganancia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las almas piadosas veneran lo sagrado y corren con presteza a cumplir sus deberes para con Dios. Las almas impías experimentan las obligaciones religiosas como un obstáculo para su falsa libertad y como una carga monótona. Mientras las primeras le dan a Dios lo que es de Dios y al César lo que es del César, las segundas pretenden entregar al César lo que le pertenece exclusivamente al Señor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Es verdad que tanto las almas piadosas como las impías deben descender juntas por los mismos valles oscuros de la injusticia y el dolor humano en este mundo: contemplan mansiones opulentas al lado de chozas miserables, tensiones sociales, abusos crueles, leyes que atentan contra la dignidad de la vida desde su concepción hasta la ancianidad, el desborde del hedonismo ante los ojos inocentes de los niños y la exaltación de lo que está espiritualmente prohibido. Ante este panorama, ambos grupos pueden coincidir en que la historia del mundo parece describir una curva descendente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, la piedad no debe confundirse con la ingenuidad, e idénticamente, la impiedad padece de una ceguera espiritual. Mientras el alma piadosa atraviesa el fondo del valle, ve el mal de frente, pero mantiene la certeza inquebrantable de que la aurora de Dios aparecerá y será triunfante; su mirada penetrante, iluminada por la fe, es capaz de captar los rayos de luz divina que permanecen invisibles para la retina humana. Las almas impías, en cambio, se obsesionan con el mal y concluyen que la bondad está condenada al fracaso; contemplan cómo se oscurece el cielo al caer la tarde y se convencen de que el firmamento de la noche quedará desprovisto de estrellas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para ambas almas llegará de manera inexorable el día de la muerte. Al contemplar el Rostro resplandeciente de Dios, el alma piadosa descubrirá que sus anhelos más extravagantes e ilusiones terrenales eran insignificantes en comparación con la gloria de una Presencia que sacia plenamente todo deseo. Las almas impías, por su parte, comprenderán demasiado tarde que su visión del mundo no era más que una cortina de humo que apenas guardaba semejanza con la realidad."
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "star": 38,
+      "title": "Trigésimo octava Estrella: Justice",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En ese momento esencial de la historia humana, ¿por quiénes se manifestaba la preocupación del corazón de Jesús? Cuando un hombre está encarcelado erróneamente por el color de su piel, esa persona toca, respira, e inhibe injusticia. Cuando una mujer trabaja largas horas lejos de sus hijos sin supervisión, pero aun así no los puede alimentar, vive sin alivio en la preocupación y desesperación de la injusticia. Cuando una joven chica es vendida a la esclavitud sexual, es atada a un pilar y azotada por la injusticia. No tienen voz."
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 4,16-20",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/4?16-20",
+          "text": "Llegó a Nazaret, donde se había criado, y según su costumbre entró en la sinagoga el día sábado. Se levantó para hacer la lectura, y le entregaron el libro del profeta Isaías. Desenrrolló el libro y halló el pasaje donde estaba escrito:<br><br>El Espíritu del Señor está sobre mí. Él me ha ungido para llevar la Buena Nueva a los pobres, me ha enviado para anunciar la libertad a los cautivos y la vista a los ciegos, para poner en libertad a los oprimidos y proclamar el año de gracia del Señor.<br><br>Jesús enrolló el libro, lo devolvió al encargado y se sentó. Los ojos de todos los presentes en la sinagoga estaban fijos en Él."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando un hombre es encarcelado injustamente, esa persona respira, palpa y padece la injusticia en su propia carne. Cuando una madre de familia debe trabajar jornadas extenuantes lejos de sus hijos, sin poder siquiera asegurar el sustento diario, vive bajo el peso constante de la desesperación que produce la injusticia. Cuando una niña inocente es sometida a la explotación, permanece encadenada y flagelada por la maldad humana. Ellos no tienen voz en este mundo. Por eso, Jesús abrió el libro sagrado y proclamó con autoridad divina:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 4,21",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/4?21",
+          "text": "Hoy mismo se ha cumplido este pasaje de la Escritura que acaban de oír."
+        },
+        {
+          "type": "paragraph",
+          "text": "En otras palabras: «A partir de este preciso momento, Yo me convierto en su voz» —una voz que hace eco a través del tiempo en los labios de los verdaderos discípulos del Señor—. Ellos son los testigos que pronuncian palabras de esperanza viva en favor de los mudos y de los olvidados; son los imitadores de Aquel que sale en defensa de los desamparados, los pobres, los niños por nacer, los ancianos, los enfermos de mente y cuerpo, y los maltratados. Estos discípulos son como árboles frondosos de raíces sagradas, en cuyas ramas acogedoras las aves más frágiles encuentran un nido seguro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Estos hombres y mujeres comprenden que, independientemente de su profesión u oficio en el mundo, son hijos de Dios por encima de todo. No son médicos que casualmente son católicos, sino católicos que ejercen la medicina; no son madres que casualmente son católicas, sino madres profundamente católicas. Su «sí» es una melodía gozosa en el oído del Señor cuando el mundo guarda un silencio cómplice, y su «no» se transforma en una lanza firme en las manos de Dios cuando la sociedad elige dormir con el enemigo. A cada una de sus tareas aportan una mirada sobrenatural, y a cada persona le transmiten el amor del Señor. Ellos caminan decididamente hacia donde Cristo los guía, plenamente conscientes de que el testimonio de la justicia y del amor bien puede costarles la propia vida."
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "star": 39,
+      "title": "Trigésimo novena Estrella: Paz",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El deseo por la paz existe en el alma de cada ser humano. Es una llamada persistente hacia una existencia interna muy diferente de la insatisfacción incansable que está presente en incontables almas rondando esta Tierra. Aquellos pocos que han encontrado un santuario de serenidad en sí mismos se han conquistado en una batalla personal oculta de proporciones míticas. Crucificados a sí mismos, habiéndole dado sus voluntades completas a Dios, viven en la paz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los hilos de sus corazones pulsan en unísono con el Creador en melodías armoniosas escuchadas solo por ellos; las trivialidades del mundo y las modas desaparecen para ellos y dejan de ser de interés. Su manera es considerada y cortés. Son sensibles a la naturaleza; los problemas de otros se vuelven suyos. Con pensamientos positivos y puros, aún hacia sus enemigos, dedican su tiempo para rezar por ellos, en lugar de criticarlos y condenarlos. El enemigo yace en las profundidades de los corazones humanos, no en las tierras de las naciones opuestas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Las personas de paz no pueden ser personas de guerra, pues la voluntad de Dios no tiene agresión o brutalidad contenida en sí. Escondidas en los pensamientos del hombre están las guerras que distorsionan los valores de Dios con compromiso al punto de que líderes y gente y naciones se vuelven violentos, arruinando destinos humanos y ahogando al planeta. No matarás (Éxodo 20:30) no es un mandamiento desacreditado de pronto por una declaración de guerra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestra Señora, cuando apareció en Fátima, nos dio una advertencia sombría: «La guerra es un castigo por el pecado». El Señor de Todo y Su Madre de gracia no dependen de nuestras armas para traernos paz y salvación. Dependen de nuestras oraciones, rosarios, ayunos y sacrificios, y nuestras santas vidas. Jesús es el príncipe de la Paz, no el príncipe de la guerra. María es la Reina de la Paz, no la reina de la guerra. Día y noche, déjanos comprometernos a ahondar más profundamente en nosotros mismos para apagar las llamas persistentes del orgullo y cortar las miles de cabezas de enojo, agresión, y venganza. Solo cuando nos hemos conquistado a nosotros mismos y hemos silenciado nuestros miedos el mundo descansará en manos del Dios de la paz."
+        },
+        {
+          "type": "prayer",
+          "text": "Jesucristo, mi Señor y mi hermano, hazme un instrumento de Tu paz.<br><br>Infunde en mí un espíritu tan dócil y cortés que pueda manifestar hacia el prójimo la misma reverencia y consideración que tendría hacia Ti.<br><br>Coloca un cerrojo firme en las puertas de mi corazón para que no me permita pensar mal de nadie, juzgar con severidad, malinterpretar los acontecimientos ni levantar falsas suposiciones.<br><br>Aquieta mi mente cada vez que intente profanar el santuario sagrado de las intenciones ajenas.<br><br>Cuando la tentación de hablar mal de un hermano intente asomarse a mi garganta, sella mis labios con el silencio, para que jamás derrame el veneno del chisme ni quebrante una confidencia.<br><br>Concédeme la gracia de custodiar los secretos ajenos hasta la muerte. Que mi presencia sea un bálsamo que sane, que mi lengua sea un instrumento que aliente y que mis acciones alivien los dolores de los corazones heridos.<br><br>Permíteme esparcir un sendero de bendición y de paz por dondequiera que Tu Providencia me guíe. Amén."
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "star": 40,
+      "title": "Cuadragésima Estrella: Excelencia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Muchos hombres parecen obsesionados con edificar una existencia centrada en la comodidad, la ligereza y los placeres de toda índole. Sin embargo, la vida humana jamás fue diseñada por Dios para ser un camino fácil. Desde el principio de la creación, el Señor dispuso que el hombre y la mujer trabajaran, y el trabajo constituye una ley fundamental de nuestra condición."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gran parte de la humanidad desgasta sus energías intelectuales y sus fuerzas físicas en combatir el Reino de Dios, ya sea con una abierta intención maliciosa o bajo las sombras de la ignorancia. Desde el amanecer y mucho más allá de la puesta del sol, persiguen con terquedad sus ambiciones egoístas o extraviadas, desenterrando los abismos del error y colocando yugos opresivos sobre los hombros de los justos. Utilizando los talentos y capacidades que su mismo Creador les otorgó, trabajan con diligencia e inteligencia, a veces sin ser plenamente conscientes de ello, para entorpecer los planes divinos a fin de consolidar los suyos propios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para contrarrestar esta marea creciente, Dios está llamando al pueblo católico a unirse y extenderse como un vasto y profundo sistema de raíces que extrae su nutrición de las aguas vivas de la gracia. En medio de los movimientos apostólicos, las profesiones, el ámbito de la política, las corporaciones, las redes de trabajo y las familias... allí donde el Espíritu de Dios elija plantar a los Suyos, debemos esforzarnos por romper la dureza de la tierra para crecer firmes y erguidos, buscando siempre la Luz del Hijo. Solo si florecemos con fuerza allí donde hemos sido plantados, seremos capaces de transformar el mundo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Teniendo siempre como prioridad absoluta el amor a Dios, la santidad de la familia y el servicio al prójimo, el Señor nos exige la excelencia en nuestro trabajo ordinario. Si por condiciones naturales, herencia o adversidades de la vida, padecemos dificultades para el aprendizaje o limitaciones para la expresión, Dios contempla nuestro esfuerzo y constancia como una verdadera excelencia a Sus ojos. Si tenemos la capacidad de realizar con calidad la tarea que Él nos ha encomendado, no nos deja excusa alguna para la mediocridad. E idénticamente, aquellos que alcanzan las más altas cumbres del éxito en sus campos de estudio o profesión, pero carecen de Cristo en sus vidas, son apenas una sombra de lo que podrían llegar a ser si poseyeran la plenitud del Dios Vivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "En cada logro santo, toda la gloria le pertenece exclusivamente a Dios, porque nosotros no somos más que polvo; Su luz brilla con mayor esplendor a través de los católicos que reconocen su propia pequeñez, otorgándoles ante el mundo la apariencia de ser grandes. ¡Qué valioso es el tiempo! Dichosos quienes comprenden cómo hacer un uso santo de él. Si la humanidad entera lograra vislumbrar su valor eterno, indudablemente consagraría sus mayores afanes a vivir cada hora de una manera digna de los santos, pues lo que está en juego es nada menos que la salvación eterna de las almas."
+        },
+        {
+          "type": "paragraph",
+          "text": "El ritmo que Dios desea para nuestro trabajo es constante y sereno, jamás apresurado; y en ocasiones, nos exige descansar en Su amor, porque el mundo nos desgasta con su ausencia de rumbo y sus prioridades desfiguradas. Pero el verdadero descanso no debe confundirse con la pereza ni con la laxitud, las cuales son auténticas ladronas del Espíritu. Dios nos ha diseñado para arar permanentemente hacia adelante, realizando una sola tarea a la vez y haciéndola bien. Si buscamos la perfección —not por un afán perfeccionista y soberbio que se centra en el propio lucimiento, sino movidos por el deseo puro de ofrecerle algo hermoso a Dios—, tendremos la certeza de haber realizado nuestro mejor esfuerzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "And una vez que hayamos puesto nuestros talentos al servicio del Reino, valiéndonos de los medios humanos legítimos a nuestro alcance, lo único que nos resta por hacer es elevar la mirada al cielo y exclamar: «Padre, este ha sido mi mejor esfuerzo; Te lo entrego con humildad. Por favor, acepta este humilde regalo de Tu siervo y, por medio de él, concédeme a mí y al mundo entero la gracia de enamorarnos cada día más de Ti»."
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "star": 41,
+      "title": "Cuadragésimo primera Estrella: Templanza",
+      "subtitle": "Una de las cuatro virtudes cardinales",
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La templanza es un freno necesario al hambre del cuerpo, a la influencia de las emociones negativas y a las aspiraciones egocéntricas de nuestro ego. Esta virtud cardinal, que cobija de manera segura a otras virtudes debajo de sus grandes alas, protege al alma de los extremos que la tientan de continuo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestra carne, cuando está saciada, encuentra una complacencia puramente temporal en la indulgencia, pero con el tiempo se vuelve cada vez más insatisfecha a medida que obtiene más de lo que desea. Es así como se fermenta la adicción, permitiendo que los espíritus oscuros entren en nuestro ser, tomen el control de nuestras facultades y nos manipulen como auténticos títeres para conseguir sus fines mortales. Podemos llegar a convertirnos en lobos hambrientos que solo buscan satisfacer sus necesidades percibidas, devorándonos a nosotros mismos y a quienes nos rodean."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los bienes materiales y el dinero nos engañan haciéndonos creer que son auténticos dioses. El alimento nos promete erróneamente que terminará con nuestro vacío interior; las drogas y el alcohol nos ofrecen una evasión sin dolor. El poder nos hace creer falsamente que somos menos vulnerables, mientras imágenes sugestivas desfilan por nuestra mente pretendiendo ser la respuesta a nuestra soledad. El entretenimiento desmedido, los videojuegos, el Internet, los deportes asumidos como idolatría y las miríadas de vanidades reclaman un trono en nuestras almas. La televisión se ha convertido en el nuevo sacramento ante el cual las familias se sientan a rendir culto, infiltrándose en las mentes como un gas imperceptible y venenoso. El resultado final es alarmante: vivimos con cuerpos agitados, emociones desbocadas, ojos hambrientos y deseos insaciables, persiguiendo un alimento que no nutre y un agua que nos deja cada vez más sedientos."
+        },
+        {
+          "type": "paragraph",
+          "text": "En medio de este desierto, Dios nos asegura al corazón, si nos disponemos a escucharlo: «No necesitan aferrarse con ansiedad a lo que Yo deseo proveerte con infinito amor, a Mi manera y en Mi momento. Confía en Mí. La paciencia y la templanza alcanzan todos los bienes». Mediante la templanza, elegimos aceptar pequeños sufrimientos temporales a cambio de librarnos de padecimientos espantosos, e incluso eternos. De este modo confundimos al demonio, que es como un perro rabioso amarrado por una cadena; más allá de la longitud de sus grilletes, le es imposible atrapar a nadie. Pero aquel que se acerque demasiado a sus límites, será alcanzado sin remedio. A través de las pequeñas renuncias que nos exige la templanza, nuestras almas se mantienen a una distancia segura del peligro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Así se desarrolla la vida: Un joven decide no participar en las murmuraciones de su entorno; al principio soporta convertirse en el blanco de las críticas de los demás, pero con el tiempo es alabado por su integridad y su rectitud. Una joven rechaza los avances inapropiados de los muchachos y padece momentáneamente su desinterés, pero se salva de los estragos de un alma rota, de relaciones destructivas y quizás de la tragedia del aborto, alcanzando después un matrimonio santo y feliz. Un hombre se rehúsa a beber en exceso con sus compañeros de trabajo y soporta el ostracismo de ciertos amigos, pero se libra de las crudas y del agarre vicioso de la adicción y el desastre familiar, llevando una vida fructífera. Una mujer se abstiene de mirar pornografía y evita gastar el resto de sus días intentando borrar de su mente esas imágenes grabadas a fuego; permanece libre y creativa."
+        },
+        {
+          "type": "paragraph",
+          "text": "De la templanza brotan tanto el dolor de la renuncia como el júbilo de la libertad. En cierto sentido, podemos afirmar que el sufrimiento ha sido conquistado, o por lo menos ha perdido su picadura más aterradora: la ausencia de sentido. Del sacrificio finito que exige la templanza brotan fuentes gloriosas de virtud; y entre más alto se elevan, más fértil se vuelve el subsuelo de donde nacen. Dios se deleita en el alma templada, ofreciéndole respuestas divinas, destellos de luz y consuelo en medio de la persecución. Ante ella se despliega un panorama de avenidas trascendentes y dones divinos, porque el alma templada es un alma en la que Dios puede confiar plenamente."
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "star": 42,
+      "title": "Cuadragésimo segunda Estrella: Castidad",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La castidad, para algunas almas, constituye un estado de profunda paz que libera al cuerpo de las tensiones del desorden y a la mente de los deseos posesivos, disponiendo al espíritu para alcanzar las alturas místicas del amor desinteresado. Para otras, se experimenta como un combate riguroso frente a las tormentas desenfrenadas de la lujuria que pretenden devorar el alma. Es doloroso constatar que hoy en día la castidad y la pureza muy frecuentemente se encuentran heridas al lado del camino; se les desecha y minusvalora en favor de un fuego egoísta que impulsa al cuerpo a unirse con cualquier oportunidad en su búsqueda desesperada de afecto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La serpiente nos susurra al oído que vivir sin placeres sexuales equivale a llevar una existencia inhumana, infeliz y mutilada por la represión y la privación. Siendo un mentiroso desde el principio, el enemigo satura el alma con imágenes, canciones, modas y experiencias sugestivas con el único fin de encadenar los sentidos. La mente u cuerpo, entonces adictos y poseídos, creen y sienten que ya no pueden vivir de otro modo. Incluso en el matrimonio santo, donde la unión conyugal está llamada a reflejar el amor unicitivo y procreador de la Santísima Trinidad, la sensualidad cruda puede llegar a desplazar a la verdadera caridad. Con demasiada facilidad se olvidan las alegrías inocentes de la juventud y los placeres más puros de la existencia; y rara vez se recuerda el llamado de Dios a honrar nuestro cuerpo como un templo vivo del Espíritu Santo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La castidad jamás se atreve a utilizar a otra persona como un objeto para el placer, la comodidad o como un escape para la propia soledad. Nunca se comporta ni se viste con intenciones de seducir o de atraer una atención salaz; al contrario, respeta la propia dignidad y la del prójimo como criaturas creadas a imagen y semejanza de Dios. La pureza inspira que un apretón de manos, una mirada limpia o un abrazo fraterno tengan como único fin consolar y jamás dañar. Apenas podemos vislumbrar la profunda ternura y castidad que envolvía el trato mutuo entre San José y la Santísima Virgen."
+        },
+        {
+          "type": "scripture",
+          "reference": "Génesis 3,4",
+          "url_consulta": null,
+          "text": "¡Ciertamente no morirán!"
+        },
+        {
+          "type": "paragraph",
+          "text": "nos repite el enemigo incitándonos a probar del fruto prohibido, mientras la criatura más pura de la creación, la Reina vestida de sol, nos dirige una advertencia apremiante a través de sus apariciones en Fátima:"
+        },
+        {
+          "type": "reflection",
+          "text": "Son más las almas que van al infierno por los pecados de la carne que por cualquier otra razón...\n\nSe introducirán ciertas modas que ofenderán mucho a Nuestro Señor...\n\n¡Ay de las mujeres que carezcan de modestia!...\n\nLos pecados del mundo son muy grandes...\n\nSi los hombres supieran lo que es la eternidad, harían todo lo que estuviera en su mano para cambiar de vida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ningún bien se ha perdido para siempre mientras el alma permanezca con vida en este mundo. Nuestros sentidos espirituales pueden ser restaurados y el clamor de las pasiones mitigado si corremos con prontitud a los brazos de Dios: acudiendo a los Sacramentos de la Confesión y la Eucaristía, meditando la Escritura, abrazando el ayuno y la oración y, de ser necesario, buscando el apoyo de una dirección espiritual o de un proceso de sanación. Con el tiempo, el alma comenzará a saborear el dulce néctar de la verdadera libertad cristiana."
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "star": 43,
+      "title": "Cuadragésimo tercera Estrella: Obediencia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Si nuestro anhelo es alcanzar el cielo, debemos involucrarnos en un proceso dinámico de transfiguración, o «Cristificación» —el santo intercambio de nuestra propia figura por la de Cristo—. Entre más nos asemejamos a Dios, más insaciable se vuelve nuestra hambre de virtud y más ferviente nuestro deseo de alcanzar la santidad. Después de todo, para esto fuimos creados, y nada menos que nuestra santificación completa nos garantizará un paso radiante a través de las puertas del paraíso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Somos criaturas que nos encontramos vivas en esta tierra sin haber optado por ello; no elegimos la constitución de nuestro cuerpo, ni las virtudes o los defectos oscuros de nuestra personalidad que venían inscritos en nuestro código genético antes de nacer, ni seleccionamos los dones o las cargas heredadas de nuestros antepasados. La transfiguración de nuestra identidad consiste precisamente en vaciarnos de esos defectos congénitos para reemplazarlos, paso a paso, por las virtudes divinas de Jesús. Implica despojarnos de las vestiduras del «hombre viejo» —el orgullo, el egoísmo, la animosidad y la rebeldía— para revestirnos de una dignidad nueva que no es de esta tierra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yo debo disminuir para que Jesucristo aparezca en mí; debo desalojar mi propio territorio egoísta para que Él lo ocupe por entero. Para este fin, Jesús nos fundó la Iglesia Católica, prometiéndonos que la guiaría con la asistencia del Espíritu Santo hasta el fin de los tiempos. Él no nos dejó huérfanos, aun cuando existan hombres que pretendan destruir la Iglesia desde su interior. Dios jamás nos habría entregado Sus Mandamientos y la guía moral de la Iglesia para dejarnos caer en el engaño. Él no nos dijo de ninguna manera: «Solo algunas de mis enseñanzas son verdaderas; dependerá del criterio individual de cada uno de ustedes adivinar cuáles son. Buena suerte, su salvación eterna depende de ello»."
+        },
+        {
+          "type": "paragraph",
+          "text": "¿Por qué un Dios infinitamente amoroso nos confundiría con enseñanzas morales falsas, saboteando nuestros propios esfuerzos por alcanzar la santidad? Esto carecería de sentido ordinario. Jesús prometió no retirar jamás Su mano de guía y Su autoridad moral de la Iglesia, incluso cuando algunos de sus ministros no las sigan en sus vidas personales."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vivimos en una época de profunda desobediencia y soberbia, donde algunos pretenden arrogantemente saber más que el Catequismo, que los consejeros de la Iglesia, que los santos, incluso que el mismo Jesús. Alteran la Escritura para decir lo opuesto de lo que ha dejado muy claro. Rezan con desfachatez para que los vientos del relativismo moderno expongan una supuesta verdad por primera vez, convencidos de que la Iglesia Católica y sus santos han vivido en el error desde el principio. Su postura es: «Todos los siglos estuvieron equivocados, la Escritura está equivocada, pero mi criterio es el correcto»."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quienes eligen acoger con humildad las enseñanzas de la Iglesia, tal como las instituyó Cristo, encontrarán un puerto seguro y un descanso definitivo para sus almas. En cambio, quienes se dejen arrastrar por los vientos del relativismo moral y fluyan con las corrientes modernas de la desobediencia masiva, serán arrastrados por una fuerza invisible hacia abismos profundos y extremadamente peligrosos."
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "star": 44,
+      "title": "Cuadragésimo cuarta Estrella: Sacrificio",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Una enfermedad dolorosa, un matrimonio sacramental que parece haber perdido la vida, un hijo rebelde que se desvía del camino, una injusticia desgarradora... ¿Cuál es el verdadero sentido de semejantes sacrificios y penalidades? ¿De qué sirve padecer todo esto? Desde que el primer corazón humano experimentó el dolor en el mundo, este ha sido su clamor constante. No existe una sola alma que, en un momento de honda angustia, no se haya preguntado lo mismo, ya sea de manera explícita o a través de una dolorosa confusión."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sin embargo, la tragedia más oscura de la existencia no radica en el sufrimiento en sí mismo, sino en la desgracia de sufrir inútilmente. Pensemos en una joven desamparada por su padre que recurre a las drogas para evadir su tormento interior; muere víctima de una sobredosis accidental con la aguja aún clavada en su brazo, viendo morir con ella todos sus anhelos legítimos. Semejante sufrimiento estéril siembra la semilla de la rebeldía en el alma, al punto de consumirnos en un resentimiento estéril o en una rabia ciega contra la vida y contra Dios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando Jesús caminó por nuestra tierra, la agitación y el odio que se levantaron a Sus pies fueron de tal magnitud que Su vida entera, humanamente hablando, fue triturada por el dolor y reducida a cenizas en una crucifixión espantosa e injusta. ¿Cuál fue la gran diferencia? Que ni una sola gota de Su Preciosísima Sangre se derramó en vano. Cada azote cruel, cada grito de burla, cada espina perforadora y cada insulto pernicioso que lo hirió constituyeron Su ofrenda de amor voluntario para la salvación eterna del mundo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y cada uno de nuestros sufrimientos cotidianos está llamado a tener el mismo valor trascendente. Este es el gran secreto oculto detrás del dolor redentor y del sacrificio voluntario. El Señor nos invita:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Marcos 8,34",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/marcos/8?34",
+          "text": "El que quiera seguirme, niéguese a sí mismo, tome su cruz y sígame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Y nos instruye sobre el espíritu de la mortificación:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Mateo 6,16",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/mateo/6?16",
+          "text": "Cuando ustedes ayunen, no pongan cara triste, como los hipócritas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Advirtiéndonos con claridad lo que implica el discipulado:"
+        },
+        {
+          "type": "scripture",
+          "reference": "Lucas 14,28.33",
+          "url_consulta": "https://juan-pablo-lopez.github.io/vida-catolica/#/citas-biblicas/lucas/14?28.33",
+          "text": "¿Quién de ustedes, si quiere edificar una torre, no se sienta primero a calcular los gastos?... Así pues, cualquiera de ustedes que no renuncie a todos sus bienes, no puede ser mi discípulo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nuestro sufrimiento puede salvar almas. Jesús vino a sanar y aliviar nuestro dolor auto infligido, innecesario y sin valor. Intentará, cada vez que pueda, tomar nuestra atención y gritar, \"¡Despierta! Esto es innecesario. ¡Tú eres la causa de tu agonía!\" Pero cuando, en comunión con el sufrimiento de Cristo, ofrecemos a Dios nuestro sufrimiento inevitable, el significado es restaurado y la rebelión se desvanece. Mientras descubrimos la naturaleza salvífica del sacrificio personal trazado en el misterio de la cruz, somos visitados por un sentir misterioso de paz y alegría."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ha llegado la hora en que los verdaderos creyentes, siguiendo fielmente las huellas del Maestro, dejen de obsesionarse con sus propios dolores personales para extender con generosidad los brazos, abrazar a una humanidad que sufre y hacer nuestras heridas suyas."
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "star": 45,
+      "title": "Cuadragésimo quinta Estrella: Misericordia",
+      "subtitle": null,
+      "videos": [],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Durante las últimas semanas y días de Su vida terrenal, Jesús tuvo que enfrentarse a la indiferencia, la hostilidad, la cobardía y la traición de los hombres. Las tormentas del odio se congregaban a Su alrededor, cercándolo con amenazas destructivas. Mientras el Señor caminaba hacia el altar de Su sacrificio, tenía razones humanas de sobra para experimentar amargura e indignación hacia la raza humana. Un crescendo incontenible de violencia se disponía a descargar toda su furia brutal sobre el Amor mismo."
+        },
+        {
+          "type": "paragraph",
+          "text": "¿Cuál fue la respuesta del Amor? Una unfatigable e insondable misericordia. Jesús no se retiró del escenario para alimentar resentimientos en secreto. Mientras Su propio pueblo —por el cual habría aceptado sufrir gustosamente mil muertes— lo trituraba con un rechazo absoluto, Su dolor jamás se centró en Sí mismo. En ningún instante de Su dolorosa Pasión estuvo Jesús replegado en Su propia herida, exigiendo consideraciones o reclamando derechos ante la humanidad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jamás lo encontramos arrojando sal sobre las llagas de Sus frustraciones ni complaciéndose en el amargo fruto de la autolástima; no actuó como si Su sufrimiento fuera la única realidad del universo, ni pretendió que la historia fuera juzgada basándose exclusivamente en Su desgracia personal. Aunque Él estaba en la orilla de la tormenta, vemos en los Evangelios que estaba completamente desprendido de sí mismo, atento siempre a las necesidades de los demás. Nosotros éramos la causa de Su tormento, y sin embargo, nosotros éramos Su única y absoluta preocupación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesús tuvo una palabra de advertencia mansa para el amigo que lo entregaba: «Judas, ¿con un beso entregas al Hijo del Hombre?» (Lucas 22,48). Manifestó preocupación para que Sus discípulos no sufrieran el mismo martirio: «Si me buscan a mí, dejen ir a estos» (Juan 18,8). En el preciso instante en que era aprendido para ser llevado al matadero, sanó con delicadeza la oreja derecha del siervo del Sumo Sacerdote (Lucas 22,51). A Pedro, desmoronado por su propia fragilidad, le dirigió una mirada de salvación y perdón (Lucas 22,61). Camino al Calvario, consoló con ternura a las mujeres que lloraban por Él (Lucas 23,28). Al buen ladrón que agonizaba a Su lado, le regaló las palabras que toda alma anhela escuchar al final de sus días: «En verdad te digo que hoy mismo estarás conmigo en el Paraíso» (Lucas 23,43)."
+        },
+        {
+          "type": "paragraph",
+          "text": "En el crisol de la agonía más profunda, tuvo un gesto de delicada protección filial, confiando a Su Madre al resguardo de Juan, el discípulo amado (Juan 19,26-27). Y en la cumbre del dolor físico y del desamparo espiritual en la Cruz, la mayor preocupación de Jesús fueron Sus propios verdugos: «Padre, perdónalos, porque no saben lo que hacen» (Lucas 23,34)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Por lo tanto, como imitadores de Aquel que habitó entre nosotros y entregó Su vida por nuestra redención, ¿con qué derecho podríamos negarnos a amar? ¿Y qué excusa legítima tendríamos para retener la misericordia hacia nuestros hermanos?"
+        }
+      ]
+    },
+    {
+      "day": 46,
+      "star": 46,
+      "title": "Cuadragésimo sexta Estrella: Temor de Dios",
+      "subtitle": "También llamado santo temor o reverencia - Uno de los siete dones del Espíritu Santo",
+      "videos": [
+        "semana_6_vicios"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Contempla por un instante el cielo, la patria celestial. Trae a tu memoria el momento más intensamente feliz que haya bendecido tu existencia terrenal, y multiplícalo por mil millones. Semejante destello en el tiempo no alcanzará a compararse jamás con el más leve roce del paraíso. Una vez ahí, te sentirás inundado de una paz y una alegría tan perfectas que tu único lenguaje será la sonrisa y la alabanza gozosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagina toda tu tristeza borrada para siempre, cada una de tus esperanzas colmada con creces, tus inquietudes respondidas y tus más puros deseos realizados en el acto. Jesús, María y todos los santos que te precedieron en la fe te saldrán al encuentro: aquellos que estudiaste y veneraste en la tierra y otros tantos que conocerás por primera vez. Te verás rodeado por las miríadas de almas que amaste y que te amaron con caridad auténtica. En comunión con ellas y escoltado por el coro de los ángeles y arcángeles, recorrerás el Reino eterno admirando las maravillas del Altísimo, comprendiendo plenamente el júbilo del Padre al contemplar Su obra de la creación."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visualiza cada bien verdadero que atesoraste en tu vida al alcance de tus manos. Imagina a cada criatura amándote con una ternura celestial. Contempla la eternidad viviendo con una salud inquebrantable y un gozo pleno. Imagina que cada sabor deslumbra tu paladar, cada percepción deleita tu ser y cada belleza que contemplas te embriaga de un asombro santo. Pondera lo que significa conocer la verdad absoluta y no experimentar nada más que el Amor divino; toda ruptura con uno mismo, con el prójimo y con la creación habrá desaparecido para siempre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visualiza una existencia así... y luego elévala un millón de veces más; e incluso entonces, tu mente humana será incapaz de concebir la magnitud de la gloria eterna. Imagina una multiplicación infinita de ese gozo, y aún estarás lejos de vislumbrar las alegrías del paraíso. Cada alma bienaventurada en el cielo es un espejo perfecto del amor inconmensurable de Dios; por eso, cuando tú y un habitante de la gloria se miren mutuamente, se verán cautivados por el Espíritu Santo, siendo elevados a un éxtasis aún mayor. Y justo cuando consideres que has alcanzado la plenitud del júbilo que tu alma es capaz de albergar, el Padre derramará más gracia sobre ti, transformándote en una luz deslumbrante que brillará con un fulgor siempre nuevo. Comprenderás entonces, con una certeza dichosa, que esta felicidad jamás tendrá fin; solo crecerá eternamente, porque el Padre posee un manantial inagotable de amor que se deleita en compartir con Sus hijos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mientras tomas de la mano a tus hermanos los santos y fijas la mirada en el esplendor de la Majestad Divina, tu espíritu estallará en un júbilo celestial. Al fundirse la luz de tu alma con la de quienes te rodean, cada espíritu se unirá en una comunión perfecta con el Creador, permitiéndote experimentar lo que jamás creíste posible. Inmerso en la visión beatífica, siendo uno con la Trinidad Santísima, sentirás todo el amor de la eternidad inundando tu ser por entero. Podrás contemplar y gozar absolutamente todas las obras buenas que han acontecido desde el principio de los tiempos, integrándote a cada pensamiento santo y a cada obra de caridad compartida por la humanidad y por los ángeles. Te fundirás en cada suspiro de amor que existió, existe y existirá... Y solo entonces comprenderás lo que el cielo verdaderamente es."
+        }
+      ]
+    }
+  ],
+  "final_consecration": {
+    "title": "Consagración Final",
+    "subtitle": "Oración de San Juan Pablo II a Nuestra Señora de Guadalupe",
+    "videos": [
+      "semana_7_modelo"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Acto de Consagración Total basado en la oración pronunciada por el Papa Juan Pablo II en la Basílica de Guadalupe en la Ciudad de México, el 30 de enero de 1979, durante su primer viaje apostólico como Pontífice."
+      },
+      {
+        "type": "prayer",
+        "text": "¡Oh Virgen Inmaculada, Madre del verdadero Dios y Madre de la Iglesia! Tú que desde este lugar manifiestas tu clemencia y tu compasión a todos los que solicitan tu amparo; escucha la oración que con filial confianza te dirigimos y preséntala ante tu Hijo Jesús, nuestro único Redentor.<br><br>Madre de la Misericordia, maestra del sacrificio escondido y silencioso, a ti, que sales al encuentro de nosotros, los pecadores, te consagramos en este día todo nuestro ser y todo nuestro amor. Te consagramos también nuestra vida, nuestro trabajo, nuestras alegrías, nuestras enfermedades y nuestras tristezas. Concede la paz, la justicia y la prosperidad a nuestros pueblos; ya que a tu cuidado confiamos todo lo que tenemos y todo lo que somos, Señora y Madre nuestra. Queremos ser totalmente tuyos y caminar contigo por el camino de una fidelidad plena a Jesucristo en Su Iglesia: no nos sueltes jamás de tu mano amorosa.<br><br>Virgen de Guadalupe, Madre de las Américas, te pedimos por todos los obispos, para que conduzcan a los fieles por senderos de una intensa vida cristiana, de amor y de humilde servicio a Dios y a las almas. Contempla esta inmensa mies e intercede para que el Señor infunda hambre de santidad en todo el Pueblo de Dios y otorgue abundantes vocaciones de sacerdotes y religiosos, fuertes en la fe y celosos dispensadores de los misterios de Dios.<br><br>Concede a nuestros hogares la gracia de amar y respetar la vida en sus comienzos, con el mismo amor con el que concebiste en tu seno la vida del Hijo de Dios. Virgen Santa María, protege a nuestras familias para que permanezcan siempre unidas, y bendice la educación de nuestros hijos.<br><br>Esperanza nuestra, míranos con compasión, enséñanos a ir continuamente a Jesús y, si caemos, ayúdanos a levantarnos, a retornar a Él mediante la confesión de nuestras culpas y pecados en el Sacramento de la Penitencia, que pacifica el alma.<br><br>Te rogamos que nos concedas un amor muy grande a todos los santos Sacramentos, que son como las huellas que tu Hijo nos dejó en la tierra. Así, Madre Santísima, con la paz de Dios en la conciencia, con el corazón libre de maldad y de odios, podremos llevar a todos la verdadera alegría y la verdadera paz, que vienen de tu Hijo, nuestro Señor Jesucristo, que con Dios Padre y el Espíritu Santo vive y reina por los siglos de los siglos. Amén."
+      }
+    ]
+  }
+}

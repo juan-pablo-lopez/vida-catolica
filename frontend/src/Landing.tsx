@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { LuBookOpen, LuChurch, LuLasso } from "react-icons/lu";
+import { LuBookOpen, LuChurch, LuLasso, LuSparkles } from "react-icons/lu";
 
 type Resource = {
   slug: string;
@@ -27,6 +27,12 @@ const RESOURCES: Resource[] = [
     titulo: "Santo Rosario",
     descripcion: "Misterios del día con guía completa.",
     icon: <LuLasso size={28} />,
+  },
+  {
+    slug: "manto",
+    titulo: "Manto de María",
+    descripcion: "Consagración mariana en 46 días.",
+    icon: <LuSparkles size={28} />,
   },
 ];
 

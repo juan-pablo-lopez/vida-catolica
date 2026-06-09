@@ -79,6 +79,7 @@ body {
 .verse-card h2,
 .detail-card h2 {
   margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
   font-weight: 400;
   color: #3b6ea8;
 }
@@ -689,4 +690,222 @@ input {
 .letania-cordero p {
   margin: 0 0 0.3rem 0;
   line-height: 1.45;
+}
+
+/* ── Manto de María ─────────────────────────────────────────── */
+
+.manto-home-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.manto-home-icon {
+  color: #3b6ea8;
+  flex-shrink: 0;
+}
+
+.manto-home-header h1 {
+  margin: 0;
+}
+
+.manto-rosario-hint {
+  margin: 0.25rem 0 1rem 0;
+  font-size: 0.82rem;
+  color: #61728c;
+  font-style: italic;
+}
+
+.manto-serie-completada {
+  margin: 0 0 1rem 0;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  background: #e8f0e6;
+  color: #2f5d2a;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.manto-star-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin: 0.25rem 0 0.75rem 0;
+}
+
+.manto-star {
+  background: none;
+  border: none;
+  padding: 0.2rem;
+  cursor: pointer;
+  font-size: 1.45rem;
+  color: #d1d9e0;
+  line-height: 1;
+  border-radius: 4px;
+  transition: color 0.15s ease, transform 0.1s ease;
+}
+
+.manto-star:hover {
+  transform: scale(1.2);
+  color: #f6c90e;
+}
+
+.manto-star.is-completed {
+  color: #f6c90e;
+}
+
+.manto-star.is-current {
+  color: #3b6ea8;
+}
+
+.manto-progress-label {
+  margin: 0 0 0 0;
+  font-size: 0.8rem;
+  color: #61728c;
+}
+
+/* MantoDay */
+
+.manto-day-subtitle {
+  margin: 0.2rem 0 0 0;
+  font-size: 0.82rem;
+  color: #61728c;
+}
+
+.manto-rosario-day-hint {
+  margin: 0 0 1rem 0;
+  font-size: 0.8rem;
+  color: #61728c;
+  font-style: italic;
+  border-bottom: 1px solid #eef2f6;
+  padding-bottom: 0.75rem;
+}
+
+.manto-special-section {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eef2f6;
+}
+
+.manto-special-section:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+.manto-special-section h3 {
+  margin: 0 0 0.5rem 0;
+  color: #1e3a5f;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.manto-special-subtitle {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.82rem;
+  color: #61728c;
+}
+
+.manto-videos {
+  margin-bottom: 0.75rem;
+}
+
+.manto-video-link {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.4rem;
+  color: #3b6ea8;
+  text-decoration: none;
+  font-size: 0.82rem;
+  margin-bottom: 0.4rem;
+  padding: 0.45rem 0.75rem;
+  background: #f0f4fa;
+  border-radius: 6px;
+  line-height: 1.35;
+}
+
+.manto-video-link svg {
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.manto-video-link:hover {
+  background: #dde8f5;
+}
+
+.manto-block {
+  margin-bottom: 0.85rem;
+}
+
+.manto-block p {
+  margin: 0 0 0.55rem 0;
+  line-height: 1.6;
+}
+
+.manto-block p:last-child {
+  margin-bottom: 0;
+}
+
+.manto-prayer p {
+  font-style: italic;
+  color: #2d4a6e;
+}
+
+.manto-scripture {
+  margin: 0.85rem 0;
+  padding: 0.65rem 1rem;
+  border-left: 3px solid #3b6ea8;
+  background: #f5f7fa;
+  border-radius: 0 6px 6px 0;
+}
+
+.manto-scripture p {
+  margin: 0 0 0.4rem 0;
+  font-style: italic;
+  color: #2d4a6e;
+  line-height: 1.55;
+}
+
+.manto-scripture p:last-of-type {
+  margin-bottom: 0;
+}
+
+.manto-scripture cite {
+  display: block;
+  font-size: 0.8rem;
+  color: #61728c;
+  font-style: normal;
+  margin-top: 0.45rem;
+}
+
+.manto-scripture cite a {
+  color: #3b6ea8;
+  text-decoration: none;
+}
+
+.manto-scripture cite a:hover {
+  text-decoration: underline;
+}
+
+.manto-reflection {
+  margin: 0.85rem 0;
+  padding: 0.65rem 1rem;
+  border-left: 3px solid #9a7d2e;
+  background: #faf8f0;
+  border-radius: 0 6px 6px 0;
+}
+
+.manto-reflection p {
+  margin: 0 0 0.5rem 0;
+  line-height: 1.6;
+}
+
+.manto-reflection p:last-child {
+  margin-bottom: 0;
+}
+
+.manto-completar-button {
+  width: 100%;
+  justify-content: center;
 }
