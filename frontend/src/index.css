@@ -176,6 +176,102 @@ input {
   border: 1px solid #ccc;
 }
 
+/* Select con búsqueda (combobox) */
+.searchable-select {
+  position: relative;
+}
+
+.searchable-select-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  text-align: left;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  color: inherit;
+  cursor: pointer;
+}
+
+.searchable-select-trigger:disabled {
+  background-color: #f3f3f3;
+  color: #999;
+  cursor: not-allowed;
+}
+
+.searchable-select-trigger:focus-visible {
+  outline: none;
+  border-color: #1e3a5f;
+  box-shadow: 0 0 0 3px rgba(30, 58, 95, 0.2);
+}
+
+.searchable-select-placeholder {
+  color: #999;
+}
+
+.searchable-select-chevron {
+  flex: 0 0 auto;
+  color: #1e3a5f;
+}
+
+.searchable-select-popup {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(30, 58, 95, 0.18);
+  overflow: hidden;
+}
+
+.searchable-select-search {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #eee;
+  border-radius: 0;
+  padding: 0.6rem 0.5rem;
+}
+
+.searchable-select-search:focus-visible {
+  outline: none;
+}
+
+.searchable-select-list {
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem;
+  max-height: 14rem;
+  overflow-y: auto;
+}
+
+.searchable-select-option {
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.searchable-select-option.is-highlighted {
+  background-color: rgba(30, 58, 95, 0.1);
+}
+
+.searchable-select-option.is-selected {
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+.searchable-select-empty {
+  padding: 0.6rem 0.5rem;
+  color: #999;
+  font-size: 0.9rem;
+}
+
 .card-actions {
   display: flex;
   justify-content: flex-end;

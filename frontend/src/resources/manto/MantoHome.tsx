@@ -1,7 +1,8 @@
 import { useNavigate, useLocation } from "react-router-dom";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { LuSparkles } from "react-icons/lu";
 import BackToLauncherButton from "../../shared/BackToLauncherButton";
+import InfoButton from "../../shared/InfoButton";
 import { proximoDia, ultimoCompletado } from "./mantoProgress";
 
 const TOTAL_DIAS = 46;
@@ -13,11 +14,7 @@ export default function MantoHome() {
     (location.state as { serieCompletada?: boolean } | null)?.serieCompletada
   );
 
-  const [ultimo, setUltimo] = useState<number>(0);
-
-  useEffect(() => {
-    setUltimo(ultimoCompletado());
-  }, []);
+  const [ultimo] = useState<number>(() => ultimoCompletado());
 
   const siguiente = proximoDia();
 
@@ -76,6 +73,11 @@ export default function MantoHome() {
             <span>Día {siguiente}</span>
           </button>
         </div>
+
+        <InfoButton
+          url="https://www.queenofpeacemedia.com/el-manto-de-maria/"
+          title="Fuente: El Manto de María — Queen of Peace Media"
+        />
       </div>
     </div>
   );

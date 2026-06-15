@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { LuBookOpen } from "react-icons/lu";
 import InfoButton from "../../shared/InfoButton";
 import BackToLauncherButton from "../../shared/BackToLauncherButton";
+import SearchableSelect from "../../shared/SearchableSelect";
 
 type BookIndexEntry = {
   libro: string;
@@ -44,7 +45,7 @@ export default function CitationForm() {
     e.preventDefault();
 
     // 1. Limpieza automática con Regex
-    let cleanVerses = versiculos
+    const cleanVerses = versiculos
       .replace(/--+/g, "-")      // No permite guiones dobles --
       .replace(/,,+/g, ",")      // No permite comas dobles ,,
       .replace(/[-,]+$/, "")     // Elimina comas o guiones al final del texto (ej: "1-3," -> "1-3")
@@ -70,35 +71,36 @@ export default function CitationForm() {
 
         <label>
           Libro
-          <select
+          <SearchableSelect
             value={libro}
-            onChange={e => {
-              setLibro(e.target.value);
+            onChange={value => {
+              setLibro(value);
               setCapitulo("1");
             }}
-          >
-            {books.map(b => (
-              <option key={b.slug} value={b.slug}>
-                {b.libro}
-              </option>
-            ))}
-          </select>
+            options={books.map(b => ({ value: b.slug, label: b.libro }))}
+            placeholder="Elige un libro"
+            searchPlaceholder="Buscar libro…"
+          />
         </label>
 
         <label>
           Capítulo
-          <select
+          <SearchableSelect
             value={capitulo}
-            onChange={e => setCapitulo(e.target.value)}
+            onChange={setCapitulo}
             disabled={!selectedBook}
-          >
-            {selectedBook &&
-              Array.from({ length: selectedBook.capitulos }, (_, i) => (
-                <option key={i + 1} value={i + 1}>
-                  {i + 1}
-                </option>
-              ))}
-          </select>
+            numeric
+            options={
+              selectedBook
+                ? Array.from({ length: selectedBook.capitulos }, (_, i) => ({
+                    value: String(i + 1),
+                    label: String(i + 1),
+                  }))
+                : []
+            }
+            placeholder="Capítulo"
+            searchPlaceholder="Buscar capítulo…"
+          />
         </label>
 
         <label>

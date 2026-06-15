@@ -1,8 +1,9 @@
 import { useNavigate, useLocation } from "react-router-dom";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { LuChurch } from "react-icons/lu";
 import BackToLauncherButton from "../../shared/BackToLauncherButton";
 import InfoButton from "../../shared/InfoButton";
+import SearchableSelect from "../../shared/SearchableSelect";
 import { proximaVisita } from "./visitaProgress";
 
 const TOTAL_VISITAS = 31;
@@ -14,11 +15,9 @@ export default function VisitaForm() {
     (location.state as { serieCompletada?: boolean } | null)?.serieCompletada
   );
 
-  const [visitaSeleccionada, setVisitaSeleccionada] = useState<number>(1);
-
-  useEffect(() => {
-    setVisitaSeleccionada(proximaVisita());
-  }, []);
+  const [visitaSeleccionada, setVisitaSeleccionada] = useState<number>(() =>
+    proximaVisita()
+  );
 
   const submit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -38,16 +37,17 @@ export default function VisitaForm() {
 
         <label>
           Número de visita
-          <select
-            value={visitaSeleccionada}
-            onChange={(e) => setVisitaSeleccionada(Number(e.target.value))}
-          >
-            {Array.from({ length: TOTAL_VISITAS }, (_, i) => (
-              <option key={i + 1} value={i + 1}>
-                {i + 1}
-              </option>
-            ))}
-          </select>
+          <SearchableSelect
+            value={String(visitaSeleccionada)}
+            onChange={(value) => setVisitaSeleccionada(Number(value))}
+            numeric
+            options={Array.from({ length: TOTAL_VISITAS }, (_, i) => ({
+              value: String(i + 1),
+              label: String(i + 1),
+            }))}
+            placeholder="Número de visita"
+            searchPlaceholder="Buscar número…"
+          />
         </label>
 
         <p className="visita-anchor-hint">

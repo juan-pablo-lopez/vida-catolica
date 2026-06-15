@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { LuArrowLeft, LuCheck, LuYoutube } from "react-icons/lu";
 import CopyLinkButton from "../../shared/CopyLinkButton";
 import QrCodeButton from "../../shared/QrCodeButton";
+import InfoButton from "../../shared/InfoButton";
 import { marcarCompletado } from "./mantoProgress";
 
 const TOTAL_DIAS = 46;
@@ -232,6 +233,10 @@ export default function MantoDay() {
             <CopyLinkButton />
             <QrCodeButton title={`Manto de María – Día ${reading.day}`} />
           </div>
+          <InfoButton
+            url="https://www.queenofpeacemedia.com/el-manto-de-maria/"
+            title="Fuente: El Manto de María — Queen of Peace Media"
+          />
         </div>
       </div>
     </div>
