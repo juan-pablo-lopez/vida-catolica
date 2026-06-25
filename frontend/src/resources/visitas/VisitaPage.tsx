@@ -140,8 +140,7 @@ export default function VisitaPage() {
               ))}
               {sec.jaculatoria && (
                 <p className="visita-jaculatoria">
-                  <span className="visita-jaculatoria-label">Jaculatoria:</span>
-                  {sec.jaculatoria}
+                  <span className="visita-jaculatoria-label">{sec.jaculatoria}</span>
                 </p>
               )}
             </section>

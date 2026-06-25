@@ -50,7 +50,7 @@
     },
     "intenciones-papa": {
       "titulo": "Por las intenciones del Santo Padre",
-      "intro": "Por las intenciones del Santo Padre, rezaremos un Padre Nuestro, un Avemaría y un Gloria.",
+      "intro": "Por las intenciones del Santo Padre y los sacerdotes de nuestra parroquia, rezaremos un Padre Nuestro, un Avemaría y un Gloria.",
       "role_intro": "guia",
       "rezos": ["padrenuestro", "avemaria", "gloria"]
     },
@@ -88,9 +88,13 @@
       "titulo": "Oración a San Miguel Arcángel",
       "texto": "San Miguel Arcángel, defiéndenos en la lucha. Sé nuestro amparo contra las perversidades y asechanzas del demonio. Que Dios manifieste sobre él su poder, es nuestra humilde súplica. Y tú, oh Príncipe de la Milicia Celestial, con el poder que Dios te ha conferido, arroja al infierno a Satanás, y a los demás espíritus malignos que vagan por el mundo para la perdición de las almas. Amén."
     },
+    "oh-madre": {
+      "titulo": "¡Oh señora mía, oh madre mía!",
+      "texto": "¡Oh señora mía, oh madre mía! Yo me ofrezco enteramente a ti. En prueba de mi filial afecto te consagro en esta noche y para siempre, mis ojos, mis oídos, mi lengua, mi corazón, en una palabra, todo mi ser. Ya que soy todo tuyo, oh madre de bondad, guárdame y defiéndeme como hijo y posesión tuya. Amén. "
+    },
     "dulce-madre": {
       "titulo": "Dulce Madre",
-      "texto": "Dulce madre, no te alejes, tu vista de nosotros no apartes, ven con nosotros a todas partes y solos nunca nos dejes. Ya que nos proteges tanto como verdadera madre, haz que nos bendiga el Padre, el Hijo, y el Espíritu Santo, amén."
+      "texto": "Dulce madre, no te alejes, tu vista de nosotros nunca apartes, ven con nosotros a todas partes y solos nunca nos dejes. Ya que nos proteges tanto como verdadera madre, haz que nos bendiga el Padre, el Hijo, y el Espíritu Santo, amén."
     }
   },
   "letanias": {

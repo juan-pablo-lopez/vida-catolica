@@ -267,6 +267,7 @@ export default function RosarioPage() {
             <h3>Después de las letanías</h3>
             <PrayerBlock oracion={o["oracion-final"]} />
             <PrayerBlock oracion={o["san-miguel"]} />
+            <PrayerBlock oracion={o["oh-madre"]} />
             <PrayerBlock oracion={o["dulce-madre"]} />
           </section>
         </div>
