@@ -2,7 +2,7 @@
   "oraciones": {
     "senal-cruz": {
       "titulo": "Señal de la Cruz",
-      "texto": "Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor Dios nuestro. En el nombre del Padre, del Hijo y del Espíritu Santo.",
+      "texto": "Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor Dios nuestro. En el nombre del Padre, del Hijo y del Espíritu Santo. Amén.",
       "role": "todos"
     },
     "abre-labios": {
@@ -24,8 +24,8 @@
       ]
     },
     "hijos": {
-      "titulo": "Oración por los Hijos",
-      "texto": "Señor: Hoy clamo por mis hijos. Sólo tú conoces sus luchas, su dolor y las cadenas que los atan. Rompe todo lazo que los aleje de ti, líbralos de las mala compañías, de la oscuridad que nubla sus mentes, y del vacío que los lleva a buscar consuelo donde solo hay destrucción. Ilumina sus corazones Señor, ábreles los ojos, llénalos de paz y dales la fuerza para renacer. No los sueltes. No los dejes solos. Y a mí, dame fe, esperanza, caridad, paciencia y paz para seguir orando hasta verlos libres en tus brazos. Amén. "
+      "titulo": "Oración por las Hijas",
+      "texto": "Señor: Hoy clamamos por nuestras hijas. Sólo tú conoces sus luchas, su dolor y las cadenas que las atan. Rompe todo lazo que las aleje de ti, líbralas de las malas compañías, de la oscuridad que nubla sus mentes, y del vacío que las lleva a buscar consuelo donde solo hay destrucción. Ilumina sus corazones Señor, ábreles los ojos, llénalas de paz y dales la fuerza para renacer. No las sueltes. No las dejes solas. Y a nosotros, danos fe, esperanza, caridad, paciencia y paz para seguir orando hasta verlas libres en tus brazos. Amén. "
     },
     "ofrecimiento": {
       "titulo": "Ofrecimiento",
