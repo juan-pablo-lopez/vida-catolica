@@ -337,7 +337,9 @@
       "star": 8,
       "title": "Octava Estrella: Perdón",
       "subtitle": null,
-      "videos": [],
+      "videos": [
+        "semana_2_rosario"
+      ],
       "content": [
         {
           "type": "paragraph",
@@ -566,7 +568,9 @@
       "star": 15,
       "title": "Decimoquinta Estrella: Fortaleza",
       "subtitle": "Una de las virtudes cardinales y uno de los siete dones del Espíritu Santo",
-      "videos": [],
+      "videos": [
+        "semana_3_ayuno"
+      ],
       "content": [
         {
           "type": "paragraph",
@@ -731,9 +735,7 @@
       "star": 20,
       "title": "Vigésima Estrella: Fe",
       "subtitle": "Una de las tres virtudes teologales",
-      "videos": [
-        "semana_2_rosario"
-      ],
+      "videos": [],
       "content": [
         {
           "type": "paragraph",
@@ -992,7 +994,9 @@
       "star": 29,
       "title": "Vigesimonovena Estrella: Desapego",
       "subtitle": null,
-      "videos": [],
+      "videos": [
+        "semana_5_confesion"
+      ],
       "content": [
         {
           "type": "paragraph",
@@ -1172,9 +1176,7 @@
       "star": 35,
       "title": "Trigésimo quinta Estrella: Entendimiento",
       "subtitle": "Uno de los siete dones del Espíritu Santo",
-      "videos": [
-        "semana_5_confesion"
-      ],
+      "videos": [],
       "content": [
         {
           "type": "paragraph",
@@ -1209,7 +1211,9 @@
       "star": 36,
       "title": "Trigésimo sexta Estrella: Prudencia",
       "subtitle": "Una de las cuatro virtudes cardinales",
-      "videos": [],
+      "videos": [
+        "semana_6_vicios"
+      ],
       "content": [
         {
           "type": "paragraph",
@@ -1454,7 +1458,9 @@
       "star": 43,
       "title": "Cuadragésimo tercera Estrella: Obediencia",
       "subtitle": null,
-      "videos": [],
+      "videos": [
+        "semana_7_modelo"
+      ],
       "content": [
         {
           "type": "paragraph",
@@ -1579,9 +1585,7 @@
       "star": 46,
       "title": "Cuadragésimo sexta Estrella: Temor de Dios",
       "subtitle": "También llamado santo temor o reverencia - Uno de los siete dones del Espíritu Santo",
-      "videos": [
-        "semana_6_vicios"
-      ],
+      "videos": [],
       "content": [
         {
           "type": "paragraph",
@@ -1609,9 +1613,7 @@
   "final_consecration": {
     "title": "Consagración Final",
     "subtitle": "Oración de San Juan Pablo II a Nuestra Señora de Guadalupe",
-    "videos": [
-      "semana_7_modelo"
-    ],
+    "videos": [],
     "content": [
       {
         "type": "paragraph",
