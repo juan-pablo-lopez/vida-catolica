@@ -25,7 +25,8 @@
     },
     "hijos": {
       "titulo": "Oración por las Hijas",
-      "texto": "Señor: Hoy clamamos por nuestras hijas. Sólo tú conoces sus luchas, su dolor y las cadenas que las atan. Rompe todo lazo que las aleje de ti, líbralas de las malas compañías, de la oscuridad que nubla sus mentes, y del vacío que las lleva a buscar consuelo donde solo hay destrucción. Ilumina sus corazones Señor, ábreles los ojos, llénalas de paz y dales la fuerza para renacer. No las sueltes. No las dejes solas. Y a nosotros, danos fe, esperanza, caridad, paciencia y paz para seguir orando hasta verlas libres en tus brazos. Amén. "
+      "texto": "Señor: Hoy clamamos por nuestras hijas. Sólo tú conoces sus luchas, su dolor y las cadenas que las atan. Rompe todo lazo que las aleje de ti, líbralas de las malas compañías, de la oscuridad que nubla sus mentes, y del vacío que las lleva a buscar consuelo donde solo hay destrucción. Ilumina sus corazones Señor, ábreles los ojos, llénalas de paz y dales la fuerza para renacer. No las sueltes. No las dejes solas. Y a nosotros, danos fe, esperanza, caridad, paciencia y paz para seguir orando hasta verlas libres en tus brazos. Amén.",
+      "role": "todos"
     },
     "ofrecimiento": {
       "titulo": "Ofrecimiento",
@@ -91,6 +92,10 @@
     "san-miguel": {
       "titulo": "Oración a San Miguel Arcángel",
       "texto": "San Miguel Arcángel, defiéndenos en la lucha. Sé nuestro amparo contra las perversidades y asechanzas del demonio. Que Dios manifieste sobre él su poder, es nuestra humilde súplica. Y tú, oh Príncipe de la Milicia Celestial, con el poder que Dios te ha conferido, arroja al infierno a Satanás, y a los demás espíritus malignos que vagan por el mundo para la perdición de las almas. Amén."
+    },
+    "angeles-custodios": {
+      "titulo": "Oración a los ángeles custodios",
+      "texto": "Gloriosos ángeles custodios de nuestras hijas, les suplicamos que extiendan sus alas protectoras sobre ellas. Cúbranlas con la luz del cielo, guien sus decisiones cuando estén lejos y sean su consuelo si tienen miedo. Pongan su mano sobre ellas y llévenlas siempre por senderos de paz. Amén."
     },
     "oh-madre": {
       "titulo": "¡Oh señora mía, oh madre mía!",
