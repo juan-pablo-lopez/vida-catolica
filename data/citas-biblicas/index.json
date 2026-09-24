@@ -2,366 +2,439 @@
   {
     "libro": "Génesis",
     "slug": "genesis",
+    "testamento": "A",
     "capitulos": 50
   },
   {
     "libro": "Éxodo",
     "slug": "exodo",
+    "testamento": "A",
     "capitulos": 40
   },
   {
     "libro": "Levítico",
     "slug": "levitico",
+    "testamento": "A",
     "capitulos": 27
   },
   {
     "libro": "Números",
     "slug": "numeros",
+    "testamento": "A",
     "capitulos": 36
   },
   {
     "libro": "Deuteronomio",
     "slug": "deuteronomio",
+    "testamento": "A",
     "capitulos": 34
   },
   {
     "libro": "Josué",
     "slug": "josue",
+    "testamento": "A",
     "capitulos": 24
   },
   {
     "libro": "Jueces",
     "slug": "jueces",
+    "testamento": "A",
     "capitulos": 21
   },
   {
     "libro": "1 Samuel",
     "slug": "1-samuel",
+    "testamento": "A",
     "capitulos": 31
   },
   {
     "libro": "2 Samuel",
     "slug": "2-samuel",
+    "testamento": "A",
     "capitulos": 24
   },
   {
     "libro": "1 Reyes",
     "slug": "1-reyes",
+    "testamento": "A",
     "capitulos": 22
   },
   {
     "libro": "2 Reyes",
     "slug": "2-reyes",
+    "testamento": "A",
     "capitulos": 25
   },
   {
     "libro": "1 Crónicas",
     "slug": "1-cronicas",
+    "testamento": "A",
     "capitulos": 29
   },
   {
     "libro": "2 Crónicas",
     "slug": "2-cronicas",
+    "testamento": "A",
     "capitulos": 36
   },
   {
     "libro": "Esdrás",
     "slug": "esdras",
+    "testamento": "A",
     "capitulos": 10
   },
   {
     "libro": "Nehemías",
     "slug": "nehemias",
+    "testamento": "A",
     "capitulos": 13
   },
   {
     "libro": "1 Macabeos",
     "slug": "1-macabeos",
+    "testamento": "A",
     "capitulos": 16
   },
   {
     "libro": "2 Macabeos",
     "slug": "2-macabeos",
+    "testamento": "A",
     "capitulos": 15
   },
   {
     "libro": "Isaías",
     "slug": "isaias",
+    "testamento": "A",
     "capitulos": 66
   },
   {
     "libro": "Jeremías",
     "slug": "jeremias",
+    "testamento": "A",
     "capitulos": 52
   },
   {
     "libro": "Ezequiel",
     "slug": "ezequiel",
+    "testamento": "A",
     "capitulos": 48
   },
   {
     "libro": "Oseas",
     "slug": "oseas",
+    "testamento": "A",
     "capitulos": 14
   },
   {
     "libro": "Joel",
     "slug": "joel",
+    "testamento": "A",
     "capitulos": 4
   },
   {
     "libro": "Amós",
     "slug": "amos",
+    "testamento": "A",
     "capitulos": 9
   },
   {
     "libro": "Abdías",
     "slug": "abdias",
+    "testamento": "A",
     "capitulos": 1
   },
   {
     "libro": "Jonás",
     "slug": "jonas",
+    "testamento": "A",
     "capitulos": 4
   },
   {
     "libro": "Miqueas",
     "slug": "miqueas",
+    "testamento": "A",
     "capitulos": 7
   },
   {
     "libro": "Nahún",
     "slug": "nahun",
+    "testamento": "A",
     "capitulos": 3
   },
   {
     "libro": "Habacuc",
     "slug": "habacuc",
+    "testamento": "A",
     "capitulos": 3
   },
   {
     "libro": "Sofonías",
     "slug": "sofonias",
+    "testamento": "A",
     "capitulos": 3
   },
   {
     "libro": "Ageo",
     "slug": "ageo",
+    "testamento": "A",
     "capitulos": 2
   },
   {
     "libro": "Zacarías",
     "slug": "zacarias",
+    "testamento": "A",
     "capitulos": 14
   },
   {
     "libro": "Malaquías",
     "slug": "malaquias",
+    "testamento": "A",
     "capitulos": 3
   },
   {
     "libro": "Daniel",
     "slug": "daniel",
+    "testamento": "A",
     "capitulos": 14
   },
   {
     "libro": "Job",
     "slug": "job",
+    "testamento": "A",
     "capitulos": 42
   },
   {
     "libro": "Proverbios",
     "slug": "proverbios",
+    "testamento": "A",
     "capitulos": 31
   },
   {
     "libro": "Eclesiastés",
     "slug": "eclesiastes",
+    "testamento": "A",
     "capitulos": 12
   },
   {
     "libro": "Cantar de los cantares",
     "slug": "cantar-de-los-cantares",
+    "testamento": "A",
     "capitulos": 8
   },
   {
     "libro": "Rut",
     "slug": "rut",
+    "testamento": "A",
     "capitulos": 4
   },
   {
     "libro": "Lamentaciones",
     "slug": "lamentaciones",
+    "testamento": "A",
     "capitulos": 5
   },
   {
     "libro": "Ester",
     "slug": "ester",
+    "testamento": "A",
     "capitulos": 10
   },
   {
     "libro": "Tobías",
     "slug": "tobias",
+    "testamento": "A",
     "capitulos": 14
   },
   {
     "libro": "Judit",
     "slug": "judit",
+    "testamento": "A",
     "capitulos": 16
   },
   {
     "libro": "Baruc",
     "slug": "baruc",
+    "testamento": "A",
     "capitulos": 6
   },
   {
     "libro": "Sabiduría",
     "slug": "sabiduria",
+    "testamento": "A",
     "capitulos": 19
   },
   {
     "libro": "Eclesiástico",
     "slug": "eclesiastico",
+    "testamento": "A",
     "capitulos": 51
   },
   {
     "libro": "Salmos",
     "slug": "salmos",
+    "testamento": "A",
     "capitulos": 150
   },
   {
     "libro": "Mateo",
     "slug": "mateo",
+    "testamento": "N",
     "capitulos": 28
   },
   {
     "libro": "Marcos",
     "slug": "marcos",
+    "testamento": "N",
     "capitulos": 16
   },
   {
     "libro": "Lucas",
     "slug": "lucas",
+    "testamento": "N",
     "capitulos": 24
   },
   {
     "libro": "Juan",
     "slug": "juan",
+    "testamento": "N",
     "capitulos": 21
   },
   {
     "libro": "Hechos de los apóstoles",
     "slug": "hechos-de-los-apostoles",
+    "testamento": "N",
     "capitulos": 28
   },
   {
     "libro": "Romanos",
     "slug": "romanos",
+    "testamento": "N",
     "capitulos": 16
   },
   {
     "libro": "1 Corintios",
     "slug": "1-corintios",
+    "testamento": "N",
     "capitulos": 16
   },
   {
     "libro": "2 Corintios",
     "slug": "2-corintios",
+    "testamento": "N",
     "capitulos": 13
   },
   {
     "libro": "Gálatas",
     "slug": "galatas",
+    "testamento": "N",
     "capitulos": 6
   },
   {
     "libro": "Efesios",
     "slug": "efesios",
+    "testamento": "N",
     "capitulos": 6
   },
   {
     "libro": "Filipenses",
     "slug": "filipenses",
+    "testamento": "N",
     "capitulos": 4
   },
   {
     "libro": "Colosenses",
     "slug": "colosenses",
+    "testamento": "N",
     "capitulos": 4
   },
   {
     "libro": "Filemón",
     "slug": "filemon",
+    "testamento": "N",
     "capitulos": 1
   },
   {
     "libro": "1 Tesalonicenses",
     "slug": "1-tesalonicenses",
+    "testamento": "N",
     "capitulos": 5
   },
   {
     "libro": "2 Tesalonicenses",
     "slug": "2-tesalonicenses",
+    "testamento": "N",
     "capitulos": 3
   },
   {
     "libro": "1 Timoteo",
     "slug": "1-timoteo",
+    "testamento": "N",
     "capitulos": 6
   },
   {
     "libro": "2 Timoteo",
     "slug": "2-timoteo",
+    "testamento": "N",
     "capitulos": 4
   },
   {
     "libro": "Tito",
     "slug": "tito",
+    "testamento": "N",
     "capitulos": 3
   },
   {
     "libro": "Hebreos",
     "slug": "hebreos",
+    "testamento": "N",
     "capitulos": 13
   },
   {
     "libro": "Santiago",
     "slug": "santiago",
+    "testamento": "N",
     "capitulos": 5
   },
   {
     "libro": "1 Pedro",
     "slug": "1-pedro",
+    "testamento": "N",
     "capitulos": 5
   },
   {
     "libro": "2 Pedro",
     "slug": "2-pedro",
+    "testamento": "N",
     "capitulos": 3
   },
   {
     "libro": "Judas",
     "slug": "judas",
+    "testamento": "N",
     "capitulos": 1
   },
   {
     "libro": "1 Juan",
     "slug": "1-juan",
+    "testamento": "N",
     "capitulos": 5
   },
   {
     "libro": "2 Juan",
     "slug": "2-juan",
+    "testamento": "N",
     "capitulos": 1
   },
   {
     "libro": "3 Juan",
     "slug": "3-juan",
+    "testamento": "N",
     "capitulos": 1
   },
   {
     "libro": "Apocalipsis",
     "slug": "apocalipsis",
+    "testamento": "N",
     "capitulos": 22
   }
 ]
