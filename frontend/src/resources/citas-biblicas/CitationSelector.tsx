@@ -69,6 +69,8 @@ export default function CitationSelector({
   const [bookQuery, setBookQuery] = useState("");
   const [chapterQuery, setChapterQuery] = useState("");
 
+  const isRestoringSelection = activeStep > 1 && !!libro && books.length === 0;
+
   const booksForTestamento = useMemo(() => {
     if (!testamento) return [];
 
@@ -137,6 +139,10 @@ export default function CitationSelector({
     onCapituloChange("");
     setActiveStep(3);
   };
+
+  if (isRestoringSelection) {
+    return null;
+  }
 
   return (
     <div className="citation-selector">
