@@ -163,7 +163,10 @@ export default function SearchableSelect({
                     (o.value === value ? " is-selected" : "")
                   }
                   onMouseEnter={() => setHighlight(i)}
-                  onClick={() => choose(o.value)}
+                  onPointerDown={(e) => {
+                    e.preventDefault();
+                    choose(o.value);
+                  }}
                 >
                   {o.label}
                 </li>

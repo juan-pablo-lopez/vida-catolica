@@ -1005,3 +1005,218 @@ input {
   width: 100%;
   justify-content: center;
 }
+
+/* Selector progresivo de citas bíblicas */
+
+.citation-selector {
+  margin-top: 1.25rem;
+}
+
+.citation-step {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+}
+
+.citation-step:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+.citation-step h2 {
+  margin: 0;
+  color: #1e3a5f;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.citation-step-help {
+  margin: 0.35rem 0 0.85rem;
+  color: #3b6ea8;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.citation-testament-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.citation-testament-card {
+  width: 100%;
+  min-height: 7rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+
+  border: 1px solid rgba(30, 58, 95, 0.2);
+  border-radius: 12px;
+  background: #f5f7fa;
+
+  color: #1e3a5f;
+  font-size: 1.05rem;
+  font-weight: 600;
+
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease,
+    transform 0.1s ease;
+}
+
+.citation-testament-card:hover {
+  background-color: #e7eef7;
+  border-color: rgba(30, 58, 95, 0.35);
+}
+
+.citation-testament-card:active {
+  transform: translateY(1px);
+}
+
+.citation-testament-card:focus-visible,
+.citation-book-card:focus-visible,
+.citation-chapter-button:focus-visible,
+.citation-change-button:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(30, 58, 95, 0.25);
+}
+
+.citation-card-icon {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.citation-search-wrapper {
+  margin-bottom: 0.75rem;
+}
+
+.citation-search-wrapper label {
+  margin: 0 0 0.3rem;
+  font-size: 0.85rem;
+  color: #61728c;
+}
+
+.citation-search-wrapper input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.citation-book-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.6rem;
+}
+
+.citation-book-card {
+  min-height: 3.75rem;
+  padding: 0.75rem 0.5rem;
+
+  border: 1px solid rgba(30, 58, 95, 0.18);
+  border-radius: 10px;
+  background: white;
+
+  color: #1e3a5f;
+  font-size: 0.95rem;
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+.citation-book-card:hover {
+  background-color: #f5f7fa;
+  border-color: rgba(30, 58, 95, 0.35);
+}
+
+.citation-chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem;
+}
+
+.citation-chapter-button {
+  min-height: 3.25rem;
+  padding: 0.5rem;
+
+  border: 1px solid rgba(30, 58, 95, 0.18);
+  border-radius: 8px;
+  background: white;
+
+  color: #1e3a5f;
+  font-size: 1rem;
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+.citation-chapter-button:hover {
+  background-color: #f5f7fa;
+}
+
+.citation-chapter-button.is-selected {
+  background-color: rgba(30, 58, 95, 0.08);
+  border-color: #3b6ea8;
+}
+
+.citation-no-results {
+  grid-column: 1 / -1;
+  margin: 0.5rem 0;
+  color: #61728c;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.citation-summary {
+  margin-top: 0.5rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #eef2f6;
+}
+
+.citation-summary-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.citation-summary-row > div {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.citation-summary-label {
+  color: #61728c;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.citation-summary strong {
+  color: #1e3a5f;
+  font-size: 0.95rem;
+}
+
+.citation-change-button {
+  flex-shrink: 0;
+  padding: 0.45rem 0.65rem;
+
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+
+  color: #3b6ea8;
+  font-size: 0.9rem;
+  font-weight: 600;
+
+  cursor: pointer;
+}
+
+.citation-change-button:hover {
+  background-color: rgba(59, 110, 168, 0.08);
+}
