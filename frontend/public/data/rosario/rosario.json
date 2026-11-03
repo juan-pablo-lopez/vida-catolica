@@ -24,8 +24,13 @@
       ]
     },
     "hijos": {
-      "titulo": "Oración por las Hijas",
+      "titulo": "Oración por nuestras Hijas",
       "texto": "Señor: Hoy clamamos por nuestras hijas. Sólo tú conoces sus luchas, su dolor y las cadenas que las atan. Rompe todo lazo que las aleje de ti, líbralas de las malas compañías, de la oscuridad que nubla sus mentes, y del vacío que las lleva a buscar consuelo donde solo hay destrucción. Ilumina sus corazones Señor, ábreles los ojos, llénalas de paz y dales la fuerza para renacer. No las sueltes. No las dejes solas. Y a nosotros, danos fe, esperanza, caridad, paciencia y paz para seguir orando hasta verlas libres en tus brazos. Amén.",
+      "role": "todos"
+    },
+    "consagracion-hijos": {
+      "titulo": "Consagración de nuestras Hijas",
+      "texto": "Madre Santísima: Toma a nuestras hijas, tómalas como tuyas, protégelas, guíalas, despiértalas. Nosotros las consagramos a tu Corazón Inmaculado para que nunca se pierdan, para que siempre tenga un camino de regreso a Jesús. Amén.",
       "role": "todos"
     },
     "ofrecimiento": {

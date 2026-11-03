@@ -233,6 +233,7 @@ export default function RosarioPage() {
             <PrayerBlock oracion={o["contricion"]} />
             <PrayerBlock oracion={o["espiritu-santo"]} />
             <PrayerBlock oracion={o["hijos"]} />
+            <PrayerBlock oracion={o["consagracion-hijos"]} />
             <PrayerBlock oracion={o["ofrecimiento"]} />
           </section>
 
